@@ -1,0 +1,101 @@
+titulo,genero,ano,duracion_min,rating_imdb,recaudacion_usd,costos_usd,studio,faltantes
+brokeback mountain,drama/romance,2005,134,7.7,178000000,14000000,focus features,0
+batman begins,action/crime,2005,140,8.2,373700000,150000000,warner bros.,0
+king kong,adventure/drama,2005,187,7.2,550000000,207000000,universal pictures,0
+walk the line,biography/drama,2005,136,7.8,186000000,28000000,20th century fox,0
+munich,history/drama,2005,164,7.5,130000000,70000000,universal pictures,0
+the departed,crime/drama,2006,151,8.5,291500000,90000000,warner bros.,0
+pan's labyrinth,fantasy/drama,2006,118,8.2,83000000,19000000,warner bros. pictures,0
+casino royale,action/adventure,2006,144,8.0,606000000,150000000,sony pictures,0
+little miss sunshine,comedy/drama,2006,101,7.8,100000000,8000000,fox searchlight,0
+the prestige,drama/mystery,2006,130,8.5,109700000,40000000,warner bros.,0
+no country for old men,crime/drama,2007,122,8.1,171600000,25000000,miramax/paramount vantage,0
+there will be blood,drama,2007,158,8.2,63300000,25000000,paramount vantage,0
+ratatouille,animation/family,2007,111,8.0,620700000,150000000,pixar/disney,0
+atonement,drama/romance,2007,123,7.8,129000000,30000000,focus features,0
+the bourne ultimatum,action/thriller,2007,115,8.0,442000000,110000000,universal pictures,0
+the dark knight,action/crime,2008,152,9.0,1004558444,185000000,warner bros.,0
+slumdog millionaire,drama/romance,2008,120,8.0,378000000,15000000,fox searchlight,0
+iron man,action/sci-fi,2008,126,7.9,585000000,140000000,paramount pictures/marvel,0
+walle,animation/family,2008,98,8.4,521000000,180000000,pixar/disney,0
+the curious case of benjamin button,drama/fantasy,2008,166,7.8,335000000,150000000,paramount pictures,0
+avatar,sci-fi/adventure,2009,162,7.8,2847246203,237000000,20th century fox,0
+up,animation/family,2009,96,8.2,735000000,175000000,pixar/disney,0
+inglourious basterds,war/drama,2009,153,8.3,321000000,70000000,universal pictures,0
+district 9,sci-fi/thriller,2009,112,7.9,210000000,30000000,tristar pictures,0
+inception,sci-fi/thriller,2010,148,8.8,836000000,160000000,warner bros.,0
+toy story 3,animation/family,2010,103,8.3,1067000000,200000000,pixar/disney,0
+black swan,drama/thriller,2010,108,8.0,329000000,13000000,fox searchlight,0
+shutter island,mystery/thriller,2010,138,8.2,294800000,80000000,paramount pictures,0
+harry potter and the deathly hallows  part 2,fantasy/adventure,2011,130,8.1,1340000000,250000000,warner bros.,0
+the artist,comedy/drama,2011,100,7.9,133400000,15000000,warner bros.,0
+drive,crime/drama,2011,100,7.8,48000000,15000000,filmdistrict/radius-twc,0
+the help,drama,2011,146,8.1,216000000,25000000,dreamworks/disney,0
+the avengers,action/sci-fi,2012,143,8.0,1518812988,220000000,marvel studios/disney,0
+skyfall,action/thriller,2012,143,7.8,1109000000,200000000,sony pictures/metro-goldwyn-mayer,0
+argo,drama/thriller,2012,120,7.7,232000000,44500000,warner bros.,0
+django unchained,drama/western,2012,165,8.4,425400000,100000000,the weinstein company,0
+life of pi,adventure/drama,2012,127,7.9,609000000,120000000,20th century fox,0
+gravity,sci-fi/thriller,2013,91,7.7,723000000,100000000,warner bros.,0
+12 years a slave,biography/drama,2013,134,8.1,187700000,20000000,fox searchlight,0
+frozen,animation/family,2013,102,7.5,1276000000,150000000,disney,0
+the wolf of wall street,biography/crime,2013,180,8.2,392000000,100000000,paramount pictures,0
+interstellar,sci-fi/adventure,2014,169,8.6,701000000,165000000,paramount pictures/warner bros.,0
+the grand budapest hotel,comedy/drama,2014,99,8.1,174000000,25000000,fox searchlight,0
+guardians of the galaxy,action/sci-fi,2014,121,8.0,773000000,170000000,marvel studios/disney,0
+whiplash,drama/music,2014,107,8.5,49000000,3300000,sony pictures classics,0
+mad max: fury road,action/adventure,2015,120,8.1,378900000,150000000,warner bros.,0
+the martian,sci-fi/adventure,2015,144,8.0,630000000,108000000,20th century fox,0
+inside out,animation/family,2015,95,8.2,857000000,175000000,pixar/disney,0
+star wars: the force awakens,action/adventure,2015,138,7.8,2068223624,245000000,disney/lucasfilm,0
+la la land,musical/romance,2016,128,8.0,446000000,30000000,lionsgate,0
+moonlight,drama,2016,111,7.4,65000000,4000000,a24,0
+arrival,sci-fi/drama,2016,116,7.9,203600000,47000000,paramount pictures,0
+zootopia,animation/family,2016,108,8.0,1024000000,150000000,disney,0
+rogue one: a star wars story,action/adventure,2016,133,7.8,1056000000,200000000,disney/lucasfilm,0
+get out,horror/thriller,2017,104,7.7,255400000,4500000,universal pictures,0
+dunkirk,war/drama,2017,106,7.9,526900000,100000000,warner bros.,0
+the shape of water,fantasy/drama,2017,123,7.3,195200000,20000000,fox searchlight,0
+blade runner 2049,sci-fi/drama,2017,164,8.0,259000000,150000000,warner bros./sony pictures,0
+wonder woman,action/adventure,2017,141,7.4,822000000,149000000,warner bros.,0
+black panther,action/sci-fi,2018,134,7.3,1347000000,200000000,marvel studios/disney,0
+a star is born,drama/romance,2018,136,7.6,436000000,36000000,warner bros.,0
+roma,drama,2018,135,7.7,120000000,15000000,netflix,0
+spider-man: into the spider-verse,animation/action,2018,117,8.4,384000000,90000000,sony pictures/columbia pictures,0
+avengers: infinity war,action/sci-fi,2018,149,8.4,2048000000,316000000,marvel studios/disney,0
+parasite,thriller/drama,2019,132,8.6,258800000,11400000,cj entertainment,0
+joker,crime/drama,2019,122,8.4,1074000000,55000000,warner bros.,0
+avengers: endgame,action/sci-fi,2019,181,8.4,2798000000,356000000,marvel studios/disney,0
+once upon a time in hollywood,comedy/drama,2019,161,7.6,374300000,90000000,sony pictures/columbia pictures,0
+1917,war/drama,2019,119,8.3,384900000,90000000,universal pictures,0
+tenet,action/sci-fi,2020,150,7.4,363600000,200000000,warner bros.,0
+soul,animation/family,2020,100,8.1,120000000,150000000,pixar/disney,0
+nomadland,drama,2020,108,7.4,39000000,5000000,searchlight pictures,0
+promising young woman,thriller/drama,2020,113,7.5,18000000,10000000,focus features,0
+dune,sci-fi/adventure,2021,155,8.0,401000000,165000000,warner bros.,0
+no time to die,action/thriller,2021,163,7.3,774000000,250000000,universal pictures/mgm,0
+spider-man: no way home,action/adventure,2021,148,8.3,1902000000,200000000,sony pictures/marvel,0
+top gun: maverick,action/drama,2022,131,8.4,1572000000,170000000,paramount pictures,0
+everything everywhere all at once,sci-fi/comedy,2022,139,8.0,141000000,14000000,a24/wayfare entertainment,0
+avatar: the way of water,sci-fi/adventure,2022,192,7.8,2360000000,350000000,20th century studios,0
+oppenheimer,biography/drama,2023,180,8.6,950000000,100000000,universal pictures,0
+barbie,comedy/fantasy,2023,115,7.3,1550000000,150000000,warner bros.,0
+john wick: chapter 4,action/thriller,2023,169,8.0,432000000,120000000,lionsgate,0
+spider-man: across the spider-verse,animation/action,2023,140,8.5,690000000,90000000,sony pictures/columbia pictures,0
+dune: part two,sci-fi/adventure,2024,155,7.4,650000000,200000000,warner bros.,0
+wonka,adventure/family,2024,115,6.8,360000000,125000000,warner bros.,0
+batman: the story,biography,2009,88,6.3,495687,125047537,fox searchlight,0
+mysterious man,thriller,2017,92,7.0,8933,201378158,focus features,0
+i like you like me,romance,2005,114,7.7,229147,108930424,sony pictures,0
+sad things happen,drama,2005,83,7.4,9700336,4331735,fox searchlight,0
+dude .. where's my nose,adventure,2011,83,7.1,76381,361000144,a24,0
+dude .. where's my mouth,animation,2012,109,7.5,761067,364178299,warner bros.,0
+don't look,horror,2018,92,6.1,99254,433719217,universal pictures,0
+why did you look,horror,2015,134,7.0,910229,123274608,disney,0
+love you kinda sorta,romance,2023,144,6.7,85336,227081267,pixar/disney,0
+travelling with grandma,adventure,2017,102,6.6,88278,352345536,pixar/disney,0
+fighting grandma,action,2016,136,7.5,108376,13402395,lionsgate,0
+me and fiance vs... grandma,romance,2016,83,6.9,3088,133352436,focus features,0
+grandma: why,biography,2023,130,7.4,16900,25710106,warner bros.,0
+grandma: cause yes,horror,2011,150,6.2,514014,246012779,focus features,0
+love in times of boredom,romance,2016,114,7.5,60914,230395205,lionsgate,0

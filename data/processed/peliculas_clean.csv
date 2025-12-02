@@ -1,0 +1,2490 @@
+indice_global,indice_estricto,titulo,director,ano,duracion,genero,rating,metascore,recaudacion(m),faltantes
+0,0.0,the shawshank redemption,frank darabont,1994.0,142.0,drama,9.3,82.0,28.34,0
+1,1.0,the godfather,francis ford coppola,1972.0,175.0,crimen,9.2,100.0,134.97,0
+2,1.0,the godfather,francis ford coppola,1972.0,175.0,drama,9.2,100.0,134.97,0
+3,2.0,the dark knight,christopher nolan,2008.0,152.0,accion,9.0,84.0,534.86,0
+4,2.0,the dark knight,christopher nolan,2008.0,152.0,crimen,9.0,84.0,534.86,0
+5,2.0,the dark knight,christopher nolan,2008.0,152.0,drama,9.0,84.0,534.86,0
+6,3.0,schindler's list,steven spielberg,1993.0,195.0,biografia,9.0,95.0,96.9,0
+7,3.0,schindler's list,steven spielberg,1993.0,195.0,drama,9.0,95.0,96.9,0
+8,3.0,schindler's list,steven spielberg,1993.0,195.0,historia,9.0,95.0,96.9,0
+9,4.0,12 angry men,sidney lumet,1957.0,96.0,crimen,9.0,97.0,4.36,0
+10,4.0,12 angry men,sidney lumet,1957.0,96.0,drama,9.0,97.0,4.36,0
+11,5.0,the lord of the rings: the return of the king,peter jackson,2003.0,201.0,accion,9.0,94.0,377.85,0
+12,5.0,the lord of the rings: the return of the king,peter jackson,2003.0,201.0,aventura,9.0,94.0,377.85,0
+13,5.0,the lord of the rings: the return of the king,peter jackson,2003.0,201.0,drama,9.0,94.0,377.85,0
+14,6.0,the godfather part ii,francis ford coppola,1974.0,202.0,crimen,9.0,90.0,57.3,0
+15,6.0,the godfather part ii,francis ford coppola,1974.0,202.0,drama,9.0,90.0,57.3,0
+16,7.0,spider-man: across the spider-verse,joaquim dos santos,2023.0,140.0,animacion,8.9,86.0,0.0,0
+17,7.0,spider-man: across the spider-verse,joaquim dos santos,2023.0,140.0,accion,8.9,86.0,0.0,0
+18,7.0,spider-man: across the spider-verse,joaquim dos santos,2023.0,140.0,aventura,8.9,86.0,0.0,0
+19,8.0,pulp fiction,quentin tarantino,1994.0,154.0,crimen,8.9,95.0,107.93,0
+20,8.0,pulp fiction,quentin tarantino,1994.0,154.0,drama,8.9,95.0,107.93,0
+21,9.0,inception,christopher nolan,2010.0,148.0,accion,8.8,74.0,292.58,0
+22,9.0,inception,christopher nolan,2010.0,148.0,aventura,8.8,74.0,292.58,0
+23,9.0,inception,christopher nolan,2010.0,148.0,ciencia ficcion,8.8,74.0,292.58,0
+24,10.0,the lord of the rings: the fellowship of the ring,peter jackson,2001.0,178.0,accion,8.8,92.0,315.54,0
+25,10.0,the lord of the rings: the fellowship of the ring,peter jackson,2001.0,178.0,aventura,8.8,92.0,315.54,0
+26,10.0,the lord of the rings: the fellowship of the ring,peter jackson,2001.0,178.0,drama,8.8,92.0,315.54,0
+27,11.0,fight club,david fincher,1999.0,139.0,drama,8.8,67.0,37.03,0
+28,12.0,forrest gump,robert zemeckis,1994.0,142.0,drama,8.8,82.0,330.25,0
+29,12.0,forrest gump,robert zemeckis,1994.0,142.0,romance,8.8,82.0,330.25,0
+32,14.0,the lord of the rings: the two towers,peter jackson,2002.0,179.0,accion,8.8,87.0,342.55,0
+33,14.0,the lord of the rings: the two towers,peter jackson,2002.0,179.0,aventura,8.8,87.0,342.55,0
+34,14.0,the lord of the rings: the two towers,peter jackson,2002.0,179.0,drama,8.8,87.0,342.55,0
+35,15.0,jai bhim,t.j. gnanavel,2021.0,164.0,crimen,8.8,0.0,0.0,0
+36,15.0,jai bhim,t.j. gnanavel,2021.0,164.0,drama,8.8,0.0,0.0,0
+37,15.0,jai bhim,t.j. gnanavel,2021.0,164.0,misterio,8.8,0.0,0.0,0
+38,16.0,777 charlie,kiranraj k,2022.0,164.0,aventura,8.8,0.0,0.0,0
+39,16.0,777 charlie,kiranraj k,2022.0,164.0,comedia,8.8,0.0,0.0,0
+40,16.0,777 charlie,kiranraj k,2022.0,164.0,drama,8.8,0.0,0.0,0
+41,17.0,interstellar,christopher nolan,2014.0,169.0,aventura,8.7,74.0,188.02,0
+42,17.0,interstellar,christopher nolan,2014.0,169.0,drama,8.7,74.0,188.02,0
+43,17.0,interstellar,christopher nolan,2014.0,169.0,ciencia ficcion,8.7,74.0,188.02,0
+44,18.0,goodfellas,martin scorsese,1990.0,145.0,biografia,8.7,92.0,46.84,0
+45,18.0,goodfellas,martin scorsese,1990.0,145.0,crimen,8.7,92.0,46.84,0
+46,18.0,goodfellas,martin scorsese,1990.0,145.0,drama,8.7,92.0,46.84,0
+47,19.0,the matrix,lana wachowski,1999.0,136.0,accion,8.7,73.0,171.48,0
+48,19.0,the matrix,lana wachowski,1999.0,136.0,ciencia ficcion,8.7,73.0,171.48,0
+49,20.0,one flew over the cuckoo's nest,milos forman,1975.0,133.0,drama,8.7,84.0,112.0,0
+50,21.0,star wars: episode v - the empire strikes back,irvin kershner,1980.0,124.0,accion,8.7,82.0,290.48,0
+51,21.0,star wars: episode v - the empire strikes back,irvin kershner,1980.0,124.0,aventura,8.7,82.0,290.48,0
+52,21.0,star wars: episode v - the empire strikes back,irvin kershner,1980.0,124.0,fantasia,8.7,82.0,290.48,0
+53,22.0,rocketry: the nambi effect,madhavan,2022.0,157.0,biografia,8.7,0.0,0.0,0
+54,22.0,rocketry: the nambi effect,madhavan,2022.0,157.0,drama,8.7,0.0,0.0,0
+55,23.0,soorarai pottru,sudha kongara,2020.0,153.0,accion,8.7,0.0,0.0,0
+56,23.0,soorarai pottru,sudha kongara,2020.0,153.0,drama,8.7,0.0,0.0,0
+57,24.0,the green mile,frank darabont,1999.0,189.0,crimen,8.6,61.0,136.8,0
+58,24.0,the green mile,frank darabont,1999.0,189.0,drama,8.6,61.0,136.8,0
+59,24.0,the green mile,frank darabont,1999.0,189.0,fantasia,8.6,61.0,136.8,0
+60,25.0,terminator 2: judgment day,james cameron,1991.0,137.0,accion,8.6,75.0,204.84,0
+61,25.0,terminator 2: judgment day,james cameron,1991.0,137.0,ciencia ficcion,8.6,75.0,204.84,0
+62,26.0,se7en,david fincher,1995.0,127.0,crimen,8.6,65.0,100.13,0
+63,26.0,se7en,david fincher,1995.0,127.0,drama,8.6,65.0,100.13,0
+64,26.0,se7en,david fincher,1995.0,127.0,misterio,8.6,65.0,100.13,0
+65,27.0,saving private ryan,steven spielberg,1998.0,169.0,drama,8.6,91.0,216.54,0
+66,27.0,saving private ryan,steven spielberg,1998.0,169.0,guerra,8.6,91.0,216.54,0
+67,28.0,the silence of the lambs,jonathan demme,1991.0,118.0,crimen,8.6,86.0,130.74,0
+68,28.0,the silence of the lambs,jonathan demme,1991.0,118.0,drama,8.6,86.0,130.74,0
+69,28.0,the silence of the lambs,jonathan demme,1991.0,118.0,thriller,8.6,86.0,130.74,0
+70,29.0,star wars: episode iv - a new hope,george lucas,1977.0,121.0,accion,8.6,90.0,322.74,0
+71,29.0,star wars: episode iv - a new hope,george lucas,1977.0,121.0,aventura,8.6,90.0,322.74,0
+72,29.0,star wars: episode iv - a new hope,george lucas,1977.0,121.0,fantasia,8.6,90.0,322.74,0
+73,30.0,spirited away,hayao miyazaki,2001.0,125.0,animacion,8.6,96.0,10.06,0
+74,30.0,spirited away,hayao miyazaki,2001.0,125.0,aventura,8.6,96.0,10.06,0
+75,30.0,spirited away,hayao miyazaki,2001.0,125.0,familiar,8.6,96.0,10.06,0
+76,31.0,city of god,fernando meirelles,2002.0,130.0,crimen,8.6,79.0,7.56,0
+77,31.0,city of god,fernando meirelles,2002.0,130.0,drama,8.6,79.0,7.56,0
+78,32.0,life is beautiful,roberto benigni,1997.0,116.0,comedia,8.6,59.0,57.6,0
+79,32.0,life is beautiful,roberto benigni,1997.0,116.0,drama,8.6,59.0,57.6,0
+80,32.0,life is beautiful,roberto benigni,1997.0,116.0,romance,8.6,59.0,57.6,0
+81,33.0,seven samurai,akira kurosawa,1954.0,207.0,accion,8.6,98.0,0.27,0
+82,33.0,seven samurai,akira kurosawa,1954.0,207.0,drama,8.6,98.0,0.27,0
+83,34.0,it's a wonderful life,frank capra,1946.0,130.0,drama,8.6,89.0,0.0,0
+84,34.0,it's a wonderful life,frank capra,1946.0,130.0,familiar,8.6,89.0,0.0,0
+85,34.0,it's a wonderful life,frank capra,1946.0,130.0,fantasia,8.6,89.0,0.0,0
+86,35.0,harakiri,masaki kobayashi,1962.0,133.0,accion,8.6,85.0,0.0,0
+87,35.0,harakiri,masaki kobayashi,1962.0,133.0,drama,8.6,85.0,0.0,0
+88,35.0,harakiri,masaki kobayashi,1962.0,133.0,misterio,8.6,85.0,0.0,0
+89,36.0,sita ramam,hanu raghavapudi,2022.0,163.0,accion,8.6,0.0,0.0,0
+90,36.0,sita ramam,hanu raghavapudi,2022.0,163.0,drama,8.6,0.0,0.0,0
+91,36.0,sita ramam,hanu raghavapudi,2022.0,163.0,misterio,8.6,0.0,0.0,0
+92,37.0,back to the future,robert zemeckis,1985.0,116.0,aventura,8.5,87.0,210.61,0
+93,37.0,back to the future,robert zemeckis,1985.0,116.0,comedia,8.5,87.0,210.61,0
+94,37.0,back to the future,robert zemeckis,1985.0,116.0,ciencia ficcion,8.5,87.0,210.61,0
+95,38.0,the departed,martin scorsese,2006.0,151.0,crimen,8.5,85.0,132.38,0
+96,38.0,the departed,martin scorsese,2006.0,151.0,drama,8.5,85.0,132.38,0
+97,38.0,the departed,martin scorsese,2006.0,151.0,thriller,8.5,85.0,132.38,0
+98,39.0,gladiator,ridley scott,2000.0,155.0,accion,8.5,67.0,187.71,0
+99,39.0,gladiator,ridley scott,2000.0,155.0,aventura,8.5,67.0,187.71,0
+100,39.0,gladiator,ridley scott,2000.0,155.0,drama,8.5,67.0,187.71,0
+101,40.0,alien,ridley scott,1979.0,117.0,terror,8.5,89.0,78.9,0
+102,40.0,alien,ridley scott,1979.0,117.0,ciencia ficcion,8.5,89.0,78.9,0
+103,41.0,parasite,bong joon ho,2019.0,132.0,drama,8.5,96.0,53.37,0
+104,41.0,parasite,bong joon ho,2019.0,132.0,thriller,8.5,96.0,53.37,0
+105,42.0,the prestige,christopher nolan,2006.0,130.0,drama,8.5,66.0,53.09,0
+106,42.0,the prestige,christopher nolan,2006.0,130.0,misterio,8.5,66.0,53.09,0
+107,42.0,the prestige,christopher nolan,2006.0,130.0,ciencia ficcion,8.5,66.0,53.09,0
+108,43.0,whiplash,damien chazelle,2014.0,106.0,drama,8.5,89.0,13.09,0
+109,43.0,whiplash,damien chazelle,2014.0,106.0,musica,8.5,89.0,13.09,0
+110,44.0,laon: the professional,luc besson,1994.0,110.0,accion,8.5,64.0,19.5,0
+111,44.0,laon: the professional,luc besson,1994.0,110.0,crimen,8.5,64.0,19.5,0
+112,44.0,laon: the professional,luc besson,1994.0,110.0,drama,8.5,64.0,19.5,0
+113,45.0,the lion king,roger allers,1994.0,88.0,animacion,8.5,88.0,422.78,0
+114,45.0,the lion king,roger allers,1994.0,88.0,aventura,8.5,88.0,422.78,0
+115,45.0,the lion king,roger allers,1994.0,88.0,drama,8.5,88.0,422.78,0
+116,46.0,the usual suspects,bryan singer,1995.0,106.0,crimen,8.5,77.0,23.34,0
+117,46.0,the usual suspects,bryan singer,1995.0,106.0,drama,8.5,77.0,23.34,0
+118,46.0,the usual suspects,bryan singer,1995.0,106.0,misterio,8.5,77.0,23.34,0
+119,47.0,casablanca,michael curtiz,1942.0,102.0,drama,8.5,100.0,1.02,0
+120,47.0,casablanca,michael curtiz,1942.0,102.0,romance,8.5,100.0,1.02,0
+121,47.0,casablanca,michael curtiz,1942.0,102.0,guerra,8.5,100.0,1.02,0
+122,48.0,american history x,tony kaye,1998.0,119.0,crimen,8.5,62.0,6.72,0
+123,48.0,american history x,tony kaye,1998.0,119.0,drama,8.5,62.0,6.72,0
+124,49.0,psycho,alfred hitchcock,1960.0,109.0,terror,8.5,97.0,32.0,0
+125,49.0,psycho,alfred hitchcock,1960.0,109.0,misterio,8.5,97.0,32.0,0
+126,49.0,psycho,alfred hitchcock,1960.0,109.0,thriller,8.5,97.0,32.0,0
+127,50.0,the pianist,roman polanski,2002.0,150.0,biografia,8.5,85.0,32.57,0
+128,50.0,the pianist,roman polanski,2002.0,150.0,drama,8.5,85.0,32.57,0
+129,50.0,the pianist,roman polanski,2002.0,150.0,musica,8.5,85.0,32.57,0
+130,51.0,the intouchables,olivier nakache,2011.0,112.0,biografia,8.5,57.0,13.18,0
+131,51.0,the intouchables,olivier nakache,2011.0,112.0,comedia,8.5,57.0,13.18,0
+132,51.0,the intouchables,olivier nakache,2011.0,112.0,drama,8.5,57.0,13.18,0
+133,52.0,once upon a time in the west,sergio leone,1968.0,165.0,western,8.5,82.0,5.32,0
+134,53.0,grave of the fireflies,isao takahata,1988.0,89.0,animacion,8.5,94.0,0.0,0
+135,53.0,grave of the fireflies,isao takahata,1988.0,89.0,drama,8.5,94.0,0.0,0
+136,53.0,grave of the fireflies,isao takahata,1988.0,89.0,guerra,8.5,94.0,0.0,0
+137,54.0,rear window,alfred hitchcock,1954.0,112.0,misterio,8.5,100.0,36.76,0
+138,54.0,rear window,alfred hitchcock,1954.0,112.0,thriller,8.5,100.0,36.76,0
+139,55.0,cinema paradiso,giuseppe tornatore,1988.0,155.0,drama,8.5,80.0,11.99,0
+140,55.0,cinema paradiso,giuseppe tornatore,1988.0,155.0,romance,8.5,80.0,11.99,0
+141,56.0,modern times,charles chaplin,1936.0,87.0,comedia,8.5,96.0,0.16,0
+142,56.0,modern times,charles chaplin,1936.0,87.0,drama,8.5,96.0,0.16,0
+143,56.0,modern times,charles chaplin,1936.0,87.0,romance,8.5,96.0,0.16,0
+144,57.0,city lights,charles chaplin,1931.0,87.0,comedia,8.5,99.0,0.02,0
+145,57.0,city lights,charles chaplin,1931.0,87.0,drama,8.5,99.0,0.02,0
+146,57.0,city lights,charles chaplin,1931.0,87.0,romance,8.5,99.0,0.02,0
+147,58.0,96,c. prem kumar,2018.0,158.0,drama,8.5,0.0,0.0,0
+148,58.0,96,c. prem kumar,2018.0,158.0,romance,8.5,0.0,0.0,0
+149,59.0,indiana jones and the raiders of the lost ark,steven spielberg,1981.0,115.0,accion,8.4,85.0,248.16,0
+150,59.0,indiana jones and the raiders of the lost ark,steven spielberg,1981.0,115.0,aventura,8.4,85.0,248.16,0
+151,60.0,spider-man: into the spider-verse,bob persichetti,2018.0,117.0,animacion,8.4,87.0,190.24,0
+152,60.0,spider-man: into the spider-verse,bob persichetti,2018.0,117.0,accion,8.4,87.0,190.24,0
+153,60.0,spider-man: into the spider-verse,bob persichetti,2018.0,117.0,aventura,8.4,87.0,190.24,0
+154,61.0,avengers: endgame,anthony russo,2019.0,181.0,accion,8.4,78.0,858.37,0
+155,61.0,avengers: endgame,anthony russo,2019.0,181.0,aventura,8.4,78.0,858.37,0
+156,61.0,avengers: endgame,anthony russo,2019.0,181.0,drama,8.4,78.0,858.37,0
+157,62.0,django unchained,quentin tarantino,2012.0,165.0,drama,8.4,81.0,162.81,0
+158,62.0,django unchained,quentin tarantino,2012.0,165.0,western,8.4,81.0,162.81,0
+159,63.0,apocalypse now,francis ford coppola,1979.0,147.0,drama,8.4,94.0,83.47,0
+160,63.0,apocalypse now,francis ford coppola,1979.0,147.0,misterio,8.4,94.0,83.47,0
+161,63.0,apocalypse now,francis ford coppola,1979.0,147.0,guerra,8.4,94.0,83.47,0
+162,64.0,aliens,james cameron,1986.0,137.0,accion,8.4,84.0,85.16,0
+163,64.0,aliens,james cameron,1986.0,137.0,aventura,8.4,84.0,85.16,0
+164,64.0,aliens,james cameron,1986.0,137.0,ciencia ficcion,8.4,84.0,85.16,0
+165,65.0,joker,todd phillips,2019.0,122.0,crimen,8.4,59.0,335.45,0
+166,65.0,joker,todd phillips,2019.0,122.0,drama,8.4,59.0,335.45,0
+167,65.0,joker,todd phillips,2019.0,122.0,thriller,8.4,59.0,335.45,0
+168,66.0,the dark knight rises,christopher nolan,2012.0,164.0,accion,8.4,78.0,448.14,0
+169,66.0,the dark knight rises,christopher nolan,2012.0,164.0,drama,8.4,78.0,448.14,0
+170,66.0,the dark knight rises,christopher nolan,2012.0,164.0,thriller,8.4,78.0,448.14,0
+171,67.0,avengers: infinity war,anthony russo,2018.0,149.0,accion,8.4,68.0,678.82,0
+172,67.0,avengers: infinity war,anthony russo,2018.0,149.0,aventura,8.4,68.0,678.82,0
+173,67.0,avengers: infinity war,anthony russo,2018.0,149.0,ciencia ficcion,8.4,68.0,678.82,0
+174,68.0,the shining,stanley kubrick,1980.0,146.0,drama,8.4,66.0,44.02,0
+175,68.0,the shining,stanley kubrick,1980.0,146.0,terror,8.4,66.0,44.02,0
+176,69.0,oldboy,park chan-wook,2003.0,120.0,accion,8.4,77.0,0.71,0
+177,69.0,oldboy,park chan-wook,2003.0,120.0,drama,8.4,77.0,0.71,0
+178,69.0,oldboy,park chan-wook,2003.0,120.0,misterio,8.4,77.0,0.71,0
+179,70.0,memento,christopher nolan,2000.0,113.0,misterio,8.4,83.0,25.54,0
+180,70.0,memento,christopher nolan,2000.0,113.0,thriller,8.4,83.0,25.54,0
+181,71.0,amadeus,milos forman,1984.0,160.0,biografia,8.4,88.0,51.97,0
+182,71.0,amadeus,milos forman,1984.0,160.0,drama,8.4,88.0,51.97,0
+183,71.0,amadeus,milos forman,1984.0,160.0,musica,8.4,88.0,51.97,0
+184,72.0,come and see,elem klimov,1985.0,142.0,drama,8.4,0.0,0.0,0
+185,72.0,come and see,elem klimov,1985.0,142.0,thriller,8.4,0.0,0.0,0
+186,72.0,come and see,elem klimov,1985.0,142.0,guerra,8.4,0.0,0.0,0
+187,73.0,coco,lee unkrich,2017.0,105.0,animacion,8.4,81.0,209.73,0
+188,73.0,coco,lee unkrich,2017.0,105.0,aventura,8.4,81.0,209.73,0
+189,73.0,coco,lee unkrich,2017.0,105.0,drama,8.4,81.0,209.73,0
+190,74.0,your name.,makoto shinkai,2016.0,106.0,animacion,8.4,81.0,5.02,0
+191,74.0,your name.,makoto shinkai,2016.0,106.0,drama,8.4,81.0,5.02,0
+192,74.0,your name.,makoto shinkai,2016.0,106.0,fantasia,8.4,81.0,5.02,0
+193,75.0,wallae,andrew stanton,2008.0,98.0,animacion,8.4,95.0,223.81,0
+194,75.0,wallae,andrew stanton,2008.0,98.0,aventura,8.4,95.0,223.81,0
+195,75.0,wallae,andrew stanton,2008.0,98.0,familiar,8.4,95.0,223.81,0
+196,76.0,3 idiots,rajkumar hirani,2009.0,170.0,comedia,8.4,67.0,6.53,0
+197,76.0,3 idiots,rajkumar hirani,2009.0,170.0,drama,8.4,67.0,6.53,0
+198,77.0,the lives of others,florian henckel von donnersmarck,2006.0,137.0,drama,8.4,89.0,11.29,0
+199,77.0,the lives of others,florian henckel von donnersmarck,2006.0,137.0,misterio,8.4,89.0,11.29,0
+200,77.0,the lives of others,florian henckel von donnersmarck,2006.0,137.0,thriller,8.4,89.0,11.29,0
+201,78.0,dr. strangelove or: how i learned to stop worrying and love the bomb,stanley kubrick,1964.0,95.0,comedia,8.4,97.0,0.28,0
+202,78.0,dr. strangelove or: how i learned to stop worrying and love the bomb,stanley kubrick,1964.0,95.0,guerra,8.4,97.0,0.28,0
+203,79.0,das boot,wolfgang petersen,1981.0,149.0,drama,8.4,86.0,11.49,0
+204,79.0,das boot,wolfgang petersen,1981.0,149.0,guerra,8.4,86.0,11.49,0
+205,80.0,capernaum,nadine labaki,2018.0,126.0,drama,8.4,75.0,1.66,0
+206,81.0,sunset blvd.,billy wilder,1950.0,110.0,drama,8.4,94.0,0.0,0
+207,81.0,sunset blvd.,billy wilder,1950.0,110.0,film-noir,8.4,94.0,0.0,0
+208,82.0,paths of glory,stanley kubrick,1957.0,88.0,drama,8.4,90.0,0.0,0
+209,82.0,paths of glory,stanley kubrick,1957.0,88.0,guerra,8.4,90.0,0.0,0
+210,83.0,witness for the prosecution,billy wilder,1957.0,116.0,crimen,8.4,76.0,8.18,0
+211,83.0,witness for the prosecution,billy wilder,1957.0,116.0,drama,8.4,76.0,8.18,0
+212,83.0,witness for the prosecution,billy wilder,1957.0,116.0,misterio,8.4,76.0,8.18,0
+213,84.0,the great dictator,charles chaplin,1940.0,125.0,comedia,8.4,0.0,0.29,0
+214,84.0,the great dictator,charles chaplin,1940.0,125.0,drama,8.4,0.0,0.29,0
+215,84.0,the great dictator,charles chaplin,1940.0,125.0,guerra,8.4,0.0,0.29,0
+216,85.0,high and low,akira kurosawa,1963.0,143.0,crimen,8.4,90.0,0.0,0
+217,85.0,high and low,akira kurosawa,1963.0,143.0,drama,8.4,90.0,0.0,0
+218,85.0,high and low,akira kurosawa,1963.0,143.0,misterio,8.4,90.0,0.0,0
+219,86.0,kaithi,lokesh kanagaraj,2019.0,145.0,accion,8.4,0.0,0.0,0
+220,86.0,kaithi,lokesh kanagaraj,2019.0,145.0,aventura,8.4,0.0,0.0,0
+221,86.0,kaithi,lokesh kanagaraj,2019.0,145.0,crimen,8.4,0.0,0.0,0
+222,87.0,sardar udham,shoojit sircar,2021.0,164.0,biografia,8.4,0.0,0.0,0
+223,87.0,sardar udham,shoojit sircar,2021.0,164.0,crimen,8.4,0.0,0.0,0
+224,87.0,sardar udham,shoojit sircar,2021.0,164.0,drama,8.4,0.0,0.0,0
+225,88.0,asuran,vetrimaaran,2019.0,141.0,accion,8.4,0.0,0.0,0
+226,88.0,asuran,vetrimaaran,2019.0,141.0,drama,8.4,0.0,0.0,0
+227,89.0,drishyam 2,jeethu joseph,2021.0,152.0,crimen,8.4,0.0,0.0,0
+228,89.0,drishyam 2,jeethu joseph,2021.0,152.0,drama,8.4,0.0,0.0,0
+229,89.0,drishyam 2,jeethu joseph,2021.0,152.0,thriller,8.4,0.0,0.0,0
+230,90.0,top gun: maverick,joseph kosinski,2022.0,130.0,accion,8.3,78.0,718.73,0
+231,90.0,top gun: maverick,joseph kosinski,2022.0,130.0,drama,8.3,78.0,718.73,0
+232,91.0,heat,michael mann,1995.0,170.0,accion,8.3,76.0,67.44,0
+233,91.0,heat,michael mann,1995.0,170.0,crimen,8.3,76.0,67.44,0
+234,91.0,heat,michael mann,1995.0,170.0,drama,8.3,76.0,67.44,0
+235,92.0,inglourious basterds,quentin tarantino,2009.0,153.0,aventura,8.3,69.0,120.54,0
+236,92.0,inglourious basterds,quentin tarantino,2009.0,153.0,drama,8.3,69.0,120.54,0
+237,92.0,inglourious basterds,quentin tarantino,2009.0,153.0,guerra,8.3,69.0,120.54,0
+238,93.0,full metal jacket,stanley kubrick,1987.0,116.0,drama,8.3,78.0,46.36,0
+239,93.0,full metal jacket,stanley kubrick,1987.0,116.0,guerra,8.3,78.0,46.36,0
+240,94.0,scarface,brian de palma,1983.0,170.0,crimen,8.3,65.0,45.6,0
+241,94.0,scarface,brian de palma,1983.0,170.0,drama,8.3,65.0,45.6,0
+242,95.0,american beauty,sam mendes,1999.0,122.0,drama,8.3,84.0,130.1,0
+243,96.0,requiem for a dream,darren aronofsky,2000.0,102.0,drama,8.3,71.0,3.64,0
+244,97.0,good will hunting,gus van sant,1997.0,126.0,drama,8.3,70.0,138.43,0
+245,97.0,good will hunting,gus van sant,1997.0,126.0,romance,8.3,70.0,138.43,0
+246,98.0,eternal sunshine of the spotless mind,michel gondry,2004.0,108.0,drama,8.3,89.0,34.4,0
+247,98.0,eternal sunshine of the spotless mind,michel gondry,2004.0,108.0,romance,8.3,89.0,34.4,0
+248,98.0,eternal sunshine of the spotless mind,michel gondry,2004.0,108.0,ciencia ficcion,8.3,89.0,34.4,0
+249,99.0,a clockwork orange,stanley kubrick,1971.0,136.0,crimen,8.3,77.0,6.21,0
+250,99.0,a clockwork orange,stanley kubrick,1971.0,136.0,ciencia ficcion,8.3,77.0,6.21,0
+251,100.0,vertigo,alfred hitchcock,1958.0,128.0,misterio,8.3,100.0,3.2,0
+252,100.0,vertigo,alfred hitchcock,1958.0,128.0,romance,8.3,100.0,3.2,0
+253,100.0,vertigo,alfred hitchcock,1958.0,128.0,thriller,8.3,100.0,3.2,0
+254,101.0,braveheart,mel gibson,1995.0,178.0,biografia,8.3,68.0,75.6,0
+255,101.0,braveheart,mel gibson,1995.0,178.0,drama,8.3,68.0,75.6,0
+256,101.0,braveheart,mel gibson,1995.0,178.0,historia,8.3,68.0,75.6,0
+257,102.0,2001: a space odyssey,stanley kubrick,1968.0,149.0,aventura,8.3,84.0,56.95,0
+258,102.0,2001: a space odyssey,stanley kubrick,1968.0,149.0,ciencia ficcion,8.3,84.0,56.95,0
+259,103.0,reservoir dogs,quentin tarantino,1992.0,99.0,crimen,8.3,81.0,2.83,0
+260,103.0,reservoir dogs,quentin tarantino,1992.0,99.0,thriller,8.3,81.0,2.83,0
+261,104.0,once upon a time in america,sergio leone,1984.0,229.0,crimen,8.3,75.0,5.32,0
+262,104.0,once upon a time in america,sergio leone,1984.0,229.0,drama,8.3,75.0,5.32,0
+263,105.0,the hunt,thomas vinterberg,2012.0,115.0,drama,8.3,77.0,0.69,0
+264,106.0,toy story,john lasseter,1995.0,81.0,animacion,8.3,96.0,191.8,0
+265,106.0,toy story,john lasseter,1995.0,81.0,aventura,8.3,96.0,191.8,0
+266,106.0,toy story,john lasseter,1995.0,81.0,comedia,8.3,96.0,191.8,0
+267,107.0,hamilton,thomas kail,2020.0,160.0,biografia,8.3,89.0,0.0,0
+268,107.0,hamilton,thomas kail,2020.0,160.0,drama,8.3,89.0,0.0,0
+269,107.0,hamilton,thomas kail,2020.0,160.0,historia,8.3,89.0,0.0,0
+270,108.0,up,pete docter,2009.0,96.0,animacion,8.3,88.0,293.0,0
+271,108.0,up,pete docter,2009.0,96.0,aventura,8.3,88.0,293.0,0
+272,108.0,up,pete docter,2009.0,96.0,comedia,8.3,88.0,293.0,0
+273,109.0,star wars: episode vi - return of the jedi,richard marquand,1983.0,131.0,accion,8.3,58.0,309.13,0
+274,109.0,star wars: episode vi - return of the jedi,richard marquand,1983.0,131.0,aventura,8.3,58.0,309.13,0
+275,109.0,star wars: episode vi - return of the jedi,richard marquand,1983.0,131.0,fantasia,8.3,58.0,309.13,0
+276,110.0,amalie,jean-pierre jeunet,2001.0,122.0,comedia,8.3,69.0,33.23,0
+277,110.0,amalie,jean-pierre jeunet,2001.0,122.0,romance,8.3,69.0,33.23,0
+278,111.0,incendies,denis villeneuve,2010.0,131.0,drama,8.3,80.0,6.86,0
+279,111.0,incendies,denis villeneuve,2010.0,131.0,misterio,8.3,80.0,6.86,0
+280,112.0,lawrence of arabia,david lean,1962.0,218.0,aventura,8.3,100.0,44.82,0
+281,112.0,lawrence of arabia,david lean,1962.0,218.0,biografia,8.3,100.0,44.82,0
+282,112.0,lawrence of arabia,david lean,1962.0,218.0,drama,8.3,100.0,44.82,0
+283,113.0,toy story 3,lee unkrich,2010.0,103.0,animacion,8.3,92.0,415.0,0
+284,113.0,toy story 3,lee unkrich,2010.0,103.0,aventura,8.3,92.0,415.0,0
+285,113.0,toy story 3,lee unkrich,2010.0,103.0,comedia,8.3,92.0,415.0,0
+286,114.0,princess mononoke,hayao miyazaki,1997.0,134.0,animacion,8.3,76.0,2.38,0
+287,114.0,princess mononoke,hayao miyazaki,1997.0,134.0,accion,8.3,76.0,2.38,0
+288,114.0,princess mononoke,hayao miyazaki,1997.0,134.0,aventura,8.3,76.0,2.38,0
+289,115.0,north by northwest,alfred hitchcock,1959.0,136.0,accion,8.3,98.0,13.28,0
+290,115.0,north by northwest,alfred hitchcock,1959.0,136.0,aventura,8.3,98.0,13.28,0
+291,115.0,north by northwest,alfred hitchcock,1959.0,136.0,misterio,8.3,98.0,13.28,0
+292,116.0,to kill a mockingbird,robert mulligan,1962.0,129.0,crimen,8.3,88.0,0.0,0
+293,116.0,to kill a mockingbird,robert mulligan,1962.0,129.0,drama,8.3,88.0,0.0,0
+294,117.0,citizen kane,orson welles,1941.0,119.0,drama,8.3,100.0,1.59,0
+295,117.0,citizen kane,orson welles,1941.0,119.0,misterio,8.3,100.0,1.59,0
+296,118.0,singin' in the rain,stanley donen,1952.0,103.0,comedia,8.3,99.0,8.82,0
+297,118.0,singin' in the rain,stanley donen,1952.0,103.0,musical,8.3,99.0,8.82,0
+298,118.0,singin' in the rain,stanley donen,1952.0,103.0,romance,8.3,99.0,8.82,0
+299,119.0,metropolis,fritz lang,1927.0,153.0,drama,8.3,98.0,1.24,0
+300,119.0,metropolis,fritz lang,1927.0,153.0,ciencia ficcion,8.3,98.0,1.24,0
+301,120.0,the sting,george roy hill,1973.0,129.0,comedia,8.3,83.0,159.6,0
+302,120.0,the sting,george roy hill,1973.0,129.0,crimen,8.3,83.0,159.6,0
+303,120.0,the sting,george roy hill,1973.0,129.0,drama,8.3,83.0,159.6,0
+304,121.0,a separation,asghar farhadi,2011.0,123.0,drama,8.3,95.0,7.1,0
+305,122.0,m,fritz lang,1931.0,99.0,crimen,8.3,0.0,0.03,0
+306,122.0,m,fritz lang,1931.0,99.0,misterio,8.3,0.0,0.03,0
+307,122.0,m,fritz lang,1931.0,99.0,thriller,8.3,0.0,0.03,0
+308,123.0,the apartment,billy wilder,1960.0,125.0,comedia,8.3,94.0,18.6,0
+309,123.0,the apartment,billy wilder,1960.0,125.0,drama,8.3,94.0,18.6,0
+310,123.0,the apartment,billy wilder,1960.0,125.0,romance,8.3,94.0,18.6,0
+311,124.0,dangal,nitesh tiwari,2016.0,161.0,accion,8.3,0.0,12.39,0
+312,124.0,dangal,nitesh tiwari,2016.0,161.0,biografia,8.3,0.0,12.39,0
+313,124.0,dangal,nitesh tiwari,2016.0,161.0,drama,8.3,0.0,12.39,0
+314,125.0,ikiru,akira kurosawa,1952.0,143.0,drama,8.3,92.0,0.06,0
+315,126.0,judgment at nuremberg,stanley kramer,1961.0,179.0,drama,8.3,60.0,0.0,0
+316,126.0,judgment at nuremberg,stanley kramer,1961.0,179.0,guerra,8.3,60.0,0.0,0
+317,127.0,kantara,rishab shetty,2022.0,148.0,accion,8.3,0.0,0.0,0
+318,127.0,kantara,rishab shetty,2022.0,148.0,aventura,8.3,0.0,0.0,0
+319,127.0,kantara,rishab shetty,2022.0,148.0,drama,8.3,0.0,0.0,0
+320,128.0,double indemnity,billy wilder,1944.0,107.0,crimen,8.3,95.0,5.72,0
+321,128.0,double indemnity,billy wilder,1944.0,107.0,drama,8.3,95.0,5.72,0
+322,128.0,double indemnity,billy wilder,1944.0,107.0,film-noir,8.3,95.0,5.72,0
+323,129.0,like stars on earth,aamir khan,2007.0,165.0,drama,8.3,0.0,1.22,0
+324,129.0,like stars on earth,aamir khan,2007.0,165.0,familiar,8.3,0.0,1.22,0
+325,130.0,bicycle thieves,vittorio de sica,1948.0,89.0,drama,8.3,0.0,0.33,0
+326,131.0,ayla: the daughter of war,can ulkay,2017.0,125.0,biografia,8.3,0.0,0.0,0
+327,131.0,ayla: the daughter of war,can ulkay,2017.0,125.0,drama,8.3,0.0,0.0,0
+328,131.0,ayla: the daughter of war,can ulkay,2017.0,125.0,historia,8.3,0.0,0.0,0
+329,132.0,k.g.f: chapter 2,prashanth neel,2022.0,168.0,accion,8.3,0.0,6.6,0
+330,132.0,k.g.f: chapter 2,prashanth neel,2022.0,168.0,crimen,8.3,0.0,6.6,0
+331,132.0,k.g.f: chapter 2,prashanth neel,2022.0,168.0,drama,8.3,0.0,6.6,0
+332,133.0,vikram,lokesh kanagaraj,2022.0,175.0,accion,8.3,0.0,0.0,0
+333,133.0,vikram,lokesh kanagaraj,2022.0,175.0,crimen,8.3,0.0,0.0,0
+334,133.0,vikram,lokesh kanagaraj,2022.0,175.0,thriller,8.3,0.0,0.0,0
+335,134.0,chhichhore,nitesh tiwari,2019.0,143.0,comedia,8.3,0.0,0.9,0
+336,134.0,chhichhore,nitesh tiwari,2019.0,143.0,drama,8.3,0.0,0.9,0
+337,134.0,chhichhore,nitesh tiwari,2019.0,143.0,romance,8.3,0.0,0.9,0
+338,135.0,the kid,charles chaplin,1921.0,68.0,comedia,8.3,0.0,5.45,0
+339,135.0,the kid,charles chaplin,1921.0,68.0,drama,8.3,0.0,5.45,0
+340,135.0,the kid,charles chaplin,1921.0,68.0,familiar,8.3,0.0,5.45,0
+341,136.0,shershaah,vishnuvardhan,2021.0,135.0,accion,8.3,0.0,0.0,0
+342,136.0,shershaah,vishnuvardhan,2021.0,135.0,biografia,8.3,0.0,0.0,0
+343,136.0,shershaah,vishnuvardhan,2021.0,135.0,drama,8.3,0.0,0.0,0
+344,137.0,raatchasan,ram kumar,2018.0,170.0,accion,8.3,0.0,0.0,0
+345,137.0,raatchasan,ram kumar,2018.0,170.0,crimen,8.3,0.0,0.0,0
+346,137.0,raatchasan,ram kumar,2018.0,170.0,drama,8.3,0.0,0.0,0
+347,138.0,drishyam,jeethu joseph,2013.0,160.0,crimen,8.3,0.0,0.0,0
+348,138.0,drishyam,jeethu joseph,2013.0,160.0,drama,8.3,0.0,0.0,0
+349,138.0,drishyam,jeethu joseph,2013.0,160.0,thriller,8.3,0.0,0.0,0
+350,139.0,guardians of the galaxy vol. 3,james gunn,2023.0,150.0,accion,8.2,64.0,0.0,0
+351,139.0,guardians of the galaxy vol. 3,james gunn,2023.0,150.0,aventura,8.2,64.0,0.0,0
+352,139.0,guardians of the galaxy vol. 3,james gunn,2023.0,150.0,comedia,8.2,64.0,0.0,0
+353,140.0,indiana jones and the last crusade,steven spielberg,1989.0,127.0,accion,8.2,65.0,197.17,0
+354,140.0,indiana jones and the last crusade,steven spielberg,1989.0,127.0,aventura,8.2,65.0,197.17,0
+355,141.0,the wolf of wall street,martin scorsese,2013.0,180.0,biografia,8.2,75.0,116.9,0
+356,141.0,the wolf of wall street,martin scorsese,2013.0,180.0,comedia,8.2,75.0,116.9,0
+357,141.0,the wolf of wall street,martin scorsese,2013.0,180.0,crimen,8.2,75.0,116.9,0
+358,142.0,spider-man: no way home,jon watts,2021.0,148.0,accion,8.2,71.0,804.75,0
+359,142.0,spider-man: no way home,jon watts,2021.0,148.0,aventura,8.2,71.0,804.75,0
+360,142.0,spider-man: no way home,jon watts,2021.0,148.0,fantasia,8.2,71.0,804.75,0
+361,143.0,there will be blood,paul thomas anderson,2007.0,158.0,drama,8.2,93.0,40.22,0
+362,144.0,jurassic park,steven spielberg,1993.0,127.0,accion,8.2,68.0,402.45,0
+363,144.0,jurassic park,steven spielberg,1993.0,127.0,aventura,8.2,68.0,402.45,0
+364,144.0,jurassic park,steven spielberg,1993.0,127.0,ciencia ficcion,8.2,68.0,402.45,0
+365,145.0,shutter island,martin scorsese,2010.0,138.0,misterio,8.2,63.0,128.01,0
+366,145.0,shutter island,martin scorsese,2010.0,138.0,thriller,8.2,63.0,128.01,0
+367,146.0,no country for old men,ethan coen,2007.0,122.0,crimen,8.2,92.0,74.28,0
+368,146.0,no country for old men,ethan coen,2007.0,122.0,drama,8.2,92.0,74.28,0
+369,146.0,no country for old men,ethan coen,2007.0,122.0,thriller,8.2,92.0,74.28,0
+370,147.0,the thing,john carpenter,1982.0,109.0,terror,8.2,57.0,13.78,0
+371,147.0,the thing,john carpenter,1982.0,109.0,misterio,8.2,57.0,13.78,0
+372,147.0,the thing,john carpenter,1982.0,109.0,ciencia ficcion,8.2,57.0,13.78,0
+373,148.0,batman begins,christopher nolan,2005.0,140.0,accion,8.2,70.0,206.85,0
+374,148.0,batman begins,christopher nolan,2005.0,140.0,crimen,8.2,70.0,206.85,0
+375,148.0,batman begins,christopher nolan,2005.0,140.0,drama,8.2,70.0,206.85,0
+376,149.0,taxi driver,martin scorsese,1976.0,114.0,crimen,8.2,94.0,28.26,0
+377,149.0,taxi driver,martin scorsese,1976.0,114.0,drama,8.2,94.0,28.26,0
+378,150.0,1917,sam mendes,2019.0,119.0,accion,8.2,78.0,159.23,0
+379,150.0,1917,sam mendes,2019.0,119.0,drama,8.2,78.0,159.23,0
+380,150.0,1917,sam mendes,2019.0,119.0,guerra,8.2,78.0,159.23,0
+381,151.0,casino,martin scorsese,1995.0,178.0,crimen,8.2,73.0,42.44,0
+382,151.0,casino,martin scorsese,1995.0,178.0,drama,8.2,73.0,42.44,0
+383,152.0,snatch,guy ritchie,2000.0,102.0,comedia,8.2,55.0,30.33,0
+384,152.0,snatch,guy ritchie,2000.0,102.0,crimen,8.2,55.0,30.33,0
+385,153.0,howl's moving castle,hayao miyazaki,2004.0,119.0,animacion,8.2,82.0,4.71,0
+386,153.0,howl's moving castle,hayao miyazaki,2004.0,119.0,aventura,8.2,82.0,4.71,0
+387,153.0,howl's moving castle,hayao miyazaki,2004.0,119.0,familiar,8.2,82.0,4.71,0
+388,154.0,unforgiven,clint eastwood,1992.0,130.0,drama,8.2,85.0,101.16,0
+389,154.0,unforgiven,clint eastwood,1992.0,130.0,western,8.2,85.0,101.16,0
+390,155.0,the truman show,peter weir,1998.0,103.0,comedia,8.2,90.0,125.62,0
+391,155.0,the truman show,peter weir,1998.0,103.0,drama,8.2,90.0,125.62,0
+392,156.0,green book,peter farrelly,2018.0,130.0,biografia,8.2,69.0,85.08,0
+393,156.0,green book,peter farrelly,2018.0,130.0,comedia,8.2,69.0,85.08,0
+394,156.0,green book,peter farrelly,2018.0,130.0,drama,8.2,69.0,85.08,0
+395,157.0,kill bill: vol. 1,quentin tarantino,2003.0,111.0,accion,8.2,69.0,70.1,0
+396,157.0,kill bill: vol. 1,quentin tarantino,2003.0,111.0,crimen,8.2,69.0,70.1,0
+397,157.0,kill bill: vol. 1,quentin tarantino,2003.0,111.0,thriller,8.2,69.0,70.1,0
+398,158.0,l.a. confidential,curtis hanson,1997.0,138.0,crimen,8.2,91.0,64.62,0
+399,158.0,l.a. confidential,curtis hanson,1997.0,138.0,drama,8.2,91.0,64.62,0
+400,158.0,l.a. confidential,curtis hanson,1997.0,138.0,misterio,8.2,91.0,64.62,0
+401,159.0,the sixth sense,m. night shyamalan,1999.0,107.0,drama,8.2,64.0,293.51,0
+402,159.0,the sixth sense,m. night shyamalan,1999.0,107.0,misterio,8.2,64.0,293.51,0
+403,159.0,the sixth sense,m. night shyamalan,1999.0,107.0,thriller,8.2,64.0,293.51,0
+404,160.0,finding nemo,andrew stanton,2003.0,100.0,animacion,8.2,90.0,380.84,0
+405,160.0,finding nemo,andrew stanton,2003.0,100.0,aventura,8.2,90.0,380.84,0
+406,160.0,finding nemo,andrew stanton,2003.0,100.0,comedia,8.2,90.0,380.84,0
+407,161.0,die hard,john mctiernan,1988.0,132.0,accion,8.2,72.0,83.01,0
+408,161.0,die hard,john mctiernan,1988.0,132.0,thriller,8.2,72.0,83.01,0
+409,162.0,a beautiful mind,ron howard,2001.0,135.0,biografia,8.2,72.0,170.74,0
+410,162.0,a beautiful mind,ron howard,2001.0,135.0,drama,8.2,72.0,170.74,0
+411,163.0,the father,florian zeller,2020.0,97.0,drama,8.2,88.0,0.0,0
+412,163.0,the father,florian zeller,2020.0,97.0,misterio,8.2,88.0,0.0,0
+413,164.0,downfall,oliver hirschbiegel,2004.0,156.0,biografia,8.2,82.0,5.51,0
+414,164.0,downfall,oliver hirschbiegel,2004.0,156.0,drama,8.2,82.0,5.51,0
+415,164.0,downfall,oliver hirschbiegel,2004.0,156.0,historia,8.2,82.0,5.51,0
+416,165.0,gone with the wind,victor fleming,1939.0,238.0,drama,8.2,97.0,198.68,0
+417,165.0,gone with the wind,victor fleming,1939.0,238.0,romance,8.2,97.0,198.68,0
+418,165.0,gone with the wind,victor fleming,1939.0,238.0,guerra,8.2,97.0,198.68,0
+419,166.0,chinatown,roman polanski,1974.0,130.0,drama,8.2,92.0,8.49,0
+420,166.0,chinatown,roman polanski,1974.0,130.0,misterio,8.2,92.0,8.49,0
+421,166.0,chinatown,roman polanski,1974.0,130.0,thriller,8.2,92.0,8.49,0
+422,167.0,v for vendetta,james mcteigue,2005.0,132.0,accion,8.2,62.0,70.51,0
+423,167.0,v for vendetta,james mcteigue,2005.0,132.0,drama,8.2,62.0,70.51,0
+424,167.0,v for vendetta,james mcteigue,2005.0,132.0,ciencia ficcion,8.2,62.0,70.51,0
+425,168.0,pan's labyrinth,guillermo del toro,2006.0,118.0,drama,8.2,98.0,37.63,0
+426,168.0,pan's labyrinth,guillermo del toro,2006.0,118.0,fantasia,8.2,98.0,37.63,0
+427,168.0,pan's labyrinth,guillermo del toro,2006.0,118.0,guerra,8.2,98.0,37.63,0
+428,169.0,the great escape,john sturges,1963.0,172.0,aventura,8.2,86.0,12.1,0
+429,169.0,the great escape,john sturges,1963.0,172.0,drama,8.2,86.0,12.1,0
+430,169.0,the great escape,john sturges,1963.0,172.0,historia,8.2,86.0,12.1,0
+431,170.0,some like it hot,billy wilder,1959.0,121.0,comedia,8.2,98.0,25.0,0
+432,170.0,some like it hot,billy wilder,1959.0,121.0,musica,8.2,98.0,25.0,0
+433,170.0,some like it hot,billy wilder,1959.0,121.0,romance,8.2,98.0,25.0,0
+434,171.0,monty python and the holy grail,terry gilliam,1975.0,91.0,aventura,8.2,91.0,1.23,0
+435,171.0,monty python and the holy grail,terry gilliam,1975.0,91.0,comedia,8.2,91.0,1.23,0
+436,171.0,monty python and the holy grail,terry gilliam,1975.0,91.0,fantasia,8.2,91.0,1.23,0
+437,172.0,the elephant man,david lynch,1980.0,124.0,biografia,8.2,78.0,0.0,0
+438,172.0,the elephant man,david lynch,1980.0,124.0,drama,8.2,78.0,0.0,0
+439,173.0,demon slayer the movie: mugen train,haruo sotozaki,2020.0,117.0,animacion,8.2,72.0,47.7,0
+440,173.0,demon slayer the movie: mugen train,haruo sotozaki,2020.0,117.0,accion,8.2,72.0,47.7,0
+441,173.0,demon slayer the movie: mugen train,haruo sotozaki,2020.0,117.0,aventura,8.2,72.0,47.7,0
+442,174.0,the secret in their eyes,juan josa campanella,2009.0,129.0,drama,8.2,80.0,6.39,0
+443,174.0,the secret in their eyes,juan josa campanella,2009.0,129.0,misterio,8.2,80.0,6.39,0
+444,174.0,the secret in their eyes,juan josa campanella,2009.0,129.0,romance,8.2,80.0,6.39,0
+445,175.0,for a few dollars more,sergio leone,1965.0,132.0,drama,8.2,74.0,15.0,0
+446,175.0,for a few dollars more,sergio leone,1965.0,132.0,western,8.2,74.0,15.0,0
+447,176.0,ran,akira kurosawa,1985.0,162.0,accion,8.2,97.0,4.14,0
+448,176.0,ran,akira kurosawa,1985.0,162.0,drama,8.2,97.0,4.14,0
+449,176.0,ran,akira kurosawa,1985.0,162.0,guerra,8.2,97.0,4.14,0
+450,177.0,klaus,sergio pablos,2019.0,96.0,animacion,8.2,65.0,0.0,0
+451,177.0,klaus,sergio pablos,2019.0,96.0,aventura,8.2,65.0,0.0,0
+452,177.0,klaus,sergio pablos,2019.0,96.0,comedia,8.2,65.0,0.0,0
+453,178.0,drishyam 2,abhishek pathak,2022.0,140.0,crimen,8.2,0.0,0.0,0
+454,178.0,drishyam 2,abhishek pathak,2022.0,140.0,drama,8.2,0.0,0.0,0
+455,178.0,drishyam 2,abhishek pathak,2022.0,140.0,misterio,8.2,0.0,0.0,0
+456,179.0,dial m for murder,alfred hitchcock,1954.0,105.0,crimen,8.2,75.0,0.01,0
+457,179.0,dial m for murder,alfred hitchcock,1954.0,105.0,thriller,8.2,75.0,0.01,0
+458,180.0,all about eve,joseph l. mankiewicz,1950.0,138.0,drama,8.2,98.0,0.01,0
+459,181.0,baahubali 2: the conclusion,s.s. rajamouli,2017.0,167.0,accion,8.2,0.0,20.19,0
+460,181.0,baahubali 2: the conclusion,s.s. rajamouli,2017.0,167.0,drama,8.2,0.0,20.19,0
+461,182.0,andhadhun,sriram raghavan,2018.0,139.0,crimen,8.2,0.0,1.37,0
+462,182.0,andhadhun,sriram raghavan,2018.0,139.0,misterio,8.2,0.0,1.37,0
+463,182.0,andhadhun,sriram raghavan,2018.0,139.0,thriller,8.2,0.0,1.37,0
+464,183.0,gangs of wasseypur,anurag kashyap,2012.0,321.0,accion,8.2,89.0,0.0,0
+465,183.0,gangs of wasseypur,anurag kashyap,2012.0,321.0,comedia,8.2,89.0,0.0,0
+466,183.0,gangs of wasseypur,anurag kashyap,2012.0,321.0,crimen,8.2,89.0,0.0,0
+467,184.0,rashomon,akira kurosawa,1950.0,88.0,crimen,8.2,98.0,0.1,0
+468,184.0,rashomon,akira kurosawa,1950.0,88.0,drama,8.2,98.0,0.1,0
+469,184.0,rashomon,akira kurosawa,1950.0,88.0,misterio,8.2,98.0,0.1,0
+470,185.0,the treasure of the sierra madre,john huston,1948.0,126.0,aventura,8.2,98.0,5.01,0
+471,185.0,the treasure of the sierra madre,john huston,1948.0,126.0,drama,8.2,98.0,5.01,0
+472,185.0,the treasure of the sierra madre,john huston,1948.0,126.0,western,8.2,98.0,5.01,0
+473,186.0,yojimbo,akira kurosawa,1961.0,110.0,accion,8.2,93.0,0.0,0
+474,186.0,yojimbo,akira kurosawa,1961.0,110.0,drama,8.2,93.0,0.0,0
+475,186.0,yojimbo,akira kurosawa,1961.0,110.0,thriller,8.2,93.0,0.0,0
+476,187.0,to be or not to be,ernst lubitsch,1942.0,99.0,comedia,8.2,86.0,0.0,0
+477,187.0,to be or not to be,ernst lubitsch,1942.0,99.0,romance,8.2,86.0,0.0,0
+478,187.0,to be or not to be,ernst lubitsch,1942.0,99.0,guerra,8.2,86.0,0.0,0
+479,188.0,drishyam,nishikant kamat,2015.0,163.0,crimen,8.2,0.0,0.74,0
+480,188.0,drishyam,nishikant kamat,2015.0,163.0,drama,8.2,0.0,0.74,0
+481,188.0,drishyam,nishikant kamat,2015.0,163.0,misterio,8.2,0.0,0.74,0
+482,189.0,tumbbad,rahi anil barve,2018.0,104.0,drama,8.2,0.0,0.0,0
+483,189.0,tumbbad,rahi anil barve,2018.0,104.0,fantasia,8.2,0.0,0.0,0
+484,189.0,tumbbad,rahi anil barve,2018.0,104.0,terror,8.2,0.0,0.0,0
+485,190.0,zindagi na milegi dobara,zoya akhtar,2011.0,155.0,comedia,8.2,0.0,3.11,0
+486,190.0,zindagi na milegi dobara,zoya akhtar,2011.0,155.0,drama,8.2,0.0,3.11,0
+487,190.0,zindagi na milegi dobara,zoya akhtar,2011.0,155.0,musical,8.2,0.0,3.11,0
+488,191.0,miracle in cell no. 7,mehmet ada aztekin,2019.0,132.0,drama,8.2,0.0,0.0,0
+489,192.0,pather panchali,satyajit ray,1955.0,125.0,drama,8.2,0.0,0.54,0
+490,193.0,z,costa-gavras,1969.0,127.0,crimen,8.2,86.0,0.08,0
+491,193.0,z,costa-gavras,1969.0,127.0,drama,8.2,86.0,0.08,0
+492,193.0,z,costa-gavras,1969.0,127.0,thriller,8.2,86.0,0.08,0
+493,194.0,tokyo story,yasujira  ozu,1953.0,136.0,drama,8.2,100.0,0.0,0
+494,195.0,children of heaven,majid majidi,1997.0,89.0,drama,8.2,77.0,0.93,0
+495,195.0,children of heaven,majid majidi,1997.0,89.0,familiar,8.2,77.0,0.93,0
+496,195.0,children of heaven,majid majidi,1997.0,89.0,deportes,8.2,77.0,0.93,0
+497,196.0,uri: the surgical strike,aditya dhar,2019.0,138.0,accion,8.2,0.0,4.19,0
+498,196.0,uri: the surgical strike,aditya dhar,2019.0,138.0,drama,8.2,0.0,4.19,0
+499,196.0,uri: the surgical strike,aditya dhar,2019.0,138.0,historia,8.2,0.0,4.19,0
+500,197.0,swades,ashutosh gowariker,2004.0,189.0,drama,8.2,0.0,1.22,0
+501,197.0,swades,ashutosh gowariker,2004.0,189.0,musical,8.2,0.0,1.22,0
+502,198.0,the wages of fear,henri-georges clouzot,1953.0,131.0,aventura,8.2,85.0,0.0,0
+503,198.0,the wages of fear,henri-georges clouzot,1953.0,131.0,drama,8.2,85.0,0.0,0
+504,198.0,the wages of fear,henri-georges clouzot,1953.0,131.0,thriller,8.2,85.0,0.0,0
+505,199.0,k.g.f: chapter 1,prashanth neel,2018.0,156.0,accion,8.2,0.0,0.0,0
+506,199.0,k.g.f: chapter 1,prashanth neel,2018.0,156.0,crimen,8.2,0.0,0.0,0
+507,199.0,k.g.f: chapter 1,prashanth neel,2018.0,156.0,drama,8.2,0.0,0.0,0
+508,200.0,the passion of joan of arc,carl theodor dreyer,1928.0,114.0,biografia,8.2,98.0,0.02,0
+509,200.0,the passion of joan of arc,carl theodor dreyer,1928.0,114.0,drama,8.2,98.0,0.02,0
+510,200.0,the passion of joan of arc,carl theodor dreyer,1928.0,114.0,historia,8.2,98.0,0.02,0
+511,201.0,my father and my son,aagan irmak,2005.0,112.0,drama,8.2,0.0,0.0,0
+512,201.0,my father and my son,aagan irmak,2005.0,112.0,familiar,8.2,0.0,0.0,0
+513,202.0,sherlock jr.,buster keaton,1924.0,45.0,accion,8.2,0.0,0.98,0
+514,202.0,sherlock jr.,buster keaton,1924.0,45.0,comedia,8.2,0.0,0.98,0
+515,202.0,sherlock jr.,buster keaton,1924.0,45.0,romance,8.2,0.0,0.98,0
+516,203.0,dersu uzala,akira kurosawa,1975.0,142.0,aventura,8.2,0.0,0.0,0
+517,203.0,dersu uzala,akira kurosawa,1975.0,142.0,biografia,8.2,0.0,0.0,0
+518,203.0,dersu uzala,akira kurosawa,1975.0,142.0,drama,8.2,0.0,0.0,0
+519,204.0,umberto d.,vittorio de sica,1952.0,89.0,drama,8.2,92.0,0.07,0
+520,205.0,vikram vedha,gayatri,2017.0,147.0,accion,8.2,0.0,0.0,0
+521,205.0,vikram vedha,gayatri,2017.0,147.0,crimen,8.2,0.0,0.0,0
+522,205.0,vikram vedha,gayatri,2017.0,147.0,drama,8.2,0.0,0.0,0
+523,206.0,paan singh tomar,tigmanshu dhulia,2012.0,135.0,accion,8.2,0.0,0.04,0
+524,206.0,paan singh tomar,tigmanshu dhulia,2012.0,135.0,biografia,8.2,0.0,0.04,0
+525,206.0,paan singh tomar,tigmanshu dhulia,2012.0,135.0,crimen,8.2,0.0,0.04,0
+526,207.0,rangasthalam 1985,sukumar,2018.0,170.0,accion,8.2,0.0,3.51,0
+527,207.0,rangasthalam 1985,sukumar,2018.0,170.0,drama,8.2,0.0,3.51,0
+528,208.0,bhaag milkha bhaag,rakeysh omprakash mehra,2013.0,186.0,biografia,8.2,0.0,1.63,0
+529,208.0,bhaag milkha bhaag,rakeysh omprakash mehra,2013.0,186.0,drama,8.2,0.0,1.63,0
+530,208.0,bhaag milkha bhaag,rakeysh omprakash mehra,2013.0,186.0,deportes,8.2,0.0,1.63,0
+531,209.0,jaws,steven spielberg,1975.0,124.0,aventura,8.1,87.0,260.0,0
+532,209.0,jaws,steven spielberg,1975.0,124.0,misterio,8.1,87.0,260.0,0
+533,209.0,jaws,steven spielberg,1975.0,124.0,thriller,8.1,87.0,260.0,0
+534,210.0,the grand budapest hotel,wes anderson,2014.0,99.0,aventura,8.1,88.0,59.1,0
+535,210.0,the grand budapest hotel,wes anderson,2014.0,99.0,comedia,8.1,88.0,59.1,0
+536,210.0,the grand budapest hotel,wes anderson,2014.0,99.0,crimen,8.1,88.0,59.1,0
+537,211.0,prisoners,denis villeneuve,2013.0,153.0,crimen,8.1,70.0,61.0,0
+538,211.0,prisoners,denis villeneuve,2013.0,153.0,drama,8.1,70.0,61.0,0
+539,211.0,prisoners,denis villeneuve,2013.0,153.0,misterio,8.1,70.0,61.0,0
+540,212.0,pirates of the caribbean: the curse of the black pearl,gore verbinski,2003.0,143.0,accion,8.1,63.0,305.41,0
+541,212.0,pirates of the caribbean: the curse of the black pearl,gore verbinski,2003.0,143.0,aventura,8.1,63.0,305.41,0
+542,212.0,pirates of the caribbean: the curse of the black pearl,gore verbinski,2003.0,143.0,fantasia,8.1,63.0,305.41,0
+543,213.0,blade runner,ridley scott,1982.0,117.0,accion,8.1,84.0,32.87,0
+544,213.0,blade runner,ridley scott,1982.0,117.0,drama,8.1,84.0,32.87,0
+545,213.0,blade runner,ridley scott,1982.0,117.0,ciencia ficcion,8.1,84.0,32.87,0
+546,214.0,the terminator,james cameron,1984.0,107.0,accion,8.1,84.0,38.4,0
+547,214.0,the terminator,james cameron,1984.0,107.0,ciencia ficcion,8.1,84.0,38.4,0
+548,215.0,mad max: fury road,george miller,2015.0,120.0,accion,8.1,90.0,154.06,0
+549,215.0,mad max: fury road,george miller,2015.0,120.0,aventura,8.1,90.0,154.06,0
+550,215.0,mad max: fury road,george miller,2015.0,120.0,ciencia ficcion,8.1,90.0,154.06,0
+551,216.0,gone girl,david fincher,2014.0,149.0,drama,8.1,79.0,167.77,0
+552,216.0,gone girl,david fincher,2014.0,149.0,misterio,8.1,79.0,167.77,0
+553,216.0,gone girl,david fincher,2014.0,149.0,thriller,8.1,79.0,167.77,0
+554,217.0,ford v ferrari,james mangold,2019.0,152.0,accion,8.1,81.0,117.62,0
+555,217.0,ford v ferrari,james mangold,2019.0,152.0,biografia,8.1,81.0,117.62,0
+556,217.0,ford v ferrari,james mangold,2019.0,152.0,drama,8.1,81.0,117.62,0
+557,218.0,the help,tate taylor,2011.0,146.0,drama,8.1,62.0,169.71,0
+558,219.0,logan,james mangold,2017.0,137.0,accion,8.1,77.0,226.28,0
+559,219.0,logan,james mangold,2017.0,137.0,drama,8.1,77.0,226.28,0
+560,219.0,logan,james mangold,2017.0,137.0,ciencia ficcion,8.1,77.0,226.28,0
+561,220.0,catch me if you can,steven spielberg,2002.0,141.0,biografia,8.1,75.0,164.62,0
+562,220.0,catch me if you can,steven spielberg,2002.0,141.0,crimen,8.1,75.0,164.62,0
+563,220.0,catch me if you can,steven spielberg,2002.0,141.0,drama,8.1,75.0,164.62,0
+564,221.0,the big lebowski,joel coen,1998.0,117.0,comedia,8.1,71.0,17.5,0
+565,221.0,the big lebowski,joel coen,1998.0,117.0,crimen,8.1,71.0,17.5,0
+566,222.0,hacksaw ridge,mel gibson,2016.0,139.0,biografia,8.1,71.0,67.21,0
+567,222.0,hacksaw ridge,mel gibson,2016.0,139.0,drama,8.1,71.0,67.21,0
+568,222.0,hacksaw ridge,mel gibson,2016.0,139.0,historia,8.1,71.0,67.21,0
+569,223.0,stand by me,rob reiner,1986.0,89.0,aventura,8.1,75.0,52.29,0
+570,223.0,stand by me,rob reiner,1986.0,89.0,drama,8.1,75.0,52.29,0
+571,224.0,ratatouille,brad bird,2007.0,111.0,animacion,8.1,96.0,206.45,0
+572,224.0,ratatouille,brad bird,2007.0,111.0,aventura,8.1,96.0,206.45,0
+573,224.0,ratatouille,brad bird,2007.0,111.0,comedia,8.1,96.0,206.45,0
+574,225.0,harry potter and the deathly hallows: part 2,david yates,2011.0,130.0,aventura,8.1,85.0,381.01,0
+575,225.0,harry potter and the deathly hallows: part 2,david yates,2011.0,130.0,familiar,8.1,85.0,381.01,0
+576,225.0,harry potter and the deathly hallows: part 2,david yates,2011.0,130.0,fantasia,8.1,85.0,381.01,0
+577,226.0,the exorcist,william friedkin,1973.0,122.0,terror,8.1,81.0,232.91,0
+578,227.0,inside out,pete docter,2015.0,95.0,animacion,8.1,94.0,356.46,0
+579,227.0,inside out,pete docter,2015.0,95.0,aventura,8.1,94.0,356.46,0
+580,227.0,inside out,pete docter,2015.0,95.0,comedia,8.1,94.0,356.46,0
+581,228.0,the handmaiden,park chan-wook,2016.0,145.0,drama,8.1,85.0,2.01,0
+582,228.0,the handmaiden,park chan-wook,2016.0,145.0,romance,8.1,85.0,2.01,0
+583,228.0,the handmaiden,park chan-wook,2016.0,145.0,thriller,8.1,85.0,2.01,0
+584,229.0,rocky,john g. avildsen,1976.0,120.0,drama,8.1,70.0,117.24,0
+585,229.0,rocky,john g. avildsen,1976.0,120.0,deportes,8.1,70.0,117.24,0
+586,230.0,on the waterfront,elia kazan,1954.0,108.0,crimen,8.1,91.0,9.6,0
+587,230.0,on the waterfront,elia kazan,1954.0,108.0,drama,8.1,91.0,9.6,0
+588,230.0,on the waterfront,elia kazan,1954.0,108.0,thriller,8.1,91.0,9.6,0
+589,231.0,fargo,joel coen,1996.0,98.0,crimen,8.1,86.0,24.61,0
+590,231.0,fargo,joel coen,1996.0,98.0,thriller,8.1,86.0,24.61,0
+591,232.0,trainspotting,danny boyle,1996.0,93.0,drama,8.1,83.0,16.5,0
+592,233.0,the wizard of oz,victor fleming,1939.0,102.0,aventura,8.1,92.0,2.08,0
+593,233.0,the wizard of oz,victor fleming,1939.0,102.0,familiar,8.1,92.0,2.08,0
+594,233.0,the wizard of oz,victor fleming,1939.0,102.0,fantasia,8.1,92.0,2.08,0
+598,235.0,dead poets society,peter weir,1989.0,128.0,comedia,8.1,79.0,95.86,0
+599,235.0,dead poets society,peter weir,1989.0,128.0,drama,8.1,79.0,95.86,0
+600,236.0,into the wild,sean penn,2007.0,148.0,aventura,8.1,73.0,18.35,0
+601,236.0,into the wild,sean penn,2007.0,148.0,biografia,8.1,73.0,18.35,0
+602,236.0,into the wild,sean penn,2007.0,148.0,drama,8.1,73.0,18.35,0
+603,237.0,the deer hunter,michael cimino,1978.0,183.0,drama,8.1,86.0,48.98,0
+604,237.0,the deer hunter,michael cimino,1978.0,183.0,guerra,8.1,86.0,48.98,0
+608,239.0,memories of murder,bong joon ho,2003.0,132.0,crimen,8.1,82.0,0.01,0
+609,239.0,memories of murder,bong joon ho,2003.0,132.0,drama,8.1,82.0,0.01,0
+610,239.0,memories of murder,bong joon ho,2003.0,132.0,misterio,8.1,82.0,0.01,0
+611,240.0,room,lenny abrahamson,2015.0,118.0,drama,8.1,86.0,14.68,0
+612,240.0,room,lenny abrahamson,2015.0,118.0,thriller,8.1,86.0,14.68,0
+613,241.0,before sunrise,richard linklater,1995.0,101.0,drama,8.1,77.0,5.54,0
+614,241.0,before sunrise,richard linklater,1995.0,101.0,romance,8.1,77.0,5.54,0
+615,242.0,rush,ron howard,2013.0,123.0,accion,8.1,74.0,26.95,0
+616,242.0,rush,ron howard,2013.0,123.0,biografia,8.1,74.0,26.95,0
+617,242.0,rush,ron howard,2013.0,123.0,drama,8.1,74.0,26.95,0
+618,243.0,12 years a slave,steve mcqueen,2013.0,134.0,biografia,8.1,96.0,56.67,0
+619,243.0,12 years a slave,steve mcqueen,2013.0,134.0,drama,8.1,96.0,56.67,0
+620,243.0,12 years a slave,steve mcqueen,2013.0,134.0,historia,8.1,96.0,56.67,0
+621,244.0,spotlight,tom mccarthy,2015.0,129.0,biografia,8.1,93.0,45.06,0
+622,244.0,spotlight,tom mccarthy,2015.0,129.0,crimen,8.1,93.0,45.06,0
+623,244.0,spotlight,tom mccarthy,2015.0,129.0,drama,8.1,93.0,45.06,0
+624,245.0,the sound of music,robert wise,1965.0,172.0,biografia,8.1,63.0,163.21,0
+625,245.0,the sound of music,robert wise,1965.0,172.0,drama,8.1,63.0,163.21,0
+626,245.0,the sound of music,robert wise,1965.0,172.0,familiar,8.1,63.0,163.21,0
+627,246.0,platoon,oliver stone,1986.0,120.0,drama,8.1,92.0,138.53,0
+628,246.0,platoon,oliver stone,1986.0,120.0,guerra,8.1,92.0,138.53,0
+629,247.0,how to train your dragon,dean deblois,2010.0,98.0,animacion,8.1,75.0,217.58,0
+630,247.0,how to train your dragon,dean deblois,2010.0,98.0,accion,8.1,75.0,217.58,0
+631,247.0,how to train your dragon,dean deblois,2010.0,98.0,aventura,8.1,75.0,217.58,0
+635,249.0,warrior,gavin o'connor,2011.0,140.0,accion,8.1,71.0,13.66,0
+636,249.0,warrior,gavin o'connor,2011.0,140.0,drama,8.1,71.0,13.66,0
+637,249.0,warrior,gavin o'connor,2011.0,140.0,deportes,8.1,71.0,13.66,0
+638,250.0,portrait of a lady on fire,caline sciamma,2019.0,122.0,drama,8.1,95.0,3.76,0
+639,251.0,gran torino,clint eastwood,2008.0,116.0,drama,8.1,72.0,148.1,0
+640,252.0,million dollar baby,clint eastwood,2004.0,132.0,drama,8.1,86.0,100.49,0
+641,252.0,million dollar baby,clint eastwood,2004.0,132.0,deportes,8.1,86.0,100.49,0
+642,253.0,barry lyndon,stanley kubrick,1975.0,185.0,aventura,8.1,89.0,0.0,0
+643,253.0,barry lyndon,stanley kubrick,1975.0,185.0,drama,8.1,89.0,0.0,0
+644,253.0,barry lyndon,stanley kubrick,1975.0,185.0,guerra,8.1,89.0,0.0,0
+645,254.0,in the mood for love,kar-wai wong,2000.0,98.0,drama,8.1,87.0,2.73,0
+646,254.0,in the mood for love,kar-wai wong,2000.0,98.0,romance,8.1,87.0,2.73,0
+647,255.0,la haine,mathieu kassovitz,1995.0,98.0,crimen,8.1,0.0,0.31,0
+648,255.0,la haine,mathieu kassovitz,1995.0,98.0,drama,8.1,0.0,0.31,0
+649,256.0,hachi: a dog's tale,lasse hallstram,2009.0,93.0,biografia,8.1,0.0,0.0,0
+650,256.0,hachi: a dog's tale,lasse hallstram,2009.0,93.0,drama,8.1,0.0,0.0,0
+651,256.0,hachi: a dog's tale,lasse hallstram,2009.0,93.0,familiar,8.1,0.0,0.0,0
+652,257.0,my neighbor totoro,hayao miyazaki,1988.0,86.0,animacion,8.1,86.0,1.11,0
+653,257.0,my neighbor totoro,hayao miyazaki,1988.0,86.0,comedia,8.1,86.0,1.11,0
+654,257.0,my neighbor totoro,hayao miyazaki,1988.0,86.0,familiar,8.1,86.0,1.11,0
+655,258.0,raging bull,martin scorsese,1980.0,129.0,biografia,8.1,90.0,23.38,0
+656,258.0,raging bull,martin scorsese,1980.0,129.0,drama,8.1,90.0,23.38,0
+657,258.0,raging bull,martin scorsese,1980.0,129.0,deportes,8.1,90.0,23.38,0
+658,259.0,cool hand luke,stuart rosenberg,1967.0,127.0,crimen,8.1,92.0,16.22,0
+659,259.0,cool hand luke,stuart rosenberg,1967.0,127.0,drama,8.1,92.0,16.22,0
+660,260.0,the iron giant,brad bird,1999.0,86.0,animacion,8.1,85.0,23.16,0
+661,260.0,the iron giant,brad bird,1999.0,86.0,accion,8.1,85.0,23.16,0
+662,260.0,the iron giant,brad bird,1999.0,86.0,aventura,8.1,85.0,23.16,0
+663,261.0,wild tales,damian szifron,2014.0,122.0,comedia,8.1,77.0,3.11,0
+664,261.0,wild tales,damian szifron,2014.0,122.0,drama,8.1,77.0,3.11,0
+665,261.0,wild tales,damian szifron,2014.0,122.0,thriller,8.1,77.0,3.11,0
+666,262.0,before sunset,richard linklater,2004.0,80.0,drama,8.1,91.0,5.82,0
+667,262.0,before sunset,richard linklater,2004.0,80.0,romance,8.1,91.0,5.82,0
+668,263.0,stalker,andrei tarkovsky,1979.0,162.0,drama,8.1,85.0,0.23,0
+669,263.0,stalker,andrei tarkovsky,1979.0,162.0,ciencia ficcion,8.1,85.0,0.23,0
+670,264.0,a silent voice: the movie,naoko yamada,2016.0,130.0,animacion,8.1,78.0,0.0,0
+671,264.0,a silent voice: the movie,naoko yamada,2016.0,130.0,drama,8.1,78.0,0.0,0
+672,265.0,network,sidney lumet,1976.0,121.0,drama,8.1,83.0,0.0,0
+673,266.0,ben-hur,william wyler,1959.0,212.0,aventura,8.1,90.0,74.7,0
+674,266.0,ben-hur,william wyler,1959.0,212.0,drama,8.1,90.0,74.7,0
+676,268.0,the seventh seal,ingmar bergman,1957.0,96.0,drama,8.1,88.0,0.0,0
+677,268.0,the seventh seal,ingmar bergman,1957.0,96.0,fantasia,8.1,88.0,0.0,0
+678,269.0,the bridge on the river kwai,david lean,1957.0,161.0,aventura,8.1,87.0,44.91,0
+679,269.0,the bridge on the river kwai,david lean,1957.0,161.0,drama,8.1,87.0,44.91,0
+680,269.0,the bridge on the river kwai,david lean,1957.0,161.0,guerra,8.1,87.0,44.91,0
+681,270.0,persona,ingmar bergman,1966.0,83.0,drama,8.1,86.0,0.0,0
+682,270.0,persona,ingmar bergman,1966.0,83.0,thriller,8.1,86.0,0.0,0
+683,271.0,in the name of the father,jim sheridan,1993.0,133.0,biografia,8.1,84.0,25.01,0
+684,271.0,in the name of the father,jim sheridan,1993.0,133.0,crimen,8.1,84.0,25.01,0
+685,271.0,in the name of the father,jim sheridan,1993.0,133.0,drama,8.1,84.0,25.01,0
+686,272.0,hotel rwanda,terry george,2004.0,121.0,biografia,8.1,79.0,23.53,0
+687,272.0,hotel rwanda,terry george,2004.0,121.0,drama,8.1,79.0,23.53,0
+688,272.0,hotel rwanda,terry george,2004.0,121.0,historia,8.1,79.0,23.53,0
+689,273.0,amores perros,alejandro g. iaarritu,2000.0,154.0,drama,8.1,83.0,5.38,0
+690,273.0,amores perros,alejandro g. iaarritu,2000.0,154.0,thriller,8.1,83.0,5.38,0
+691,274.0,the message,moustapha akkad,1976.0,177.0,biografia,8.1,0.0,0.0,0
+692,274.0,the message,moustapha akkad,1976.0,177.0,drama,8.1,0.0,0.0,0
+693,274.0,the message,moustapha akkad,1976.0,177.0,historia,8.1,0.0,0.0,0
+694,275.0,rebecca,alfred hitchcock,1940.0,130.0,drama,8.1,86.0,4.36,0
+695,275.0,rebecca,alfred hitchcock,1940.0,130.0,film-noir,8.1,86.0,4.36,0
+696,275.0,rebecca,alfred hitchcock,1940.0,130.0,misterio,8.1,86.0,4.36,0
+697,276.0,neon genesis evangelion: the end of evangelion,hideaki anno,1997.0,87.0,animacion,8.1,0.0,0.0,0
+698,276.0,neon genesis evangelion: the end of evangelion,hideaki anno,1997.0,87.0,accion,8.1,0.0,0.0,0
+699,276.0,neon genesis evangelion: the end of evangelion,hideaki anno,1997.0,87.0,drama,8.1,0.0,0.0,0
+700,277.0,the man who shot liberty valance,john ford,1962.0,123.0,drama,8.1,94.0,0.0,0
+701,277.0,the man who shot liberty valance,john ford,1962.0,123.0,western,8.1,94.0,0.0,0
+702,278.0,inherit the wind,stanley kramer,1960.0,128.0,biografia,8.1,75.0,0.0,0
+703,278.0,inherit the wind,stanley kramer,1960.0,128.0,drama,8.1,75.0,0.0,0
+704,278.0,inherit the wind,stanley kramer,1960.0,128.0,historia,8.1,75.0,0.0,0
+705,279.0,the third man,carol reed,1949.0,93.0,film-noir,8.1,97.0,0.45,0
+706,279.0,the third man,carol reed,1949.0,93.0,misterio,8.1,97.0,0.45,0
+707,279.0,the third man,carol reed,1949.0,93.0,thriller,8.1,97.0,0.45,0
+708,280.0,paper moon,peter bogdanovich,1973.0,102.0,comedia,8.1,77.0,30.93,0
+709,280.0,paper moon,peter bogdanovich,1973.0,102.0,crimen,8.1,77.0,30.93,0
+710,280.0,paper moon,peter bogdanovich,1973.0,102.0,drama,8.1,77.0,30.93,0
+711,281.0,the best years of our lives,william wyler,1946.0,170.0,drama,8.1,93.0,23.65,0
+712,281.0,the best years of our lives,william wyler,1946.0,170.0,romance,8.1,93.0,23.65,0
+713,281.0,the best years of our lives,william wyler,1946.0,170.0,guerra,8.1,93.0,23.65,0
+714,282.0,the grapes of wrath,john ford,1940.0,129.0,drama,8.1,96.0,0.06,0
+715,283.0,all quiet on the western front,lewis milestone,1930.0,152.0,drama,8.1,91.0,3.27,0
+716,283.0,all quiet on the western front,lewis milestone,1930.0,152.0,guerra,8.1,91.0,3.27,0
+717,284.0,mary and max,adam elliot,2009.0,92.0,animacion,8.1,0.0,0.0,0
+718,284.0,mary and max,adam elliot,2009.0,92.0,comedia,8.1,0.0,0.0,0
+719,284.0,mary and max,adam elliot,2009.0,92.0,drama,8.1,0.0,0.0,0
+720,285.0,a woman under the influence,john cassavetes,1974.0,155.0,drama,8.1,88.0,13.34,0
+721,285.0,a woman under the influence,john cassavetes,1974.0,155.0,romance,8.1,88.0,13.34,0
+722,286.0,the 400 blows,franaois truffaut,1959.0,99.0,crimen,8.1,0.0,0.0,0
+723,286.0,the 400 blows,franaois truffaut,1959.0,99.0,drama,8.1,0.0,0.0,0
+724,287.0,three colors: red,krzysztof kieslowski,1994.0,99.0,drama,8.1,100.0,4.04,0
+725,287.0,three colors: red,krzysztof kieslowski,1994.0,99.0,misterio,8.1,100.0,4.04,0
+726,287.0,three colors: red,krzysztof kieslowski,1994.0,99.0,romance,8.1,100.0,4.04,0
+727,288.0,the celebration,thomas vinterberg,1998.0,105.0,drama,8.1,82.0,1.65,0
+728,289.0,pk,rajkumar hirani,2014.0,153.0,comedia,8.1,0.0,10.62,0
+729,289.0,pk,rajkumar hirani,2014.0,153.0,drama,8.1,0.0,10.62,0
+730,289.0,pk,rajkumar hirani,2014.0,153.0,ciencia ficcion,8.1,0.0,10.62,0
+731,290.0,it happened one night,frank capra,1934.0,105.0,comedia,8.1,87.0,4.36,0
+732,290.0,it happened one night,frank capra,1934.0,105.0,romance,8.1,87.0,4.36,0
+733,291.0,fanny and alexander,ingmar bergman,1982.0,188.0,drama,8.1,100.0,4.97,0
+734,292.0,bajrangi bhaijaan,kabir khan,2015.0,163.0,accion,8.1,0.0,8.18,0
+735,292.0,bajrangi bhaijaan,kabir khan,2015.0,163.0,aventura,8.1,0.0,8.18,0
+736,292.0,bajrangi bhaijaan,kabir khan,2015.0,163.0,comedia,8.1,0.0,8.18,0
+737,293.0,wild strawberries,ingmar bergman,1957.0,91.0,drama,8.1,88.0,0.0,0
+738,293.0,wild strawberries,ingmar bergman,1957.0,91.0,romance,8.1,88.0,0.0,0
+739,294.0,the red shoes,michael powell,1948.0,135.0,drama,8.1,0.0,10.9,0
+740,294.0,the red shoes,michael powell,1948.0,135.0,musica,8.1,0.0,10.9,0
+741,294.0,the red shoes,michael powell,1948.0,135.0,romance,8.1,0.0,10.9,0
+742,295.0,lagaan: once upon a time in india,ashutosh gowariker,2001.0,224.0,drama,8.1,84.0,0.07,0
+743,295.0,lagaan: once upon a time in india,ashutosh gowariker,2001.0,224.0,musical,8.1,84.0,0.07,0
+744,295.0,lagaan: once upon a time in india,ashutosh gowariker,2001.0,224.0,deportes,8.1,84.0,0.07,0
+745,296.0,yi yi: a one and a two...,edward yang,2000.0,173.0,drama,8.1,94.0,1.14,0
+746,296.0,yi yi: a one and a two...,edward yang,2000.0,173.0,romance,8.1,94.0,1.14,0
+747,297.0,underground,emir kusturica,1995.0,167.0,comedia,8.1,79.0,0.17,0
+748,297.0,underground,emir kusturica,1995.0,167.0,drama,8.1,79.0,0.17,0
+749,297.0,underground,emir kusturica,1995.0,167.0,fantasia,8.1,79.0,0.17,0
+750,298.0,the battle of algiers,gillo pontecorvo,1966.0,121.0,drama,8.1,96.0,0.06,0
+751,298.0,the battle of algiers,gillo pontecorvo,1966.0,121.0,guerra,8.1,96.0,0.06,0
+752,299.0,farewell my concubine,kaige chen,1993.0,171.0,drama,8.1,83.0,5.22,0
+753,299.0,farewell my concubine,kaige chen,1993.0,171.0,musica,8.1,83.0,5.22,0
+754,299.0,farewell my concubine,kaige chen,1993.0,171.0,romance,8.1,83.0,5.22,0
+755,300.0,mr. smith goes to washington,frank capra,1939.0,129.0,comedia,8.1,73.0,9.6,0
+756,300.0,mr. smith goes to washington,frank capra,1939.0,129.0,drama,8.1,73.0,9.6,0
+757,301.0,winter sleep,nuri bilge ceylan,2014.0,196.0,drama,8.1,88.0,0.17,0
+758,302.0,diabolique,henri-georges clouzot,1955.0,117.0,crimen,8.1,0.0,1.09,0
+759,302.0,diabolique,henri-georges clouzot,1955.0,117.0,drama,8.1,0.0,1.09,0
+760,302.0,diabolique,henri-georges clouzot,1955.0,117.0,terror,8.1,0.0,1.09,0
+761,303.0,andrei rublev,andrei tarkovsky,1966.0,205.0,biografia,8.1,0.0,0.1,0
+762,303.0,andrei rublev,andrei tarkovsky,1966.0,205.0,drama,8.1,0.0,0.1,0
+763,303.0,andrei rublev,andrei tarkovsky,1966.0,205.0,historia,8.1,0.0,0.1,0
+764,304.0,dil chahta hai,farhan akhtar,2001.0,183.0,comedia,8.1,0.0,0.3,0
+765,304.0,dil chahta hai,farhan akhtar,2001.0,183.0,drama,8.1,0.0,0.3,0
+766,304.0,dil chahta hai,farhan akhtar,2001.0,183.0,romance,8.1,0.0,0.3,0
+767,305.0,wolf children,mamoru hosoda,2012.0,117.0,animacion,8.1,71.0,0.0,0
+768,305.0,wolf children,mamoru hosoda,2012.0,117.0,drama,8.1,71.0,0.0,0
+769,305.0,wolf children,mamoru hosoda,2012.0,117.0,familiar,8.1,71.0,0.0,0
+770,306.0,the hidden fortress,akira kurosawa,1958.0,126.0,accion,8.1,89.0,0.0,0
+771,306.0,the hidden fortress,akira kurosawa,1958.0,126.0,aventura,8.1,89.0,0.0,0
+772,306.0,the hidden fortress,akira kurosawa,1958.0,126.0,drama,8.1,89.0,0.0,0
+773,307.0,ace in the hole,billy wilder,1951.0,111.0,drama,8.1,72.0,3.97,0
+774,307.0,ace in the hole,billy wilder,1951.0,111.0,film-noir,8.1,72.0,3.97,0
+775,308.0,white heat,raoul walsh,1949.0,114.0,accion,8.1,0.0,0.0,0
+776,308.0,white heat,raoul walsh,1949.0,114.0,crimen,8.1,0.0,0.0,0
+777,308.0,white heat,raoul walsh,1949.0,114.0,drama,8.1,0.0,0.0,0
+778,309.0,the general,clyde bruckman,1926.0,78.0,accion,8.1,0.0,1.03,0
+779,309.0,the general,clyde bruckman,1926.0,78.0,aventura,8.1,0.0,1.03,0
+780,309.0,the general,clyde bruckman,1926.0,78.0,comedia,8.1,0.0,1.03,0
+781,310.0,masaan,neeraj ghaywan,2015.0,109.0,drama,8.1,0.0,0.0,0
+782,311.0,the gold rush,charles chaplin,1925.0,95.0,aventura,8.1,0.0,5.45,0
+783,311.0,the gold rush,charles chaplin,1925.0,95.0,comedia,8.1,0.0,5.45,0
+784,311.0,the gold rush,charles chaplin,1925.0,95.0,drama,8.1,0.0,5.45,0
+785,312.0,throne of blood,akira kurosawa,1957.0,110.0,drama,8.1,0.0,0.0,0
+786,313.0,barfi!,anurag basu,2012.0,151.0,comedia,8.1,0.0,2.8,0
+787,313.0,barfi!,anurag basu,2012.0,151.0,drama,8.1,0.0,2.8,0
+788,313.0,barfi!,anurag basu,2012.0,151.0,romance,8.1,0.0,2.8,0
+789,314.0,talvar,meghna gulzar,2015.0,132.0,crimen,8.1,0.0,0.34,0
+790,314.0,talvar,meghna gulzar,2015.0,132.0,drama,8.1,0.0,0.34,0
+791,314.0,talvar,meghna gulzar,2015.0,132.0,misterio,8.1,0.0,0.34,0
+792,315.0,sunrise,f.w. murnau,1927.0,94.0,drama,8.1,95.0,0.54,0
+793,315.0,sunrise,f.w. murnau,1927.0,94.0,romance,8.1,95.0,0.54,0
+794,316.0,autumn sonata,ingmar bergman,1978.0,99.0,drama,8.1,0.0,0.0,0
+795,316.0,autumn sonata,ingmar bergman,1978.0,99.0,musica,8.1,0.0,0.0,0
+796,317.0,a wednesday,neeraj pandey,2008.0,104.0,accion,8.1,0.0,0.0,0
+797,317.0,a wednesday,neeraj pandey,2008.0,104.0,crimen,8.1,0.0,0.0,0
+798,317.0,a wednesday,neeraj pandey,2008.0,104.0,drama,8.1,0.0,0.0,0
+799,318.0,rififi,jules dassin,1955.0,118.0,crimen,8.1,97.0,0.06,0
+800,318.0,rififi,jules dassin,1955.0,118.0,drama,8.1,97.0,0.06,0
+801,318.0,rififi,jules dassin,1955.0,118.0,thriller,8.1,97.0,0.06,0
+802,319.0,rang de basanti,rakeysh omprakash mehra,2006.0,167.0,comedia,8.1,0.0,2.2,0
+803,319.0,rang de basanti,rakeysh omprakash mehra,2006.0,167.0,crimen,8.1,0.0,2.2,0
+804,319.0,rang de basanti,rakeysh omprakash mehra,2006.0,167.0,drama,8.1,0.0,2.2,0
+805,320.0,the grand illusion,jean renoir,1937.0,113.0,drama,8.1,0.0,0.17,0
+806,320.0,the grand illusion,jean renoir,1937.0,113.0,guerra,8.1,0.0,0.17,0
+807,321.0,raise the red lantern,yimou zhang,1991.0,125.0,drama,8.1,0.0,2.6,0
+808,321.0,raise the red lantern,yimou zhang,1991.0,125.0,romance,8.1,0.0,2.6,0
+809,322.0,nights of cabiria,federico fellini,1957.0,110.0,drama,8.1,0.0,0.75,0
+810,323.0,pink,aniruddha roy chowdhury,2016.0,136.0,crimen,8.1,0.0,1.24,0
+811,323.0,pink,aniruddha roy chowdhury,2016.0,136.0,drama,8.1,0.0,1.24,0
+812,323.0,pink,aniruddha roy chowdhury,2016.0,136.0,thriller,8.1,0.0,1.24,0
+813,324.0,let's go! india,shimit amin,2007.0,153.0,drama,8.1,68.0,1.11,0
+814,324.0,let's go! india,shimit amin,2007.0,153.0,familiar,8.1,68.0,1.11,0
+815,324.0,let's go! india,shimit amin,2007.0,153.0,deportes,8.1,68.0,1.11,0
+816,325.0,the virgin spring,ingmar bergman,1960.0,89.0,drama,8.1,0.0,1.53,0
+817,326.0,queen,vikas bahl,2013.0,146.0,aventura,8.1,0.0,1.43,0
+818,326.0,queen,vikas bahl,2013.0,146.0,comedia,8.1,0.0,1.43,0
+819,326.0,queen,vikas bahl,2013.0,146.0,drama,8.1,0.0,1.43,0
+820,327.0,jean de florette,claude berri,1986.0,120.0,comedia,8.1,0.0,4.94,0
+821,327.0,jean de florette,claude berri,1986.0,120.0,drama,8.1,0.0,4.94,0
+822,328.0,article 15,anubhav sinha,2019.0,130.0,crimen,8.1,0.0,0.0,0
+823,328.0,article 15,anubhav sinha,2019.0,130.0,drama,8.1,0.0,0.0,0
+824,328.0,article 15,anubhav sinha,2019.0,130.0,misterio,8.1,0.0,0.0,0
+825,329.0,time of the gypsies,emir kusturica,1988.0,142.0,comedia,8.1,0.0,0.28,0
+826,329.0,time of the gypsies,emir kusturica,1988.0,142.0,crimen,8.1,0.0,0.28,0
+827,329.0,time of the gypsies,emir kusturica,1988.0,142.0,drama,8.1,0.0,0.28,0
+828,330.0,sholay,ramesh sippy,1975.0,162.0,accion,8.1,0.0,0.0,0
+829,330.0,sholay,ramesh sippy,1975.0,162.0,aventura,8.1,0.0,0.0,0
+830,330.0,sholay,ramesh sippy,1975.0,162.0,comedia,8.1,0.0,0.0,0
+831,331.0,munna bhai m.b.b.s.,rajkumar hirani,2003.0,156.0,comedia,8.1,0.0,0.0,0
+832,331.0,munna bhai m.b.b.s.,rajkumar hirani,2003.0,156.0,drama,8.1,0.0,0.0,0
+833,332.0,tangerines,zaza urushadze,2013.0,87.0,drama,8.1,73.0,0.14,0
+834,332.0,tangerines,zaza urushadze,2013.0,87.0,guerra,8.1,73.0,0.14,0
+835,333.0,kahaani,sujoy ghosh,2012.0,122.0,misterio,8.1,0.0,1.04,0
+836,333.0,kahaani,sujoy ghosh,2012.0,122.0,thriller,8.1,0.0,1.04,0
+837,334.0,hera pheri,priyadarshan,2000.0,156.0,accion,8.1,0.0,0.0,0
+838,334.0,hera pheri,priyadarshan,2000.0,156.0,comedia,8.1,0.0,0.0,0
+839,334.0,hera pheri,priyadarshan,2000.0,156.0,crimen,8.1,0.0,0.0,0
+840,335.0,the bandit,yavuz turgul,1996.0,128.0,crimen,8.1,0.0,0.0,0
+841,335.0,the bandit,yavuz turgul,1996.0,128.0,drama,8.1,0.0,0.0,0
+842,335.0,the bandit,yavuz turgul,1996.0,128.0,thriller,8.1,0.0,0.0,0
+843,336.0,the circus,charles chaplin,1928.0,72.0,comedia,8.1,90.0,0.0,0
+844,336.0,the circus,charles chaplin,1928.0,72.0,familiar,8.1,90.0,0.0,0
+845,336.0,the circus,charles chaplin,1928.0,72.0,romance,8.1,90.0,0.0,0
+846,337.0,udaan,vikramaditya motwane,2010.0,134.0,drama,8.1,0.0,0.01,0
+847,338.0,omg: oh my god!,umesh shukla,2012.0,125.0,comedia,8.1,0.0,0.92,0
+848,338.0,omg: oh my god!,umesh shukla,2012.0,125.0,drama,8.1,0.0,0.92,0
+849,338.0,omg: oh my god!,umesh shukla,2012.0,125.0,fantasia,8.1,0.0,0.92,0
+850,339.0,black,sanjay leela bhansali,2005.0,122.0,drama,8.1,0.0,0.73,0
+851,340.0,everything's gonna be great,amer vargi,1998.0,107.0,comedia,8.1,0.0,0.0,0
+852,340.0,everything's gonna be great,amer vargi,1998.0,107.0,drama,8.1,0.0,0.0,0
+853,340.0,everything's gonna be great,amer vargi,1998.0,107.0,thriller,8.1,0.0,0.0,0
+854,341.0,sarfarosh,john mathew matthan,1999.0,174.0,accion,8.1,0.0,0.0,0
+855,341.0,sarfarosh,john mathew matthan,1999.0,174.0,drama,8.1,0.0,0.0,0
+856,341.0,sarfarosh,john mathew matthan,1999.0,174.0,thriller,8.1,0.0,0.0,0
+857,342.0,anand,hrishikesh mukherjee,1971.0,122.0,drama,8.1,0.0,0.0,0
+858,342.0,anand,hrishikesh mukherjee,1971.0,122.0,musical,8.1,0.0,0.0,0
+859,343.0,dune,denis villeneuve,2021.0,155.0,accion,8.0,74.0,108.33,0
+860,343.0,dune,denis villeneuve,2021.0,155.0,aventura,8.0,74.0,108.33,0
+861,343.0,dune,denis villeneuve,2021.0,155.0,drama,8.0,74.0,108.33,0
+862,344.0,blade runner 2049,denis villeneuve,2017.0,164.0,accion,8.0,81.0,92.05,0
+863,344.0,blade runner 2049,denis villeneuve,2017.0,164.0,drama,8.0,81.0,92.05,0
+864,344.0,blade runner 2049,denis villeneuve,2017.0,164.0,misterio,8.0,81.0,92.05,0
+865,345.0,guardians of the galaxy,james gunn,2014.0,121.0,accion,8.0,76.0,333.18,0
+866,345.0,guardians of the galaxy,james gunn,2014.0,121.0,aventura,8.0,76.0,333.18,0
+867,345.0,guardians of the galaxy,james gunn,2014.0,121.0,comedia,8.0,76.0,333.18,0
+868,346.0,deadpool,tim miller,2016.0,108.0,accion,8.0,65.0,363.07,0
+869,346.0,deadpool,tim miller,2016.0,108.0,comedia,8.0,65.0,363.07,0
+870,347.0,rain man,barry levinson,1988.0,133.0,drama,8.0,65.0,178.8,0
+871,348.0,black swan,darren aronofsky,2010.0,108.0,drama,8.0,79.0,106.95,0
+872,348.0,black swan,darren aronofsky,2010.0,108.0,thriller,8.0,79.0,106.95,0
+873,349.0,the princess bride,rob reiner,1987.0,98.0,aventura,8.0,77.0,30.86,0
+874,349.0,the princess bride,rob reiner,1987.0,98.0,comedia,8.0,77.0,30.86,0
+875,349.0,the princess bride,rob reiner,1987.0,98.0,familiar,8.0,77.0,30.86,0
+876,350.0,the avengers,joss whedon,2012.0,143.0,accion,8.0,69.0,623.28,0
+877,350.0,the avengers,joss whedon,2012.0,143.0,ciencia ficcion,8.0,69.0,623.28,0
+878,351.0,la la land,damien chazelle,2016.0,128.0,comedia,8.0,94.0,151.1,0
+879,351.0,la la land,damien chazelle,2016.0,128.0,drama,8.0,94.0,151.1,0
+880,351.0,la la land,damien chazelle,2016.0,128.0,musica,8.0,94.0,151.1,0
+881,352.0,the martian,ridley scott,2015.0,144.0,aventura,8.0,80.0,228.43,0
+882,352.0,the martian,ridley scott,2015.0,144.0,drama,8.0,80.0,228.43,0
+883,352.0,the martian,ridley scott,2015.0,144.0,ciencia ficcion,8.0,80.0,228.43,0
+884,353.0,donnie darko,richard kelly,2001.0,113.0,drama,8.0,88.0,1.48,0
+885,353.0,donnie darko,richard kelly,2001.0,113.0,misterio,8.0,88.0,1.48,0
+886,353.0,donnie darko,richard kelly,2001.0,113.0,ciencia ficcion,8.0,88.0,1.48,0
+887,354.0,the incredibles,brad bird,2004.0,115.0,animacion,8.0,90.0,261.44,0
+888,354.0,the incredibles,brad bird,2004.0,115.0,accion,8.0,90.0,261.44,0
+889,354.0,the incredibles,brad bird,2004.0,115.0,aventura,8.0,90.0,261.44,0
+890,355.0,her,spike jonze,2013.0,126.0,drama,8.0,91.0,25.57,0
+891,355.0,her,spike jonze,2013.0,126.0,romance,8.0,91.0,25.57,0
+892,355.0,her,spike jonze,2013.0,126.0,ciencia ficcion,8.0,91.0,25.57,0
+893,356.0,zootopia,byron howard,2016.0,108.0,animacion,8.0,78.0,341.27,0
+894,356.0,zootopia,byron howard,2016.0,108.0,aventura,8.0,78.0,341.27,0
+895,356.0,zootopia,byron howard,2016.0,108.0,comedia,8.0,78.0,341.27,0
+896,357.0,the graduate,mike nichols,1967.0,106.0,comedia,8.0,83.0,104.95,0
+897,357.0,the graduate,mike nichols,1967.0,106.0,drama,8.0,83.0,104.95,0
+898,357.0,the graduate,mike nichols,1967.0,106.0,romance,8.0,83.0,104.95,0
+899,358.0,casino royale,martin campbell,2006.0,144.0,accion,8.0,80.0,167.45,0
+900,358.0,casino royale,martin campbell,2006.0,144.0,aventura,8.0,80.0,167.45,0
+901,358.0,casino royale,martin campbell,2006.0,144.0,thriller,8.0,80.0,167.45,0
+902,359.0,the revenant,alejandro g. iaarritu,2015.0,156.0,accion,8.0,76.0,183.64,0
+903,359.0,the revenant,alejandro g. iaarritu,2015.0,156.0,aventura,8.0,76.0,183.64,0
+904,359.0,the revenant,alejandro g. iaarritu,2015.0,156.0,drama,8.0,76.0,183.64,0
+905,360.0,the imitation game,morten tyldum,2014.0,114.0,biografia,8.0,71.0,91.13,0
+906,360.0,the imitation game,morten tyldum,2014.0,114.0,drama,8.0,71.0,91.13,0
+907,360.0,the imitation game,morten tyldum,2014.0,114.0,thriller,8.0,71.0,91.13,0
+908,361.0,sin city,frank miller,2005.0,124.0,crimen,8.0,74.0,74.1,0
+909,361.0,sin city,frank miller,2005.0,124.0,thriller,8.0,74.0,74.1,0
+910,362.0,coda,sian heder,2021.0,111.0,comedia,8.0,72.0,0.0,0
+911,362.0,coda,sian heder,2021.0,111.0,drama,8.0,72.0,0.0,0
+912,362.0,coda,sian heder,2021.0,111.0,musica,8.0,72.0,0.0,0
+913,363.0,dances with wolves,kevin costner,1990.0,181.0,aventura,8.0,72.0,184.21,0
+914,363.0,dances with wolves,kevin costner,1990.0,181.0,drama,8.0,72.0,184.21,0
+915,363.0,dances with wolves,kevin costner,1990.0,181.0,western,8.0,72.0,184.21,0
+916,364.0,magnolia,paul thomas anderson,1999.0,188.0,drama,8.0,78.0,22.46,0
+917,365.0,slumdog millionaire,danny boyle,2008.0,120.0,crimen,8.0,84.0,141.32,0
+918,365.0,slumdog millionaire,danny boyle,2008.0,120.0,drama,8.0,84.0,141.32,0
+919,365.0,slumdog millionaire,danny boyle,2008.0,120.0,romance,8.0,84.0,141.32,0
+920,366.0,scent of a woman,martin brest,1992.0,156.0,drama,8.0,59.0,63.9,0
+921,367.0,soul,pete docter,2020.0,100.0,animacion,8.0,83.0,0.0,0
+922,367.0,soul,pete docter,2020.0,100.0,aventura,8.0,83.0,0.0,0
+923,367.0,soul,pete docter,2020.0,100.0,comedia,8.0,83.0,0.0,0
+924,368.0,groundhog day,harold ramis,1993.0,101.0,comedia,8.0,72.0,70.91,0
+925,368.0,groundhog day,harold ramis,1993.0,101.0,drama,8.0,72.0,70.91,0
+926,368.0,groundhog day,harold ramis,1993.0,101.0,fantasia,8.0,72.0,70.91,0
+927,369.0,do the right thing,spike lee,1989.0,120.0,comedia,8.0,93.0,27.55,0
+928,369.0,do the right thing,spike lee,1989.0,120.0,drama,8.0,93.0,27.55,0
+929,370.0,dog day afternoon,sidney lumet,1975.0,125.0,biografia,8.0,86.0,50.0,0
+930,370.0,dog day afternoon,sidney lumet,1975.0,125.0,crimen,8.0,86.0,50.0,0
+931,370.0,dog day afternoon,sidney lumet,1975.0,125.0,drama,8.0,86.0,50.0,0
+932,371.0,young frankenstein,mel brooks,1974.0,106.0,comedia,8.0,83.0,86.3,0
+933,372.0,aladdin,ron clements,1992.0,90.0,animacion,8.0,86.0,217.35,0
+934,372.0,aladdin,ron clements,1992.0,90.0,aventura,8.0,86.0,217.35,0
+935,372.0,aladdin,ron clements,1992.0,90.0,comedia,8.0,86.0,217.35,0
+936,373.0,blood diamond,edward zwick,2006.0,143.0,aventura,8.0,64.0,57.37,0
+937,373.0,blood diamond,edward zwick,2006.0,143.0,drama,8.0,64.0,57.37,0
+938,373.0,blood diamond,edward zwick,2006.0,143.0,thriller,8.0,64.0,57.37,0
+939,374.0,12 monkeys,terry gilliam,1995.0,129.0,misterio,8.0,74.0,57.14,0
+940,374.0,12 monkeys,terry gilliam,1995.0,129.0,ciencia ficcion,8.0,74.0,57.14,0
+941,374.0,12 monkeys,terry gilliam,1995.0,129.0,thriller,8.0,74.0,57.14,0
+942,375.0,the pursuit of happyness,gabriele muccino,2006.0,117.0,biografia,8.0,64.0,163.57,0
+943,375.0,the pursuit of happyness,gabriele muccino,2006.0,117.0,drama,8.0,64.0,163.57,0
+944,376.0,big fish,tim burton,2003.0,125.0,aventura,8.0,58.0,66.26,0
+945,376.0,big fish,tim burton,2003.0,125.0,drama,8.0,58.0,66.26,0
+946,376.0,big fish,tim burton,2003.0,125.0,fantasia,8.0,58.0,66.26,0
+947,377.0,beauty and the beast,gary trousdale,1991.0,84.0,animacion,8.0,95.0,218.97,0
+948,377.0,beauty and the beast,gary trousdale,1991.0,84.0,familiar,8.0,95.0,218.97,0
+949,377.0,beauty and the beast,gary trousdale,1991.0,84.0,fantasia,8.0,95.0,218.97,0
+950,378.0,jfk,oliver stone,1991.0,189.0,drama,8.0,72.0,70.41,0
+951,378.0,jfk,oliver stone,1991.0,189.0,historia,8.0,72.0,70.41,0
+952,378.0,jfk,oliver stone,1991.0,189.0,thriller,8.0,72.0,70.41,0
+953,379.0,high noon,fred zinnemann,1952.0,85.0,drama,8.0,89.0,9.45,0
+954,379.0,high noon,fred zinnemann,1952.0,85.0,thriller,8.0,89.0,9.45,0
+955,379.0,high noon,fred zinnemann,1952.0,85.0,western,8.0,89.0,9.45,0
+956,380.0,planet of the apes,franklin j. schaffner,1968.0,112.0,aventura,8.0,79.0,33.4,0
+957,380.0,planet of the apes,franklin j. schaffner,1968.0,112.0,ciencia ficcion,8.0,79.0,33.4,0
+958,381.0,the bourne ultimatum,paul greengrass,2007.0,115.0,accion,8.0,85.0,227.47,0
+959,381.0,the bourne ultimatum,paul greengrass,2007.0,115.0,misterio,8.0,85.0,227.47,0
+960,381.0,the bourne ultimatum,paul greengrass,2007.0,115.0,thriller,8.0,85.0,227.47,0
+961,382.0,akira,katsuhiro atomo,1988.0,124.0,animacion,8.0,67.0,0.55,0
+962,382.0,akira,katsuhiro atomo,1988.0,124.0,accion,8.0,67.0,0.55,0
+963,382.0,akira,katsuhiro atomo,1988.0,124.0,drama,8.0,67.0,0.55,0
+964,383.0,rosemary's baby,roman polanski,1968.0,137.0,drama,8.0,96.0,0.0,0
+965,383.0,rosemary's baby,roman polanski,1968.0,137.0,terror,8.0,96.0,0.0,0
+966,384.0,perfect blue,satoshi kon,1997.0,81.0,animacion,8.0,67.0,0.78,0
+967,384.0,perfect blue,satoshi kon,1997.0,81.0,crimen,8.0,67.0,0.78,0
+968,384.0,perfect blue,satoshi kon,1997.0,81.0,drama,8.0,67.0,0.78,0
+969,385.0,the invisible guest,oriol paulo,2016.0,106.0,crimen,8.0,0.0,0.0,0
+970,385.0,the invisible guest,oriol paulo,2016.0,106.0,drama,8.0,0.0,0.0,0
+971,385.0,the invisible guest,oriol paulo,2016.0,106.0,misterio,8.0,0.0,0.0,0
+972,386.0,kill bill: vol. 2,quentin tarantino,2004.0,137.0,accion,8.0,83.0,66.21,0
+973,386.0,kill bill: vol. 2,quentin tarantino,2004.0,137.0,crimen,8.0,83.0,66.21,0
+974,386.0,kill bill: vol. 2,quentin tarantino,2004.0,137.0,thriller,8.0,83.0,66.21,0
+975,387.0,life of brian,terry jones,1979.0,94.0,comedia,8.0,77.0,20.05,0
+976,388.0,butch cassidy and the sundance kid,george roy hill,1969.0,110.0,biografia,8.0,66.0,102.31,0
+977,388.0,butch cassidy and the sundance kid,george roy hill,1969.0,110.0,crimen,8.0,66.0,102.31,0
+978,388.0,butch cassidy and the sundance kid,george roy hill,1969.0,110.0,drama,8.0,66.0,102.31,0
+979,389.0,the king's speech,tom hooper,2010.0,118.0,biografia,8.0,88.0,138.8,0
+980,389.0,the king's speech,tom hooper,2010.0,118.0,drama,8.0,88.0,138.8,0
+981,389.0,the king's speech,tom hooper,2010.0,118.0,historia,8.0,88.0,138.8,0
+982,390.0,dogville,lars von trier,2003.0,178.0,crimen,8.0,61.0,1.53,0
+983,390.0,dogville,lars von trier,2003.0,178.0,drama,8.0,61.0,1.53,0
+984,391.0,fiddler on the roof,norman jewison,1971.0,181.0,drama,8.0,67.0,80.5,0
+985,391.0,fiddler on the roof,norman jewison,1971.0,181.0,familiar,8.0,67.0,80.5,0
+986,391.0,fiddler on the roof,norman jewison,1971.0,181.0,musical,8.0,67.0,80.5,0
+987,392.0,lion,garth davis,2016.0,118.0,biografia,8.0,69.0,51.74,0
+988,392.0,lion,garth davis,2016.0,118.0,drama,8.0,69.0,51.74,0
+989,393.0,what ever happened to baby jane?,robert aldrich,1962.0,134.0,drama,8.0,75.0,4.05,0
+990,393.0,what ever happened to baby jane?,robert aldrich,1962.0,134.0,terror,8.0,75.0,4.05,0
+991,393.0,what ever happened to baby jane?,robert aldrich,1962.0,134.0,thriller,8.0,75.0,4.05,0
+992,394.0,ip man,wilson yip,2008.0,106.0,accion,8.0,59.0,0.0,0
+993,394.0,ip man,wilson yip,2008.0,106.0,biografia,8.0,59.0,0.0,0
+994,394.0,ip man,wilson yip,2008.0,106.0,drama,8.0,59.0,0.0,0
+995,395.0,sling blade,billy bob thornton,1996.0,135.0,drama,8.0,84.0,24.48,0
+996,396.0,chungking express,kar-wai wong,1994.0,102.0,comedia,8.0,78.0,0.6,0
+997,396.0,chungking express,kar-wai wong,1994.0,102.0,crimen,8.0,78.0,0.6,0
+998,396.0,chungking express,kar-wai wong,1994.0,102.0,drama,8.0,78.0,0.6,0
+999,397.0,roman holiday,william wyler,1953.0,118.0,comedia,8.0,78.0,0.0,0
+1000,397.0,roman holiday,william wyler,1953.0,118.0,romance,8.0,78.0,0.0,0
+1001,398.0,papillon,franklin j. schaffner,1973.0,151.0,biografia,8.0,58.0,53.27,0
+1002,398.0,papillon,franklin j. schaffner,1973.0,151.0,crimen,8.0,58.0,53.27,0
+1003,398.0,papillon,franklin j. schaffner,1973.0,151.0,drama,8.0,58.0,53.27,0
+1004,399.0,mommy,xavier dolan,2014.0,139.0,drama,8.0,74.0,3.49,0
+1005,400.0,being there,hal ashby,1979.0,130.0,comedia,8.0,83.0,30.18,0
+1006,400.0,being there,hal ashby,1979.0,130.0,drama,8.0,83.0,30.18,0
+1007,401.0,the last picture show,peter bogdanovich,1971.0,118.0,drama,8.0,93.0,29.13,0
+1008,401.0,the last picture show,peter bogdanovich,1971.0,118.0,romance,8.0,93.0,29.13,0
+1009,402.0,8a12,federico fellini,1963.0,138.0,biografia,8.0,93.0,0.05,0
+1010,402.0,8a12,federico fellini,1963.0,138.0,drama,8.0,93.0,0.05,0
+1011,403.0,annie hall,woody allen,1977.0,93.0,comedia,8.0,92.0,39.2,0
+1012,403.0,annie hall,woody allen,1977.0,93.0,romance,8.0,92.0,39.2,0
+1013,404.0,nausicaa of the valley of the wind,hayao miyazaki,1984.0,117.0,animacion,8.0,86.0,0.5,0
+1014,404.0,nausicaa of the valley of the wind,hayao miyazaki,1984.0,117.0,aventura,8.0,86.0,0.5,0
+1015,404.0,nausicaa of the valley of the wind,hayao miyazaki,1984.0,117.0,ciencia ficcion,8.0,86.0,0.5,0
+1016,405.0,the maltese falcon,john huston,1941.0,100.0,crimen,8.0,97.0,2.11,0
+1017,405.0,the maltese falcon,john huston,1941.0,100.0,film-noir,8.0,97.0,2.11,0
+1018,405.0,the maltese falcon,john huston,1941.0,100.0,misterio,8.0,97.0,2.11,0
+1019,406.0,solaris,andrei tarkovsky,1972.0,167.0,drama,8.0,93.0,0.0,0
+1020,406.0,solaris,andrei tarkovsky,1972.0,167.0,misterio,8.0,93.0,0.0,0
+1021,406.0,solaris,andrei tarkovsky,1972.0,167.0,ciencia ficcion,8.0,93.0,0.0,0
+1022,407.0,castle in the sky,hayao miyazaki,1986.0,125.0,animacion,8.0,78.0,0.0,0
+1023,407.0,castle in the sky,hayao miyazaki,1986.0,125.0,aventura,8.0,78.0,0.0,0
+1024,407.0,castle in the sky,hayao miyazaki,1986.0,125.0,familiar,8.0,78.0,0.0,0
+1025,408.0,rio bravo,howard hawks,1959.0,141.0,drama,8.0,93.0,12.54,0
+1026,408.0,rio bravo,howard hawks,1959.0,141.0,western,8.0,93.0,12.54,0
+1027,409.0,pink floyd: the wall,alan parker,1982.0,95.0,drama,8.0,47.0,22.24,0
+1028,409.0,pink floyd: the wall,alan parker,1982.0,95.0,fantasia,8.0,47.0,22.24,0
+1029,409.0,pink floyd: the wall,alan parker,1982.0,95.0,musica,8.0,47.0,22.24,0
+1030,410.0,cinderella man,ron howard,2005.0,144.0,biografia,8.0,69.0,61.65,0
+1031,410.0,cinderella man,ron howard,2005.0,144.0,drama,8.0,69.0,61.65,0
+1032,410.0,cinderella man,ron howard,2005.0,144.0,romance,8.0,69.0,61.65,0
+1033,411.0,the legend of 1900,giuseppe tornatore,1998.0,169.0,drama,8.0,58.0,0.26,0
+1034,411.0,the legend of 1900,giuseppe tornatore,1998.0,169.0,musica,8.0,58.0,0.26,0
+1035,411.0,the legend of 1900,giuseppe tornatore,1998.0,169.0,romance,8.0,58.0,0.26,0
+1036,412.0,the night of the hunter,charles laughton,1955.0,92.0,crimen,8.0,97.0,0.65,0
+1037,412.0,the night of the hunter,charles laughton,1955.0,92.0,drama,8.0,97.0,0.65,0
+1038,412.0,the night of the hunter,charles laughton,1955.0,92.0,film-noir,8.0,97.0,0.65,0
+1039,413.0,fitzcarraldo,werner herzog,1982.0,158.0,aventura,8.0,0.0,0.0,0
+1040,413.0,fitzcarraldo,werner herzog,1982.0,158.0,drama,8.0,0.0,0.0,0
+1041,414.0,la dolce vita,federico fellini,1960.0,174.0,comedia,8.0,95.0,19.52,0
+1042,414.0,la dolce vita,federico fellini,1960.0,174.0,drama,8.0,95.0,19.52,0
+1043,415.0,gandhi,richard attenborough,1982.0,191.0,biografia,8.0,79.0,52.77,0
+1044,415.0,gandhi,richard attenborough,1982.0,191.0,drama,8.0,79.0,52.77,0
+1045,415.0,gandhi,richard attenborough,1982.0,191.0,historia,8.0,79.0,52.77,0
+1046,416.0,wings of desire,wim wenders,1987.0,128.0,drama,8.0,79.0,3.33,0
+1047,416.0,wings of desire,wim wenders,1987.0,128.0,fantasia,8.0,79.0,3.33,0
+1048,416.0,wings of desire,wim wenders,1987.0,128.0,romance,8.0,79.0,3.33,0
+1049,417.0,who's afraid of virginia woolf?,mike nichols,1966.0,131.0,drama,8.0,75.0,0.0,0
+1050,418.0,infernal affairs,andrew lau,2002.0,101.0,accion,8.0,75.0,0.17,0
+1051,418.0,infernal affairs,andrew lau,2002.0,101.0,crimen,8.0,75.0,0.17,0
+1052,418.0,infernal affairs,andrew lau,2002.0,101.0,drama,8.0,75.0,0.17,0
+1053,419.0,the straight story,david lynch,1999.0,112.0,biografia,8.0,86.0,6.2,0
+1054,419.0,the straight story,david lynch,1999.0,112.0,drama,8.0,86.0,6.2,0
+1055,420.0,baahubali: the beginning,s.s. rajamouli,2015.0,159.0,accion,8.0,0.0,6.74,0
+1056,420.0,baahubali: the beginning,s.s. rajamouli,2015.0,159.0,drama,8.0,0.0,6.74,0
+1057,421.0,anatomy of a murder,otto preminger,1959.0,161.0,drama,8.0,95.0,11.9,0
+1058,421.0,anatomy of a murder,otto preminger,1959.0,161.0,misterio,8.0,95.0,11.9,0
+1059,422.0,wolfwalkers,tomm moore,2020.0,103.0,animacion,8.0,87.0,0.0,0
+1060,422.0,wolfwalkers,tomm moore,2020.0,103.0,accion,8.0,87.0,0.0,0
+1061,422.0,wolfwalkers,tomm moore,2020.0,103.0,aventura,8.0,87.0,0.0,0
+1062,423.0,touch of evil,orson welles,1958.0,95.0,crimen,8.0,99.0,2.24,0
+1063,423.0,touch of evil,orson welles,1958.0,95.0,drama,8.0,99.0,2.24,0
+1064,423.0,touch of evil,orson welles,1958.0,95.0,film-noir,8.0,99.0,2.24,0
+1065,424.0,mirror,andrei tarkovsky,1975.0,107.0,biografia,8.0,82.0,0.18,0
+1066,424.0,mirror,andrei tarkovsky,1975.0,107.0,drama,8.0,82.0,0.18,0
+1067,425.0,the cabinet of dr. caligari,robert wiene,1920.0,67.0,terror,8.0,0.0,0.0,0
+1068,425.0,the cabinet of dr. caligari,robert wiene,1920.0,67.0,misterio,8.0,0.0,0.0,0
+1069,425.0,the cabinet of dr. caligari,robert wiene,1920.0,67.0,thriller,8.0,0.0,0.0,0
+1070,426.0,the hustler,robert rossen,1961.0,134.0,drama,8.0,90.0,8.28,0
+1071,426.0,the hustler,robert rossen,1961.0,134.0,deportes,8.0,90.0,8.28,0
+1072,427.0,the leopard,luchino visconti,1963.0,186.0,drama,8.0,100.0,0.0,0
+1073,427.0,the leopard,luchino visconti,1963.0,186.0,historia,8.0,100.0,0.0,0
+1074,428.0,out of the past,jacques tourneur,1947.0,97.0,crimen,8.0,85.0,0.0,0
+1075,428.0,out of the past,jacques tourneur,1947.0,97.0,drama,8.0,85.0,0.0,0
+1076,428.0,out of the past,jacques tourneur,1947.0,97.0,film-noir,8.0,85.0,0.0,0
+1077,429.0,le samouraa ,jean-pierre melville,1967.0,101.0,crimen,8.0,0.0,0.04,0
+1078,429.0,le samouraa ,jean-pierre melville,1967.0,101.0,drama,8.0,0.0,0.04,0
+1079,429.0,le samouraa ,jean-pierre melville,1967.0,101.0,thriller,8.0,0.0,0.04,0
+1080,430.0,elite squad,josa padilha,2007.0,115.0,accion,8.0,33.0,0.01,0
+1081,430.0,elite squad,josa padilha,2007.0,115.0,crimen,8.0,33.0,0.01,0
+1082,430.0,elite squad,josa padilha,2007.0,115.0,drama,8.0,33.0,0.01,0
+1083,431.0,sweet smell of success,alexander mackendrick,1957.0,96.0,drama,8.0,100.0,0.0,0
+1084,431.0,sweet smell of success,alexander mackendrick,1957.0,96.0,film-noir,8.0,100.0,0.0,0
+1085,432.0,the tale of the princess kaguya,isao takahata,2013.0,137.0,animacion,8.0,89.0,1.51,0
+1086,432.0,the tale of the princess kaguya,isao takahata,2013.0,137.0,drama,8.0,89.0,1.51,0
+1087,432.0,the tale of the princess kaguya,isao takahata,2013.0,137.0,familiar,8.0,89.0,1.51,0
+1088,433.0,nobody knows,kore-eda hirokazu,2004.0,141.0,drama,8.0,88.0,0.68,0
+1089,434.0,sleuth,joseph l. mankiewicz,1972.0,138.0,misterio,8.0,0.0,4.08,0
+1090,434.0,sleuth,joseph l. mankiewicz,1972.0,138.0,thriller,8.0,0.0,4.08,0
+1091,435.0,stalag 17,billy wilder,1953.0,120.0,comedia,8.0,84.0,0.0,0
+1092,435.0,stalag 17,billy wilder,1953.0,120.0,drama,8.0,84.0,0.0,0
+1093,435.0,stalag 17,billy wilder,1953.0,120.0,guerra,8.0,84.0,0.0,0
+1094,436.0,secrets & lies,mike leigh,1996.0,136.0,comedia,8.0,91.0,13.42,0
+1095,436.0,secrets & lies,mike leigh,1996.0,136.0,drama,8.0,91.0,13.42,0
+1096,437.0,the diving bell and the butterfly,julian schnabel,2007.0,112.0,biografia,8.0,92.0,5.99,0
+1097,437.0,the diving bell and the butterfly,julian schnabel,2007.0,112.0,drama,8.0,92.0,5.99,0
+1098,438.0,song of the sea,tomm moore,2014.0,93.0,animacion,8.0,85.0,0.86,0
+1099,438.0,song of the sea,tomm moore,2014.0,93.0,aventura,8.0,85.0,0.86,0
+1100,438.0,song of the sea,tomm moore,2014.0,93.0,drama,8.0,85.0,0.86,0
+1101,439.0,the sea inside,alejandro amenabar,2004.0,126.0,biografia,8.0,74.0,2.09,0
+1102,439.0,the sea inside,alejandro amenabar,2004.0,126.0,drama,8.0,74.0,2.09,0
+1103,440.0,my sassy girl,jae-young kwak,2001.0,137.0,comedia,8.0,0.0,0.0,0
+1104,440.0,my sassy girl,jae-young kwak,2001.0,137.0,drama,8.0,0.0,0.0,0
+1105,440.0,my sassy girl,jae-young kwak,2001.0,137.0,romance,8.0,0.0,0.0,0
+1106,441.0,cries & whispers,ingmar bergman,1972.0,91.0,drama,8.0,0.0,1.74,0
+1107,442.0,brief encounter,david lean,1945.0,86.0,drama,8.0,92.0,0.0,0
+1108,442.0,brief encounter,david lean,1945.0,86.0,romance,8.0,92.0,0.0,0
+1109,443.0,nostalghia,andrei tarkovsky,1983.0,125.0,drama,8.0,0.0,0.01,0
+1110,444.0,dilwale dulhania le jayenge,aditya chopra,1995.0,181.0,drama,8.0,0.0,0.0,0
+1111,444.0,dilwale dulhania le jayenge,aditya chopra,1995.0,181.0,romance,8.0,0.0,0.0,0
+1112,445.0,departures,ya jira  takita,2008.0,130.0,drama,8.0,68.0,1.5,0
+1113,446.0,persepolis,vincent paronnaud,2007.0,96.0,animacion,8.0,90.0,4.45,0
+1114,446.0,persepolis,vincent paronnaud,2007.0,96.0,biografia,8.0,90.0,4.45,0
+1115,446.0,persepolis,vincent paronnaud,2007.0,96.0,drama,8.0,90.0,4.45,0
+1116,447.0,m.s. dhoni: the untold story,mathur goswami,2016.0,184.0,biografia,8.0,0.0,1.78,0
+1117,447.0,m.s. dhoni: the untold story,mathur goswami,2016.0,184.0,drama,8.0,0.0,1.78,0
+1118,447.0,m.s. dhoni: the untold story,mathur goswami,2016.0,184.0,deportes,8.0,0.0,1.78,0
+1119,448.0,la strada,federico fellini,1954.0,108.0,drama,8.0,0.0,0.0,0
+1126,451.0,the wild pear tree,nuri bilge ceylan,2018.0,188.0,drama,8.0,86.0,0.03,0
+1129,453.0,ivan's childhood,andrei tarkovsky,1962.0,95.0,drama,8.0,0.0,0.0,0
+1130,453.0,ivan's childhood,andrei tarkovsky,1962.0,95.0,guerra,8.0,0.0,0.0,0
+1133,455.0,haider,vishal bhardwaj,2014.0,160.0,accion,8.0,0.0,0.9,0
+1134,455.0,haider,vishal bhardwaj,2014.0,160.0,crimen,8.0,0.0,0.9,0
+1135,455.0,haider,vishal bhardwaj,2014.0,160.0,drama,8.0,0.0,0.9,0
+1136,456.0,elite squad 2: the enemy within,josa padilha,2010.0,115.0,accion,8.0,71.0,0.1,0
+1137,456.0,elite squad 2: the enemy within,josa padilha,2010.0,115.0,crimen,8.0,71.0,0.1,0
+1138,456.0,elite squad 2: the enemy within,josa padilha,2010.0,115.0,drama,8.0,71.0,0.1,0
+1139,457.0,the shop around the corner,ernst lubitsch,1940.0,99.0,comedia,8.0,96.0,0.2,0
+1140,457.0,the shop around the corner,ernst lubitsch,1940.0,99.0,drama,8.0,96.0,0.2,0
+1141,457.0,the shop around the corner,ernst lubitsch,1940.0,99.0,romance,8.0,96.0,0.2,0
+1142,458.0,kind hearts and coronets,robert hamer,1949.0,106.0,comedia,8.0,0.0,0.0,0
+1143,458.0,kind hearts and coronets,robert hamer,1949.0,106.0,crimen,8.0,0.0,0.0,0
+1144,459.0,sanjuro,akira kurosawa,1962.0,96.0,accion,8.0,0.0,0.0,0
+1145,459.0,sanjuro,akira kurosawa,1962.0,96.0,drama,8.0,0.0,0.0,0
+1146,459.0,sanjuro,akira kurosawa,1962.0,96.0,thriller,8.0,0.0,0.0,0
+1147,460.0,the exterminating angel,luis buauel,1962.0,95.0,drama,8.0,0.0,0.0,0
+1148,460.0,the exterminating angel,luis buauel,1962.0,95.0,fantasia,8.0,0.0,0.0,0
+1149,461.0,central station,walter salles,1998.0,110.0,drama,8.0,80.0,5.6,0
+1150,462.0,g.o.r.a.,amer faruk sorak,2004.0,127.0,aventura,8.0,0.0,0.0,0
+1151,462.0,g.o.r.a.,amer faruk sorak,2004.0,127.0,comedia,8.0,0.0,0.0,0
+1152,462.0,g.o.r.a.,amer faruk sorak,2004.0,127.0,ciencia ficcion,8.0,0.0,0.0,0
+1156,464.0,tae guk gi: the brotherhood of war,je-kyu kang,2004.0,140.0,accion,8.0,64.0,1.11,0
+1157,464.0,tae guk gi: the brotherhood of war,je-kyu kang,2004.0,140.0,drama,8.0,64.0,1.11,0
+1158,464.0,tae guk gi: the brotherhood of war,je-kyu kang,2004.0,140.0,guerra,8.0,64.0,1.11,0
+1159,465.0,winter light,ingmar bergman,1963.0,81.0,drama,8.0,0.0,0.0,0
+1163,467.0,special 26,neeraj pandey,2013.0,144.0,crimen,8.0,0.0,1.08,0
+1164,467.0,special 26,neeraj pandey,2013.0,144.0,drama,8.0,0.0,1.08,0
+1165,467.0,special 26,neeraj pandey,2013.0,144.0,thriller,8.0,0.0,1.08,0
+1166,468.0,the breath,levent semerci,2009.0,128.0,accion,8.0,0.0,0.0,0
+1167,468.0,the breath,levent semerci,2009.0,128.0,drama,8.0,0.0,0.0,0
+1168,468.0,the breath,levent semerci,2009.0,128.0,thriller,8.0,0.0,0.0,0
+1169,469.0,andaz apna apna,rajkumar santoshi,1994.0,160.0,accion,8.0,0.0,0.0,0
+1170,469.0,andaz apna apna,rajkumar santoshi,1994.0,160.0,comedia,8.0,0.0,0.0,0
+1171,469.0,andaz apna apna,rajkumar santoshi,1994.0,160.0,romance,8.0,0.0,0.0,0
+1172,470.0,vizontele,yilmaz erdogan,2001.0,110.0,comedia,8.0,0.0,0.0,0
+1173,470.0,vizontele,yilmaz erdogan,2001.0,110.0,drama,8.0,0.0,0.0,0
+1174,471.0,titanic,james cameron,1997.0,194.0,drama,7.9,75.0,659.33,0
+1175,471.0,titanic,james cameron,1997.0,194.0,romance,7.9,75.0,659.33,0
+1176,472.0,john wick: chapter 4,chad stahelski,2023.0,169.0,accion,7.9,78.0,0.0,0
+1177,472.0,john wick: chapter 4,chad stahelski,2023.0,169.0,crimen,7.9,78.0,0.0,0
+1178,472.0,john wick: chapter 4,chad stahelski,2023.0,169.0,thriller,7.9,78.0,0.0,0
+1179,473.0,avatar,james cameron,2009.0,162.0,accion,7.9,83.0,760.51,0
+1180,473.0,avatar,james cameron,2009.0,162.0,aventura,7.9,83.0,760.51,0
+1181,473.0,avatar,james cameron,2009.0,162.0,fantasia,7.9,83.0,760.51,0
+1182,474.0,puss in boots: the last wish,joel crawford,2022.0,102.0,animacion,7.9,73.0,168.46,0
+1183,474.0,puss in boots: the last wish,joel crawford,2022.0,102.0,aventura,7.9,73.0,168.46,0
+1184,474.0,puss in boots: the last wish,joel crawford,2022.0,102.0,comedia,7.9,73.0,168.46,0
+1185,475.0,zack snyder's justice league,zack snyder,2021.0,242.0,accion,7.9,54.0,0.0,0
+1186,475.0,zack snyder's justice league,zack snyder,2021.0,242.0,aventura,7.9,54.0,0.0,0
+1187,475.0,zack snyder's justice league,zack snyder,2021.0,242.0,fantasia,7.9,54.0,0.0,0
+1188,476.0,arrival,denis villeneuve,2016.0,116.0,drama,7.9,81.0,100.55,0
+1189,476.0,arrival,denis villeneuve,2016.0,116.0,misterio,7.9,81.0,100.55,0
+1190,476.0,arrival,denis villeneuve,2016.0,116.0,ciencia ficcion,7.9,81.0,100.55,0
+1191,477.0,fantastic mr. fox,wes anderson,2009.0,87.0,animacion,7.9,83.0,21.0,0
+1192,477.0,fantastic mr. fox,wes anderson,2009.0,87.0,aventura,7.9,83.0,21.0,0
+1193,477.0,fantastic mr. fox,wes anderson,2009.0,87.0,comedia,7.9,83.0,21.0,0
+1194,478.0,knives out,rian johnson,2019.0,130.0,comedia,7.9,82.0,165.36,0
+1195,478.0,knives out,rian johnson,2019.0,130.0,crimen,7.9,82.0,165.36,0
+1196,478.0,knives out,rian johnson,2019.0,130.0,drama,7.9,82.0,165.36,0
+1197,479.0,iron man,jon favreau,2008.0,126.0,accion,7.9,79.0,318.41,0
+1198,479.0,iron man,jon favreau,2008.0,126.0,aventura,7.9,79.0,318.41,0
+1199,479.0,iron man,jon favreau,2008.0,126.0,ciencia ficcion,7.9,79.0,318.41,0
+1200,480.0,mulholland drive,david lynch,2001.0,147.0,drama,7.9,86.0,7.22,0
+1201,480.0,mulholland drive,david lynch,2001.0,147.0,misterio,7.9,86.0,7.22,0
+1202,480.0,mulholland drive,david lynch,2001.0,147.0,thriller,7.9,86.0,7.22,0
+1203,481.0,harry potter and the prisoner of azkaban,alfonso cuara3n,2004.0,142.0,aventura,7.9,82.0,249.36,0
+1204,481.0,harry potter and the prisoner of azkaban,alfonso cuara3n,2004.0,142.0,familiar,7.9,82.0,249.36,0
+1205,481.0,harry potter and the prisoner of azkaban,alfonso cuara3n,2004.0,142.0,fantasia,7.9,82.0,249.36,0
+1206,482.0,star trek,j.j. abrams,2009.0,127.0,accion,7.9,82.0,257.73,0
+1207,482.0,star trek,j.j. abrams,2009.0,127.0,aventura,7.9,82.0,257.73,0
+1208,482.0,star trek,j.j. abrams,2009.0,127.0,ciencia ficcion,7.9,82.0,257.73,0
+1209,483.0,true romance,tony scott,1993.0,119.0,crimen,7.9,59.0,12.28,0
+1210,483.0,true romance,tony scott,1993.0,119.0,drama,7.9,59.0,12.28,0
+1211,483.0,true romance,tony scott,1993.0,119.0,romance,7.9,59.0,12.28,0
+1212,484.0,boogie nights,paul thomas anderson,1997.0,155.0,drama,7.9,85.0,26.4,0
+1213,485.0,edward scissorhands,tim burton,1990.0,105.0,drama,7.9,74.0,56.36,0
+1214,485.0,edward scissorhands,tim burton,1990.0,105.0,fantasia,7.9,74.0,56.36,0
+1215,485.0,edward scissorhands,tim burton,1990.0,105.0,romance,7.9,74.0,56.36,0
+1216,486.0,edge of tomorrow,doug liman,2014.0,113.0,accion,7.9,71.0,100.21,0
+1217,486.0,edge of tomorrow,doug liman,2014.0,113.0,aventura,7.9,71.0,100.21,0
+1218,486.0,edge of tomorrow,doug liman,2014.0,113.0,ciencia ficcion,7.9,71.0,100.21,0
+1219,487.0,the perks of being a wallflower,stephen chbosky,2012.0,103.0,drama,7.9,67.0,17.74,0
+1220,488.0,x-men: days of future past,bryan singer,2014.0,132.0,accion,7.9,75.0,233.92,0
+1221,488.0,x-men: days of future past,bryan singer,2014.0,132.0,aventura,7.9,75.0,233.92,0
+1222,488.0,x-men: days of future past,bryan singer,2014.0,132.0,ciencia ficcion,7.9,75.0,233.92,0
+1223,489.0,shaun of the dead,edgar wright,2004.0,99.0,comedia,7.9,76.0,13.54,0
+1224,489.0,shaun of the dead,edgar wright,2004.0,99.0,terror,7.9,76.0,13.54,0
+1225,490.0,almost famous,cameron crowe,2000.0,122.0,aventura,7.9,90.0,32.53,0
+1226,490.0,almost famous,cameron crowe,2000.0,122.0,comedia,7.9,90.0,32.53,0
+1227,490.0,almost famous,cameron crowe,2000.0,122.0,drama,7.9,90.0,32.53,0
+1228,491.0,jojo rabbit,taika waititi,2019.0,108.0,comedia,7.9,58.0,33.37,0
+1229,491.0,jojo rabbit,taika waititi,2019.0,108.0,drama,7.9,58.0,33.37,0
+1230,491.0,jojo rabbit,taika waititi,2019.0,108.0,guerra,7.9,58.0,33.37,0
+1231,492.0,the bourne identity,doug liman,2002.0,119.0,accion,7.9,68.0,121.66,0
+1232,492.0,the bourne identity,doug liman,2002.0,119.0,misterio,7.9,68.0,121.66,0
+1233,492.0,the bourne identity,doug liman,2002.0,119.0,thriller,7.9,68.0,121.66,0
+1234,493.0,bohemian rhapsody,bryan singer,2018.0,134.0,biografia,7.9,49.0,216.43,0
+1235,493.0,bohemian rhapsody,bryan singer,2018.0,134.0,drama,7.9,49.0,216.43,0
+1236,493.0,bohemian rhapsody,bryan singer,2018.0,134.0,musica,7.9,49.0,216.43,0
+1237,494.0,thor: ragnarok,taika waititi,2017.0,130.0,accion,7.9,74.0,315.06,0
+1238,494.0,thor: ragnarok,taika waititi,2017.0,130.0,aventura,7.9,74.0,315.06,0
+1239,494.0,thor: ragnarok,taika waititi,2017.0,130.0,comedia,7.9,74.0,315.06,0
+1240,495.0,charade,stanley donen,1963.0,113.0,comedia,7.9,83.0,13.47,0
+1241,495.0,charade,stanley donen,1963.0,113.0,misterio,7.9,83.0,13.47,0
+1242,495.0,charade,stanley donen,1963.0,113.0,romance,7.9,83.0,13.47,0
+1243,496.0,e.t. the extra-terrestrial,steven spielberg,1982.0,115.0,aventura,7.9,92.0,435.11,0
+1244,496.0,e.t. the extra-terrestrial,steven spielberg,1982.0,115.0,familiar,7.9,92.0,435.11,0
+1245,496.0,e.t. the extra-terrestrial,steven spielberg,1982.0,115.0,ciencia ficcion,7.9,92.0,435.11,0
+1246,497.0,shrek,andrew adamson,2001.0,90.0,animacion,7.9,84.0,267.67,0
+1247,497.0,shrek,andrew adamson,2001.0,90.0,aventura,7.9,84.0,267.67,0
+1248,497.0,shrek,andrew adamson,2001.0,90.0,comedia,7.9,84.0,267.67,0
+1249,498.0,rope,alfred hitchcock,1948.0,80.0,crimen,7.9,73.0,0.0,0
+1250,498.0,rope,alfred hitchcock,1948.0,80.0,drama,7.9,73.0,0.0,0
+1251,498.0,rope,alfred hitchcock,1948.0,80.0,misterio,7.9,73.0,0.0,0
+1252,499.0,life of pi,ang lee,2012.0,127.0,aventura,7.9,79.0,124.99,0
+1253,499.0,life of pi,ang lee,2012.0,127.0,drama,7.9,79.0,124.99,0
+1254,499.0,life of pi,ang lee,2012.0,127.0,fantasia,7.9,79.0,124.99,0
+1255,500.0,in bruges,martin mcdonagh,2008.0,107.0,comedia,7.9,67.0,7.76,0
+1256,500.0,in bruges,martin mcdonagh,2008.0,107.0,crimen,7.9,67.0,7.76,0
+1257,500.0,in bruges,martin mcdonagh,2008.0,107.0,drama,7.9,67.0,7.76,0
+1258,501.0,children of men,alfonso cuara3n,2006.0,109.0,accion,7.9,84.0,35.55,0
+1259,501.0,children of men,alfonso cuara3n,2006.0,109.0,drama,7.9,84.0,35.55,0
+1260,501.0,children of men,alfonso cuara3n,2006.0,109.0,ciencia ficcion,7.9,84.0,35.55,0
+1261,502.0,the blues brothers,john landis,1980.0,133.0,accion,7.9,60.0,57.23,0
+1262,502.0,the blues brothers,john landis,1980.0,133.0,aventura,7.9,60.0,57.23,0
+1263,502.0,the blues brothers,john landis,1980.0,133.0,comedia,7.9,60.0,57.23,0
+1264,503.0,mystic river,clint eastwood,2003.0,138.0,crimen,7.9,84.0,90.14,0
+1265,503.0,mystic river,clint eastwood,2003.0,138.0,drama,7.9,84.0,90.14,0
+1266,503.0,mystic river,clint eastwood,2003.0,138.0,misterio,7.9,84.0,90.14,0
+1267,504.0,dallas buyers club,jean-marc vallae,2013.0,117.0,biografia,7.9,77.0,27.3,0
+1268,504.0,dallas buyers club,jean-marc vallae,2013.0,117.0,drama,7.9,77.0,27.3,0
+1269,505.0,district 9,neill blomkamp,2009.0,112.0,accion,7.9,81.0,115.65,0
+1270,505.0,district 9,neill blomkamp,2009.0,112.0,ciencia ficcion,7.9,81.0,115.65,0
+1271,505.0,district 9,neill blomkamp,2009.0,112.0,thriller,7.9,81.0,115.65,0
+1272,506.0,marriage story,noah baumbach,2019.0,137.0,drama,7.9,94.0,2.0,0
+1273,506.0,marriage story,noah baumbach,2019.0,137.0,romance,7.9,94.0,2.0,0
+1274,507.0,wonder,stephen chbosky,2017.0,113.0,drama,7.9,66.0,132.42,0
+1275,507.0,wonder,stephen chbosky,2017.0,113.0,familiar,7.9,66.0,132.42,0
+1276,508.0,all the president's men,alan j. pakula,1976.0,138.0,drama,7.9,84.0,70.6,0
+1277,508.0,all the president's men,alan j. pakula,1976.0,138.0,historia,7.9,84.0,70.6,0
+1278,508.0,all the president's men,alan j. pakula,1976.0,138.0,thriller,7.9,84.0,70.6,0
+1279,509.0,toy story 2,john lasseter,1999.0,92.0,animacion,7.9,88.0,245.85,0
+1280,509.0,toy story 2,john lasseter,1999.0,92.0,aventura,7.9,88.0,245.85,0
+1281,509.0,toy story 2,john lasseter,1999.0,92.0,comedia,7.9,88.0,245.85,0
+1282,510.0,the searchers,john ford,1956.0,119.0,aventura,7.9,94.0,0.0,0
+1283,510.0,the searchers,john ford,1956.0,119.0,drama,7.9,94.0,0.0,0
+1284,510.0,the searchers,john ford,1956.0,119.0,western,7.9,94.0,0.0,0
+1285,511.0,boyhood,richard linklater,2014.0,165.0,drama,7.9,100.0,25.38,0
+1286,512.0,this is spinal tap,rob reiner,1984.0,82.0,comedia,7.9,92.0,4.74,0
+1287,512.0,this is spinal tap,rob reiner,1984.0,82.0,musica,7.9,92.0,4.74,0
+1288,513.0,carlito's way,brian de palma,1993.0,144.0,crimen,7.9,66.0,36.95,0
+1289,513.0,carlito's way,brian de palma,1993.0,144.0,drama,7.9,66.0,36.95,0
+1290,513.0,carlito's way,brian de palma,1993.0,144.0,thriller,7.9,66.0,36.95,0
+1291,514.0,the man from earth,richard schenkman,2007.0,87.0,drama,7.9,0.0,0.0,0
+1292,514.0,the man from earth,richard schenkman,2007.0,87.0,fantasia,7.9,0.0,0.0,0
+1293,514.0,the man from earth,richard schenkman,2007.0,87.0,misterio,7.9,0.0,0.0,0
+1294,515.0,bound by honor,taylor hackford,1993.0,180.0,crimen,7.9,47.0,4.5,0
+1295,515.0,bound by honor,taylor hackford,1993.0,180.0,drama,7.9,47.0,4.5,0
+1296,516.0,brazil,terry gilliam,1985.0,132.0,drama,7.9,84.0,9.93,0
+1297,516.0,brazil,terry gilliam,1985.0,132.0,ciencia ficcion,7.9,84.0,9.93,0
+1298,517.0,ghost in the shell,mamoru oshii,1995.0,83.0,animacion,7.9,76.0,0.52,0
+1299,517.0,ghost in the shell,mamoru oshii,1995.0,83.0,accion,7.9,76.0,0.52,0
+1300,517.0,ghost in the shell,mamoru oshii,1995.0,83.0,crimen,7.9,76.0,0.52,0
+1301,518.0,the nightmare before christmas,henry selick,1993.0,76.0,animacion,7.9,82.0,75.08,0
+1302,518.0,the nightmare before christmas,henry selick,1993.0,76.0,familiar,7.9,82.0,75.08,0
+1303,518.0,the nightmare before christmas,henry selick,1993.0,76.0,fantasia,7.9,82.0,75.08,0
+1304,519.0,before midnight,richard linklater,2013.0,109.0,drama,7.9,94.0,8.11,0
+1305,519.0,before midnight,richard linklater,2013.0,109.0,romance,7.9,94.0,8.11,0
+1306,520.0,a fistful of dollars,sergio leone,1964.0,99.0,accion,7.9,65.0,14.5,0
+1307,520.0,a fistful of dollars,sergio leone,1964.0,99.0,drama,7.9,65.0,14.5,0
+1308,520.0,a fistful of dollars,sergio leone,1964.0,99.0,western,7.9,65.0,14.5,0
+1309,521.0,spartacus,stanley kubrick,1960.0,197.0,aventura,7.9,87.0,30.0,0
+1310,521.0,spartacus,stanley kubrick,1960.0,197.0,biografia,7.9,87.0,30.0,0
+1311,521.0,spartacus,stanley kubrick,1960.0,197.0,drama,7.9,87.0,30.0,0
+1312,522.0,the wrestler,darren aronofsky,2008.0,109.0,drama,7.9,80.0,26.24,0
+1313,522.0,the wrestler,darren aronofsky,2008.0,109.0,deportes,7.9,80.0,26.24,0
+1314,522.0,the wrestler,darren aronofsky,2008.0,109.0,thriller,7.9,80.0,26.24,0
+1315,523.0,a streetcar named desire,elia kazan,1951.0,122.0,drama,7.9,97.0,8.0,0
+1316,524.0,the ten commandments,cecil b. demille,1956.0,220.0,aventura,7.9,0.0,93.74,0
+1317,524.0,the ten commandments,cecil b. demille,1956.0,220.0,drama,7.9,0.0,93.74,0
+1318,524.0,the ten commandments,cecil b. demille,1956.0,220.0,familiar,7.9,0.0,93.74,0
+1322,526.0,let the right one in,tomas alfredson,2008.0,114.0,drama,7.9,82.0,2.12,0
+1323,526.0,let the right one in,tomas alfredson,2008.0,114.0,fantasia,7.9,82.0,2.12,0
+1324,526.0,let the right one in,tomas alfredson,2008.0,114.0,terror,7.9,82.0,2.12,0
+1325,527.0,the wild bunch,sam peckinpah,1969.0,135.0,accion,7.9,98.0,12.06,0
+1326,527.0,the wild bunch,sam peckinpah,1969.0,135.0,aventura,7.9,98.0,12.06,0
+1327,527.0,the wild bunch,sam peckinpah,1969.0,135.0,drama,7.9,98.0,12.06,0
+1328,528.0,in the heat of the night,norman jewison,1967.0,110.0,drama,7.9,76.0,24.38,0
+1329,528.0,in the heat of the night,norman jewison,1967.0,110.0,misterio,7.9,76.0,24.38,0
+1330,528.0,in the heat of the night,norman jewison,1967.0,110.0,thriller,7.9,76.0,24.38,0
+1331,529.0,doctor zhivago,david lean,1965.0,197.0,drama,7.9,69.0,111.72,0
+1332,529.0,doctor zhivago,david lean,1965.0,197.0,romance,7.9,69.0,111.72,0
+1333,529.0,doctor zhivago,david lean,1965.0,197.0,guerra,7.9,69.0,111.72,0
+1334,530.0,the raid 2,gareth evans,2014.0,150.0,accion,7.9,71.0,2.63,0
+1335,530.0,the raid 2,gareth evans,2014.0,150.0,crimen,7.9,71.0,2.63,0
+1336,530.0,the raid 2,gareth evans,2014.0,150.0,thriller,7.9,71.0,2.63,0
+1337,531.0,nosferatu,f.w. murnau,1922.0,94.0,fantasia,7.9,0.0,0.0,0
+1338,531.0,nosferatu,f.w. murnau,1922.0,94.0,terror,7.9,0.0,0.0,0
+1339,532.0,the manchurian candidate,john frankenheimer,1962.0,126.0,drama,7.9,94.0,0.0,0
+1340,532.0,the manchurian candidate,john frankenheimer,1962.0,126.0,thriller,7.9,94.0,0.0,0
+1341,533.0,once were warriors,lee tamahori,1994.0,102.0,crimen,7.9,77.0,2.2,0
+1342,533.0,once were warriors,lee tamahori,1994.0,102.0,drama,7.9,77.0,2.2,0
+1343,534.0,sing street,john carney,2016.0,106.0,comedia,7.9,79.0,3.24,0
+1344,534.0,sing street,john carney,2016.0,106.0,drama,7.9,79.0,3.24,0
+1345,534.0,sing street,john carney,2016.0,106.0,musica,7.9,79.0,3.24,0
+1346,535.0,harold and maude,hal ashby,1971.0,91.0,comedia,7.9,62.0,0.0,0
+1347,535.0,harold and maude,hal ashby,1971.0,91.0,drama,7.9,62.0,0.0,0
+1348,535.0,harold and maude,hal ashby,1971.0,91.0,romance,7.9,62.0,0.0,0
+1349,536.0,togo,ericson core,2019.0,113.0,aventura,7.9,69.0,0.0,0
+1350,536.0,togo,ericson core,2019.0,113.0,biografia,7.9,69.0,0.0,0
+1351,536.0,togo,ericson core,2019.0,113.0,drama,7.9,69.0,0.0,0
+1352,537.0,notorious,alfred hitchcock,1946.0,102.0,drama,7.9,100.0,10.46,0
+1353,537.0,notorious,alfred hitchcock,1946.0,102.0,film-noir,7.9,100.0,10.46,0
+1354,537.0,notorious,alfred hitchcock,1946.0,102.0,romance,7.9,100.0,10.46,0
+1355,538.0,hero,yimou zhang,2002.0,120.0,accion,7.9,85.0,53.71,0
+1356,538.0,hero,yimou zhang,2002.0,120.0,aventura,7.9,85.0,53.71,0
+1357,538.0,hero,yimou zhang,2002.0,120.0,drama,7.9,85.0,53.71,0
+1358,539.0,the lion in winter,anthony harvey,1968.0,134.0,biografia,7.9,0.0,22.28,0
+1359,539.0,the lion in winter,anthony harvey,1968.0,134.0,drama,7.9,0.0,22.28,0
+1360,539.0,the lion in winter,anthony harvey,1968.0,134.0,historia,7.9,0.0,22.28,0
+1361,540.0,the artist,michel hazanavicius,2011.0,100.0,comedia,7.9,89.0,44.67,0
+1362,540.0,the artist,michel hazanavicius,2011.0,100.0,drama,7.9,89.0,44.67,0
+1363,540.0,the artist,michel hazanavicius,2011.0,100.0,romance,7.9,89.0,44.67,0
+1364,541.0,king kong,merian c. cooper,1933.0,100.0,aventura,7.9,92.0,10.0,0
+1365,541.0,king kong,merian c. cooper,1933.0,100.0,terror,7.9,92.0,10.0,0
+1366,541.0,king kong,merian c. cooper,1933.0,100.0,ciencia ficcion,7.9,92.0,10.0,0
+1367,542.0,shoplifters,kore-eda hirokazu,2018.0,121.0,crimen,7.9,93.0,3.31,0
+1368,542.0,shoplifters,kore-eda hirokazu,2018.0,121.0,drama,7.9,93.0,3.31,0
+1369,542.0,shoplifters,kore-eda hirokazu,2018.0,121.0,thriller,7.9,93.0,3.31,0
+1370,543.0,a christmas story,bob clark,1983.0,93.0,comedia,7.9,77.0,20.61,0
+1371,543.0,a christmas story,bob clark,1983.0,93.0,familiar,7.9,77.0,20.61,0
+1372,544.0,the killing,stanley kubrick,1956.0,84.0,crimen,7.9,91.0,0.0,0
+1373,544.0,the killing,stanley kubrick,1956.0,84.0,drama,7.9,91.0,0.0,0
+1374,544.0,the killing,stanley kubrick,1956.0,84.0,film-noir,7.9,91.0,0.0,0
+1375,545.0,dancer in the dark,lars von trier,2000.0,140.0,crimen,7.9,63.0,4.18,0
+1376,545.0,dancer in the dark,lars von trier,2000.0,140.0,drama,7.9,63.0,4.18,0
+1377,545.0,dancer in the dark,lars von trier,2000.0,140.0,musical,7.9,63.0,4.18,0
+1378,546.0,three colors: blue,krzysztof kieslowski,1993.0,94.0,drama,7.9,87.0,1.32,0
+1379,546.0,three colors: blue,krzysztof kieslowski,1993.0,94.0,musica,7.9,87.0,1.32,0
+1380,546.0,three colors: blue,krzysztof kieslowski,1993.0,94.0,misterio,7.9,87.0,1.32,0
+1381,547.0,strangers on a train,alfred hitchcock,1951.0,101.0,crimen,7.9,88.0,7.63,0
+1382,547.0,strangers on a train,alfred hitchcock,1951.0,101.0,drama,7.9,88.0,7.63,0
+1383,547.0,strangers on a train,alfred hitchcock,1951.0,101.0,film-noir,7.9,88.0,7.63,0
+1384,548.0,short term 12,destin daniel cretton,2013.0,96.0,drama,7.9,82.0,1.01,0
+1385,549.0,the red circle,jean-pierre melville,1970.0,140.0,crimen,7.9,92.0,0.37,0
+1386,549.0,the red circle,jean-pierre melville,1970.0,140.0,drama,7.9,92.0,0.37,0
+1387,549.0,the red circle,jean-pierre melville,1970.0,140.0,thriller,7.9,92.0,0.37,0
+1388,550.0,patton,franklin j. schaffner,1970.0,172.0,biografia,7.9,86.0,61.7,0
+1389,550.0,patton,franklin j. schaffner,1970.0,172.0,drama,7.9,86.0,61.7,0
+1390,550.0,patton,franklin j. schaffner,1970.0,172.0,guerra,7.9,86.0,61.7,0
+1391,551.0,the big sleep,howard hawks,1946.0,114.0,crimen,7.9,86.0,6.54,0
+1392,551.0,the big sleep,howard hawks,1946.0,114.0,film-noir,7.9,86.0,6.54,0
+1393,551.0,the big sleep,howard hawks,1946.0,114.0,misterio,7.9,86.0,6.54,0
+1394,552.0,about elly,asghar farhadi,2009.0,119.0,drama,7.9,87.0,0.11,0
+1395,552.0,about elly,asghar farhadi,2009.0,119.0,misterio,7.9,87.0,0.11,0
+1396,553.0,the philadelphia story,george cukor,1940.0,112.0,comedia,7.9,96.0,0.0,0
+1397,553.0,the philadelphia story,george cukor,1940.0,112.0,romance,7.9,96.0,0.0,0
+1398,554.0,cat on a hot tin roof,richard brooks,1958.0,108.0,drama,7.9,84.0,17.57,0
+1399,555.0,arsenic and old lace,frank capra,1944.0,118.0,comedia,7.9,0.0,0.0,0
+1400,555.0,arsenic and old lace,frank capra,1944.0,118.0,crimen,7.9,0.0,0.0,0
+1401,555.0,arsenic and old lace,frank capra,1944.0,118.0,thriller,7.9,0.0,0.0,0
+1402,556.0,head-on,fatih akin,2004.0,121.0,drama,7.9,78.0,0.0,0
+1403,556.0,head-on,fatih akin,2004.0,121.0,romance,7.9,78.0,0.0,0
+1404,557.0,the conformist,bernardo bertolucci,1970.0,113.0,drama,7.9,100.0,0.54,0
+1405,558.0,amour,michael haneke,2012.0,127.0,drama,7.9,95.0,6.74,0
+1406,559.0,talk to her,pedro almoda3var,2002.0,112.0,drama,7.9,86.0,9.36,0
+1407,559.0,talk to her,pedro almoda3var,2002.0,112.0,misterio,7.9,86.0,9.36,0
+1408,559.0,talk to her,pedro almoda3var,2002.0,112.0,romance,7.9,86.0,9.36,0
+1409,560.0,kal ho naa ho,nikkhil advani,2003.0,186.0,comedia,7.9,54.0,1.79,0
+1410,560.0,kal ho naa ho,nikkhil advani,2003.0,186.0,drama,7.9,54.0,1.79,0
+1411,560.0,kal ho naa ho,nikkhil advani,2003.0,186.0,musical,7.9,54.0,1.79,0
+1412,561.0,the thin man,w.s. van dyke,1934.0,91.0,comedia,7.9,86.0,0.0,0
+1413,561.0,the thin man,w.s. van dyke,1934.0,91.0,crimen,7.9,86.0,0.0,0
+1414,561.0,the thin man,w.s. van dyke,1934.0,91.0,misterio,7.9,86.0,0.0,0
+1415,562.0,the sacrifice,andrei tarkovsky,1986.0,149.0,drama,7.9,0.0,0.3,0
+1416,563.0,in a lonely place,nicholas ray,1950.0,94.0,drama,7.9,0.0,0.0,0
+1417,563.0,in a lonely place,nicholas ray,1950.0,94.0,film-noir,7.9,0.0,0.0,0
+1418,563.0,in a lonely place,nicholas ray,1950.0,94.0,misterio,7.9,0.0,0.0,0
+1419,564.0,i remember,federico fellini,1973.0,123.0,comedia,7.9,0.0,0.58,0
+1420,564.0,i remember,federico fellini,1973.0,123.0,drama,7.9,0.0,0.58,0
+1421,565.0,the adventures of robin hood,michael curtiz,1938.0,102.0,accion,7.9,97.0,3.98,0
+1422,565.0,the adventures of robin hood,michael curtiz,1938.0,102.0,aventura,7.9,97.0,3.98,0
+1423,565.0,the adventures of robin hood,michael curtiz,1938.0,102.0,romance,7.9,97.0,3.98,0
+1424,566.0,my name is khan,karan johar,2010.0,165.0,aventura,7.9,50.0,4.02,0
+1425,566.0,my name is khan,karan johar,2010.0,165.0,drama,7.9,50.0,4.02,0
+1426,566.0,my name is khan,karan johar,2010.0,165.0,romance,7.9,50.0,4.02,0
+1427,567.0,a taxi driver,hun jang,2017.0,137.0,accion,7.9,69.0,1.53,0
+1428,567.0,a taxi driver,hun jang,2017.0,137.0,drama,7.9,69.0,1.53,0
+1429,567.0,a taxi driver,hun jang,2017.0,137.0,historia,7.9,69.0,1.53,0
+1430,568.0,mildred pierce,michael curtiz,1945.0,111.0,crimen,7.9,88.0,0.0,0
+1431,568.0,mildred pierce,michael curtiz,1945.0,111.0,drama,7.9,88.0,0.0,0
+1432,568.0,mildred pierce,michael curtiz,1945.0,111.0,film-noir,7.9,88.0,0.0,0
+1433,569.0,laura,otto preminger,1944.0,88.0,drama,7.9,0.0,4.36,0
+1434,569.0,laura,otto preminger,1944.0,88.0,film-noir,7.9,0.0,4.36,0
+1435,569.0,laura,otto preminger,1944.0,88.0,misterio,7.9,0.0,4.36,0
+1436,570.0,in cold blood,richard brooks,1967.0,134.0,biografia,7.9,89.0,0.0,0
+1437,570.0,in cold blood,richard brooks,1967.0,134.0,crimen,7.9,89.0,0.0,0
+1438,570.0,in cold blood,richard brooks,1967.0,134.0,drama,7.9,89.0,0.0,0
+1439,571.0,harvey,henry koster,1950.0,104.0,comedia,7.9,0.0,0.0,0
+1440,571.0,harvey,henry koster,1950.0,104.0,drama,7.9,0.0,0.0,0
+1441,571.0,harvey,henry koster,1950.0,104.0,fantasia,7.9,0.0,0.0,0
+1442,572.0,sullivan's travels,preston sturges,1941.0,90.0,aventura,7.9,0.0,0.0,0
+1443,572.0,sullivan's travels,preston sturges,1941.0,90.0,comedia,7.9,0.0,0.0,0
+1444,572.0,sullivan's travels,preston sturges,1941.0,90.0,drama,7.9,0.0,0.0,0
+1445,573.0,3-iron,kim ki-duk,2004.0,88.0,crimen,7.9,72.0,0.24,0
+1446,573.0,3-iron,kim ki-duk,2004.0,88.0,drama,7.9,72.0,0.24,0
+1447,573.0,3-iron,kim ki-duk,2004.0,88.0,romance,7.9,72.0,0.24,0
+1448,574.0,c.r.a.z.y.,jean-marc vallae,2005.0,129.0,comedia,7.9,81.0,0.0,0
+1449,574.0,c.r.a.z.y.,jean-marc vallae,2005.0,129.0,drama,7.9,81.0,0.0,0
+1450,575.0,the way he looks,daniel ribeiro,2014.0,96.0,drama,7.9,71.0,0.1,0
+1451,575.0,the way he looks,daniel ribeiro,2014.0,96.0,romance,7.9,71.0,0.1,0
+1452,576.0,kagemusha,akira kurosawa,1980.0,162.0,drama,7.9,84.0,0.0,0
+1453,576.0,kagemusha,akira kurosawa,1980.0,162.0,historia,7.9,84.0,0.0,0
+1454,576.0,kagemusha,akira kurosawa,1980.0,162.0,guerra,7.9,84.0,0.0,0
+1455,577.0,gully boy,zoya akhtar,2019.0,154.0,drama,7.9,65.0,5.57,0
+1456,577.0,gully boy,zoya akhtar,2019.0,154.0,musica,7.9,65.0,5.57,0
+1457,577.0,gully boy,zoya akhtar,2019.0,154.0,romance,7.9,65.0,5.57,0
+1458,578.0,miracle on 34th street,george seaton,1947.0,96.0,comedia,7.9,88.0,2.65,0
+1459,578.0,miracle on 34th street,george seaton,1947.0,96.0,drama,7.9,88.0,2.65,0
+1460,578.0,miracle on 34th street,george seaton,1947.0,96.0,familiar,7.9,88.0,2.65,0
+1461,579.0,nine queens,fabian bielinsky,2000.0,114.0,crimen,7.9,80.0,1.22,0
+1462,579.0,nine queens,fabian bielinsky,2000.0,114.0,drama,7.9,80.0,1.22,0
+1463,579.0,nine queens,fabian bielinsky,2000.0,114.0,thriller,7.9,80.0,1.22,0
+1464,580.0,elevator to the gallows,louis malle,1958.0,91.0,crimen,7.9,94.0,0.11,0
+1465,580.0,elevator to the gallows,louis malle,1958.0,91.0,drama,7.9,94.0,0.11,0
+1466,580.0,elevator to the gallows,louis malle,1958.0,91.0,thriller,7.9,94.0,0.11,0
+1467,581.0,super 30,vikas bahl,2019.0,154.0,biografia,7.9,0.0,2.27,0
+1468,581.0,super 30,vikas bahl,2019.0,154.0,drama,7.9,0.0,2.27,0
+1469,582.0,the lost weekend,billy wilder,1945.0,101.0,drama,7.9,0.0,9.46,0
+1470,582.0,the lost weekend,billy wilder,1945.0,101.0,film-noir,7.9,0.0,9.46,0
+1472,584.0,battleship potemkin,sergei eisenstein,1925.0,66.0,drama,7.9,97.0,0.05,0
+1473,584.0,battleship potemkin,sergei eisenstein,1925.0,66.0,historia,7.9,97.0,0.05,0
+1474,584.0,battleship potemkin,sergei eisenstein,1925.0,66.0,thriller,7.9,97.0,0.05,0
+1475,585.0,hiroshima mon amour,alain resnais,1959.0,90.0,drama,7.9,0.0,0.09,0
+1476,585.0,hiroshima mon amour,alain resnais,1959.0,90.0,romance,7.9,0.0,0.09,0
+1477,586.0,the big heat,fritz lang,1953.0,89.0,crimen,7.9,0.0,0.0,0
+1478,586.0,the big heat,fritz lang,1953.0,89.0,film-noir,7.9,0.0,0.0,0
+1479,586.0,the big heat,fritz lang,1953.0,89.0,thriller,7.9,0.0,0.0,0
+1480,587.0,dev.d,anurag kashyap,2009.0,144.0,comedia,7.9,0.0,0.01,0
+1481,587.0,dev.d,anurag kashyap,2009.0,144.0,drama,7.9,0.0,0.01,0
+1482,587.0,dev.d,anurag kashyap,2009.0,144.0,romance,7.9,0.0,0.01,0
+1483,588.0,the rules of the game,jean renoir,1939.0,110.0,comedia,7.9,99.0,0.0,0
+1484,588.0,the rules of the game,jean renoir,1939.0,110.0,drama,7.9,99.0,0.0,0
+1485,589.0,jab we met,imtiaz ali,2007.0,138.0,comedia,7.9,0.0,0.41,0
+1486,589.0,jab we met,imtiaz ali,2007.0,138.0,drama,7.9,0.0,0.41,0
+1487,589.0,jab we met,imtiaz ali,2007.0,138.0,romance,7.9,0.0,0.41,0
+1488,590.0,the return,andrey zvyagintsev,2003.0,110.0,drama,7.9,82.0,0.5,0
+1489,591.0,beauty and the beast,jean cocteau,1946.0,93.0,drama,7.9,92.0,0.3,0
+1490,591.0,beauty and the beast,jean cocteau,1946.0,93.0,fantasia,7.9,92.0,0.3,0
+1491,591.0,beauty and the beast,jean cocteau,1946.0,93.0,romance,7.9,92.0,0.3,0
+1492,592.0,no man's land,danis tanovic,2001.0,98.0,comedia,7.9,84.0,1.06,0
+1493,592.0,no man's land,danis tanovic,2001.0,98.0,drama,7.9,84.0,1.06,0
+1494,592.0,no man's land,danis tanovic,2001.0,98.0,guerra,7.9,84.0,1.06,0
+1495,593.0,badhaai ho,amit ravindernath sharma,2018.0,124.0,comedia,7.9,0.0,0.0,0
+1496,593.0,badhaai ho,amit ravindernath sharma,2018.0,124.0,drama,7.9,0.0,0.0,0
+1497,594.0,through a glass darkly,ingmar bergman,1961.0,90.0,drama,7.9,84.0,0.0,0
+1498,595.0,pad man,r. balki,2018.0,140.0,comedia,7.9,0.0,1.66,0
+1499,595.0,pad man,r. balki,2018.0,140.0,drama,7.9,0.0,1.66,0
+1500,596.0,baby,neeraj pandey,2015.0,159.0,accion,7.9,0.0,0.0,0
+1501,596.0,baby,neeraj pandey,2015.0,159.0,crimen,7.9,0.0,0.0,0
+1502,596.0,baby,neeraj pandey,2015.0,159.0,thriller,7.9,0.0,0.0,0
+1503,597.0,airlift,raja menon,2016.0,130.0,accion,7.9,0.0,0.0,0
+1504,597.0,airlift,raja menon,2016.0,130.0,drama,7.9,0.0,0.0,0
+1505,597.0,airlift,raja menon,2016.0,130.0,historia,7.9,0.0,0.0,0
+1506,598.0,the batman,matt reeves,2022.0,176.0,accion,7.8,72.0,369.35,0
+1507,598.0,the batman,matt reeves,2022.0,176.0,crimen,7.8,72.0,369.35,0
+1508,598.0,the batman,matt reeves,2022.0,176.0,drama,7.8,72.0,369.35,0
+1509,599.0,everything everywhere all at once,daniel kwan,2022.0,139.0,accion,7.8,81.0,72.86,0
+1510,599.0,everything everywhere all at once,daniel kwan,2022.0,139.0,aventura,7.8,81.0,72.86,0
+1511,599.0,everything everywhere all at once,daniel kwan,2022.0,139.0,comedia,7.8,81.0,72.86,0
+1512,600.0,tombstone,george p. cosmatos,1993.0,130.0,biografia,7.8,50.0,56.51,0
+1513,600.0,tombstone,george p. cosmatos,1993.0,130.0,drama,7.8,50.0,56.51,0
+1514,600.0,tombstone,george p. cosmatos,1993.0,130.0,historia,7.8,50.0,56.51,0
+1515,601.0,little miss sunshine,jonathan dayton,2006.0,101.0,comedia,7.8,80.0,59.89,0
+1516,601.0,little miss sunshine,jonathan dayton,2006.0,101.0,drama,7.8,80.0,59.89,0
+1517,602.0,dunkirk,christopher nolan,2017.0,106.0,accion,7.8,94.0,188.37,0
+1518,602.0,dunkirk,christopher nolan,2017.0,106.0,drama,7.8,94.0,188.37,0
+1519,602.0,dunkirk,christopher nolan,2017.0,106.0,historia,7.8,94.0,188.37,0
+1520,603.0,a bronx tale,robert de niro,1993.0,121.0,crimen,7.8,80.0,17.27,0
+1521,603.0,a bronx tale,robert de niro,1993.0,121.0,drama,7.8,80.0,17.27,0
+1522,604.0,moonrise kingdom,wes anderson,2012.0,94.0,comedia,7.8,84.0,45.51,0
+1523,604.0,moonrise kingdom,wes anderson,2012.0,94.0,drama,7.8,84.0,45.51,0
+1524,604.0,moonrise kingdom,wes anderson,2012.0,94.0,familiar,7.8,84.0,45.51,0
+1525,605.0,the breakfast club,john hughes,1985.0,97.0,comedia,7.8,66.0,45.88,0
+1526,605.0,the breakfast club,john hughes,1985.0,97.0,drama,7.8,66.0,45.88,0
+1527,606.0,the gentlemen,guy ritchie,2019.0,113.0,accion,7.8,51.0,36.47,0
+1528,606.0,the gentlemen,guy ritchie,2019.0,113.0,comedia,7.8,51.0,36.47,0
+1529,606.0,the gentlemen,guy ritchie,2019.0,113.0,crimen,7.8,51.0,36.47,0
+1530,607.0,get out,jordan peele,2017.0,104.0,terror,7.8,85.0,176.04,0
+1531,607.0,get out,jordan peele,2017.0,104.0,misterio,7.8,85.0,176.04,0
+1532,607.0,get out,jordan peele,2017.0,104.0,thriller,7.8,85.0,176.04,0
+1533,608.0,the notebook,nick cassavetes,2004.0,123.0,drama,7.8,53.0,81.0,0
+1534,608.0,the notebook,nick cassavetes,2004.0,123.0,romance,7.8,53.0,81.0,0
+1535,609.0,all quiet on the western front,edward berger,2022.0,148.0,accion,7.8,76.0,0.0,0
+1536,609.0,all quiet on the western front,edward berger,2022.0,148.0,drama,7.8,76.0,0.0,0
+1537,609.0,all quiet on the western front,edward berger,2022.0,148.0,guerra,7.8,76.0,0.0,0
+1538,610.0,drive,nicolas winding refn,2011.0,100.0,accion,7.8,78.0,35.06,0
+1539,610.0,drive,nicolas winding refn,2011.0,100.0,drama,7.8,78.0,35.06,0
+1540,611.0,pride & prejudice,joe wright,2005.0,129.0,drama,7.8,82.0,38.41,0
+1541,611.0,pride & prejudice,joe wright,2005.0,129.0,romance,7.8,82.0,38.41,0
+1542,612.0,the big short,adam mckay,2015.0,130.0,biografia,7.8,81.0,70.26,0
+1543,612.0,the big short,adam mckay,2015.0,130.0,comedia,7.8,81.0,70.26,0
+1544,612.0,the big short,adam mckay,2015.0,130.0,drama,7.8,81.0,70.26,0
+1545,613.0,hot fuzz,edgar wright,2007.0,121.0,accion,7.8,81.0,23.64,0
+1546,613.0,hot fuzz,edgar wright,2007.0,121.0,comedia,7.8,81.0,23.64,0
+1547,613.0,hot fuzz,edgar wright,2007.0,121.0,misterio,7.8,81.0,23.64,0
+1548,614.0,call me by your name,luca guadagnino,2017.0,132.0,drama,7.8,94.0,18.1,0
+1549,614.0,call me by your name,luca guadagnino,2017.0,132.0,romance,7.8,94.0,18.1,0
+1550,615.0,rrr,s.s. rajamouli,2022.0,187.0,accion,7.8,83.0,14.5,0
+1551,615.0,rrr,s.s. rajamouli,2022.0,187.0,drama,7.8,83.0,14.5,0
+1552,616.0,about time,richard curtis,2013.0,123.0,comedia,7.8,55.0,15.32,0
+1553,616.0,about time,richard curtis,2013.0,123.0,drama,7.8,55.0,15.32,0
+1554,616.0,about time,richard curtis,2013.0,123.0,fantasia,7.8,55.0,15.32,0
+1555,617.0,the hateful eight,quentin tarantino,2015.0,168.0,crimen,7.8,68.0,54.12,0
+1556,617.0,the hateful eight,quentin tarantino,2015.0,168.0,drama,7.8,68.0,54.12,0
+1557,617.0,the hateful eight,quentin tarantino,2015.0,168.0,misterio,7.8,68.0,54.12,0
+1558,618.0,ghostbusters,ivan reitman,1984.0,105.0,accion,7.8,71.0,238.63,0
+1559,618.0,ghostbusters,ivan reitman,1984.0,105.0,comedia,7.8,71.0,238.63,0
+1560,618.0,ghostbusters,ivan reitman,1984.0,105.0,fantasia,7.8,71.0,238.63,0
+1561,619.0,the irishman,martin scorsese,2019.0,209.0,biografia,7.8,94.0,7.0,0
+1562,619.0,the irishman,martin scorsese,2019.0,209.0,crimen,7.8,94.0,7.0,0
+1563,619.0,the irishman,martin scorsese,2019.0,209.0,drama,7.8,94.0,7.0,0
+1564,620.0,little women,greta gerwig,2019.0,135.0,drama,7.8,91.0,108.1,0
+1565,620.0,little women,greta gerwig,2019.0,135.0,romance,7.8,91.0,108.1,0
+1566,621.0,the girl with the dragon tattoo,david fincher,2011.0,158.0,crimen,7.8,71.0,102.52,0
+1567,621.0,the girl with the dragon tattoo,david fincher,2011.0,158.0,drama,7.8,71.0,102.52,0
+1568,621.0,the girl with the dragon tattoo,david fincher,2011.0,158.0,misterio,7.8,71.0,102.52,0
+1569,622.0,the sandlot,david mickey evans,1993.0,101.0,comedia,7.8,55.0,32.42,0
+1570,622.0,the sandlot,david mickey evans,1993.0,101.0,drama,7.8,55.0,32.42,0
+1571,622.0,the sandlot,david mickey evans,1993.0,101.0,familiar,7.8,55.0,32.42,0
+1572,623.0,predator,john mctiernan,1987.0,107.0,accion,7.8,47.0,59.74,0
+1573,623.0,predator,john mctiernan,1987.0,107.0,aventura,7.8,47.0,59.74,0
+1574,623.0,predator,john mctiernan,1987.0,107.0,terror,7.8,47.0,59.74,0
+1575,624.0,the social network,david fincher,2010.0,120.0,biografia,7.8,95.0,96.96,0
+1576,624.0,the social network,david fincher,2010.0,120.0,drama,7.8,95.0,96.96,0
+1577,625.0,isle of dogs,wes anderson,2018.0,101.0,animacion,7.8,82.0,32.02,0
+1578,625.0,isle of dogs,wes anderson,2018.0,101.0,aventura,7.8,82.0,32.02,0
+1579,625.0,isle of dogs,wes anderson,2018.0,101.0,comedia,7.8,82.0,32.02,0
+1580,626.0,remember the titans,boaz yakin,2000.0,113.0,biografia,7.8,48.0,115.65,0
+1581,626.0,remember the titans,boaz yakin,2000.0,113.0,drama,7.8,48.0,115.65,0
+1582,626.0,remember the titans,boaz yakin,2000.0,113.0,deportes,7.8,48.0,115.65,0
+1583,627.0,ferris bueller's day off,john hughes,1986.0,103.0,comedia,7.8,61.0,70.14,0
+1584,628.0,the hobbit: an unexpected journey,peter jackson,2012.0,169.0,aventura,7.8,58.0,303.0,0
+1585,628.0,the hobbit: an unexpected journey,peter jackson,2012.0,169.0,fantasia,7.8,58.0,303.0,0
+1586,629.0,rogue one: a star wars story,gareth edwards,2016.0,133.0,accion,7.8,65.0,532.18,0
+1587,629.0,rogue one: a star wars story,gareth edwards,2016.0,133.0,aventura,7.8,65.0,532.18,0
+1588,629.0,rogue one: a star wars story,gareth edwards,2016.0,133.0,ciencia ficcion,7.8,65.0,532.18,0
+1589,630.0,star wars: episode vii - the force awakens,j.j. abrams,2015.0,138.0,accion,7.8,80.0,936.66,0
+1590,630.0,star wars: episode vii - the force awakens,j.j. abrams,2015.0,138.0,aventura,7.8,80.0,936.66,0
+1591,630.0,star wars: episode vii - the force awakens,j.j. abrams,2015.0,138.0,ciencia ficcion,7.8,80.0,936.66,0
+1592,631.0,apocalypto,mel gibson,2006.0,139.0,accion,7.8,68.0,50.87,0
+1593,631.0,apocalypto,mel gibson,2006.0,139.0,aventura,7.8,68.0,50.87,0
+1594,631.0,apocalypto,mel gibson,2006.0,139.0,drama,7.8,68.0,50.87,0
+1595,632.0,nightcrawler,dan gilroy,2014.0,117.0,crimen,7.8,76.0,32.38,0
+1596,632.0,nightcrawler,dan gilroy,2014.0,117.0,drama,7.8,76.0,32.38,0
+1597,632.0,nightcrawler,dan gilroy,2014.0,117.0,thriller,7.8,76.0,32.38,0
+1598,633.0,the fugitive,andrew davis,1993.0,130.0,accion,7.8,87.0,183.88,0
+1599,633.0,the fugitive,andrew davis,1993.0,130.0,crimen,7.8,87.0,183.88,0
+1600,633.0,the fugitive,andrew davis,1993.0,130.0,drama,7.8,87.0,183.88,0
+1601,634.0,hidden figures,theodore melfi,2016.0,127.0,biografia,7.8,74.0,169.61,0
+1602,634.0,hidden figures,theodore melfi,2016.0,127.0,drama,7.8,74.0,169.61,0
+1603,634.0,hidden figures,theodore melfi,2016.0,127.0,historia,7.8,74.0,169.61,0
+1604,635.0,american gangster,ridley scott,2007.0,157.0,biografia,7.8,76.0,130.16,0
+1605,635.0,american gangster,ridley scott,2007.0,157.0,crimen,7.8,76.0,130.16,0
+1606,635.0,american gangster,ridley scott,2007.0,157.0,drama,7.8,76.0,130.16,0
+1607,636.0,atonement,joe wright,2007.0,123.0,drama,7.8,85.0,50.93,0
+1608,636.0,atonement,joe wright,2007.0,123.0,misterio,7.8,85.0,50.93,0
+1609,636.0,atonement,joe wright,2007.0,123.0,romance,7.8,85.0,50.93,0
+1610,637.0,the killing fields,roland joffa,1984.0,141.0,biografia,7.8,76.0,34.7,0
+1611,637.0,the killing fields,roland joffa,1984.0,141.0,drama,7.8,76.0,34.7,0
+1612,637.0,the killing fields,roland joffa,1984.0,141.0,historia,7.8,76.0,34.7,0
+1613,638.0,the curious case of benjamin button,david fincher,2008.0,166.0,drama,7.8,70.0,127.51,0
+1614,638.0,the curious case of benjamin button,david fincher,2008.0,166.0,fantasia,7.8,70.0,127.51,0
+1615,638.0,the curious case of benjamin button,david fincher,2008.0,166.0,romance,7.8,70.0,127.51,0
+1616,639.0,captain america: civil war,anthony russo,2016.0,147.0,accion,7.8,75.0,408.08,0
+1617,639.0,captain america: civil war,anthony russo,2016.0,147.0,ciencia ficcion,7.8,75.0,408.08,0
+1618,640.0,the untouchables,brian de palma,1987.0,119.0,crimen,7.8,79.0,76.27,0
+1619,640.0,the untouchables,brian de palma,1987.0,119.0,drama,7.8,79.0,76.27,0
+1620,640.0,the untouchables,brian de palma,1987.0,119.0,thriller,7.8,79.0,76.27,0
+1621,641.0,taken,pierre morel,2008.0,90.0,accion,7.8,51.0,145.0,0
+1622,641.0,taken,pierre morel,2008.0,90.0,crimen,7.8,51.0,145.0,0
+1623,641.0,taken,pierre morel,2008.0,90.0,thriller,7.8,51.0,145.0,0
+1624,642.0,cast away,robert zemeckis,2000.0,143.0,aventura,7.8,73.0,233.63,0
+1625,642.0,cast away,robert zemeckis,2000.0,143.0,drama,7.8,73.0,233.63,0
+1626,642.0,cast away,robert zemeckis,2000.0,143.0,romance,7.8,73.0,233.63,0
+1627,643.0,back to the future part ii,robert zemeckis,1989.0,108.0,aventura,7.8,57.0,118.5,0
+1628,643.0,back to the future part ii,robert zemeckis,1989.0,108.0,comedia,7.8,57.0,118.5,0
+1629,643.0,back to the future part ii,robert zemeckis,1989.0,108.0,ciencia ficcion,7.8,57.0,118.5,0
+1630,644.0,the worst person in the world,joachim trier,2021.0,128.0,comedia,7.8,90.0,0.0,0
+1631,644.0,the worst person in the world,joachim trier,2021.0,128.0,drama,7.8,90.0,0.0,0
+1632,644.0,the worst person in the world,joachim trier,2021.0,128.0,romance,7.8,90.0,0.0,0
+1633,645.0,willy wonka & the chocolate factory,mel stuart,1971.0,100.0,familiar,7.8,67.0,4.0,0
+1634,645.0,willy wonka & the chocolate factory,mel stuart,1971.0,100.0,fantasia,7.8,67.0,4.0,0
+1635,645.0,willy wonka & the chocolate factory,mel stuart,1971.0,100.0,musical,7.8,67.0,4.0,0
+1636,646.0,the outlaw josey wales,clint eastwood,1976.0,135.0,western,7.8,69.0,31.8,0
+1637,647.0,captain america: the winter soldier,anthony russo,2014.0,136.0,accion,7.8,70.0,259.77,0
+1638,647.0,captain america: the winter soldier,anthony russo,2014.0,136.0,aventura,7.8,70.0,259.77,0
+1639,647.0,captain america: the winter soldier,anthony russo,2014.0,136.0,ciencia ficcion,7.8,70.0,259.77,0
+1640,648.0,skyfall,sam mendes,2012.0,143.0,accion,7.8,81.0,304.36,0
+1641,648.0,skyfall,sam mendes,2012.0,143.0,aventura,7.8,81.0,304.36,0
+1642,648.0,skyfall,sam mendes,2012.0,143.0,thriller,7.8,81.0,304.36,0
+1643,649.0,captain phillips,paul greengrass,2013.0,134.0,accion,7.8,82.0,107.1,0
+1644,649.0,captain phillips,paul greengrass,2013.0,134.0,biografia,7.8,82.0,107.1,0
+1645,649.0,captain phillips,paul greengrass,2013.0,134.0,crimen,7.8,82.0,107.1,0
+1646,650.0,manchester by the sea,kenneth lonergan,2016.0,137.0,drama,7.8,96.0,47.7,0
+1647,651.0,captain fantastic,matt ross,2016.0,118.0,comedia,7.8,72.0,5.88,0
+1648,651.0,captain fantastic,matt ross,2016.0,118.0,drama,7.8,72.0,5.88,0
+1649,652.0,the hobbit: the desolation of smaug,peter jackson,2013.0,161.0,fantasia,7.8,66.0,258.37,0
+1650,653.0,gattaca,andrew niccol,1997.0,106.0,drama,7.8,64.0,12.34,0
+1651,653.0,gattaca,andrew niccol,1997.0,106.0,ciencia ficcion,7.8,64.0,12.34,0
+1652,653.0,gattaca,andrew niccol,1997.0,106.0,thriller,7.8,64.0,12.34,0
+1653,654.0,misery,rob reiner,1990.0,107.0,drama,7.8,75.0,61.28,0
+1654,654.0,misery,rob reiner,1990.0,107.0,thriller,7.8,75.0,61.28,0
+1655,655.0,the last samurai,edward zwick,2003.0,154.0,accion,7.8,55.0,111.11,0
+1656,655.0,the last samurai,edward zwick,2003.0,154.0,drama,7.8,55.0,111.11,0
+1657,656.0,big hero 6,don hall,2014.0,102.0,animacion,7.8,74.0,222.53,0
+1658,656.0,big hero 6,don hall,2014.0,102.0,accion,7.8,74.0,222.53,0
+1659,656.0,big hero 6,don hall,2014.0,102.0,aventura,7.8,74.0,222.53,0
+1660,657.0,thirteen lives,ron howard,2022.0,147.0,accion,7.8,66.0,0.0,0
+1661,657.0,thirteen lives,ron howard,2022.0,147.0,aventura,7.8,66.0,0.0,0
+1662,657.0,thirteen lives,ron howard,2022.0,147.0,biografia,7.8,66.0,0.0,0
+1663,658.0,midnight cowboy,john schlesinger,1969.0,113.0,drama,7.8,79.0,44.79,0
+1664,659.0,boyz n the hood,john singleton,1991.0,112.0,crimen,7.8,76.0,57.5,0
+1665,659.0,boyz n the hood,john singleton,1991.0,112.0,drama,7.8,76.0,57.5,0
+1666,660.0,i saw the devil,jee-woon kim,2010.0,144.0,accion,7.8,67.0,0.13,0
+1667,660.0,i saw the devil,jee-woon kim,2010.0,144.0,crimen,7.8,67.0,0.13,0
+1668,660.0,i saw the devil,jee-woon kim,2010.0,144.0,thriller,7.8,67.0,0.13,0
+1669,661.0,mary poppins,robert stevenson,1964.0,139.0,comedia,7.8,88.0,102.27,0
+1670,661.0,mary poppins,robert stevenson,1964.0,139.0,familiar,7.8,88.0,102.27,0
+1671,661.0,mary poppins,robert stevenson,1964.0,139.0,fantasia,7.8,88.0,102.27,0
+1672,662.0,walk the line,james mangold,2005.0,136.0,biografia,7.8,72.0,119.52,0
+1673,662.0,walk the line,james mangold,2005.0,136.0,drama,7.8,72.0,119.52,0
+1674,662.0,walk the line,james mangold,2005.0,136.0,musica,7.8,72.0,119.52,0
+1675,663.0,east of eden,elia kazan,1955.0,118.0,drama,7.8,72.0,0.0,0
+1676,664.0,straight outta compton,f. gary gray,2015.0,147.0,biografia,7.8,72.0,161.2,0
+1677,664.0,straight outta compton,f. gary gray,2015.0,147.0,drama,7.8,72.0,161.2,0
+1678,664.0,straight outta compton,f. gary gray,2015.0,147.0,historia,7.8,72.0,161.2,0
+1679,665.0,the conversation,francis ford coppola,1974.0,113.0,drama,7.8,87.0,4.42,0
+1680,665.0,the conversation,francis ford coppola,1974.0,113.0,misterio,7.8,87.0,4.42,0
+1681,665.0,the conversation,francis ford coppola,1974.0,113.0,thriller,7.8,87.0,4.42,0
+1682,666.0,glory,edward zwick,1989.0,122.0,biografia,7.8,78.0,26.83,0
+1683,666.0,glory,edward zwick,1989.0,122.0,drama,7.8,78.0,26.83,0
+1684,666.0,glory,edward zwick,1989.0,122.0,historia,7.8,78.0,26.83,0
+1685,667.0,awakenings,penny marshall,1990.0,121.0,biografia,7.8,74.0,52.1,0
+1686,667.0,awakenings,penny marshall,1990.0,121.0,drama,7.8,74.0,52.1,0
+1687,668.0,serenity,joss whedon,2005.0,119.0,accion,7.8,74.0,25.51,0
+1688,668.0,serenity,joss whedon,2005.0,119.0,aventura,7.8,74.0,25.51,0
+1689,668.0,serenity,joss whedon,2005.0,119.0,ciencia ficcion,7.8,74.0,25.51,0
+1690,669.0,moon,duncan jones,2009.0,97.0,drama,7.8,67.0,5.01,0
+1691,669.0,moon,duncan jones,2009.0,97.0,misterio,7.8,67.0,5.01,0
+1692,669.0,moon,duncan jones,2009.0,97.0,ciencia ficcion,7.8,67.0,5.01,0
+1693,670.0,the holy mountain,alejandro jodorowsky,1973.0,114.0,aventura,7.8,76.0,0.06,0
+1694,670.0,the holy mountain,alejandro jodorowsky,1973.0,114.0,drama,7.8,76.0,0.06,0
+1695,670.0,the holy mountain,alejandro jodorowsky,1973.0,114.0,fantasia,7.8,76.0,0.06,0
+1696,671.0,the right stuff,philip kaufman,1983.0,193.0,aventura,7.8,91.0,21.5,0
+1697,671.0,the right stuff,philip kaufman,1983.0,193.0,biografia,7.8,91.0,21.5,0
+1698,671.0,the right stuff,philip kaufman,1983.0,193.0,drama,7.8,91.0,21.5,0
+1699,672.0,the fighter,david o. russell,2010.0,116.0,accion,7.8,79.0,93.62,0
+1700,672.0,the fighter,david o. russell,2010.0,116.0,biografia,7.8,79.0,93.62,0
+1701,672.0,the fighter,david o. russell,2010.0,116.0,drama,7.8,79.0,93.62,0
+1702,673.0,mississippi burning,alan parker,1988.0,128.0,crimen,7.8,65.0,34.6,0
+1703,673.0,mississippi burning,alan parker,1988.0,128.0,drama,7.8,65.0,34.6,0
+1704,673.0,mississippi burning,alan parker,1988.0,128.0,misterio,7.8,65.0,34.6,0
+1705,674.0,the king of comedy,martin scorsese,1982.0,109.0,comedia,7.8,73.0,2.5,0
+1706,674.0,the king of comedy,martin scorsese,1982.0,109.0,crimen,7.8,73.0,2.5,0
+1707,674.0,the king of comedy,martin scorsese,1982.0,109.0,drama,7.8,73.0,2.5,0
+1708,675.0,the fall,tarsem singh,2006.0,117.0,aventura,7.8,64.0,2.28,0
+1709,675.0,the fall,tarsem singh,2006.0,117.0,drama,7.8,64.0,2.28,0
+1710,675.0,the fall,tarsem singh,2006.0,117.0,fantasia,7.8,64.0,2.28,0
+1711,676.0,paddington 2,paul king,2017.0,103.0,aventura,7.8,88.0,40.44,0
+1712,676.0,paddington 2,paul king,2017.0,103.0,comedia,7.8,88.0,40.44,0
+1713,676.0,paddington 2,paul king,2017.0,103.0,familiar,7.8,88.0,40.44,0
+1714,677.0,the girl with the dragon tattoo,niels arden oplev,2009.0,152.0,crimen,7.8,76.0,10.1,0
+1715,677.0,the girl with the dragon tattoo,niels arden oplev,2009.0,152.0,drama,7.8,76.0,10.1,0
+1716,677.0,the girl with the dragon tattoo,niels arden oplev,2009.0,152.0,misterio,7.8,76.0,10.1,0
+1717,678.0,kiki's delivery service,hayao miyazaki,1989.0,103.0,animacion,7.8,85.0,0.0,0
+1718,678.0,kiki's delivery service,hayao miyazaki,1989.0,103.0,familiar,7.8,85.0,0.0,0
+1719,678.0,kiki's delivery service,hayao miyazaki,1989.0,103.0,fantasia,7.8,85.0,0.0,0
+1720,679.0,how to train your dragon 2,dean deblois,2014.0,102.0,animacion,7.8,77.0,177.0,0
+1721,679.0,how to train your dragon 2,dean deblois,2014.0,102.0,accion,7.8,77.0,177.0,0
+1722,679.0,how to train your dragon 2,dean deblois,2014.0,102.0,aventura,7.8,77.0,177.0,0
+1723,680.0,the remains of the day,james ivory,1993.0,134.0,drama,7.8,86.0,22.95,0
+1724,680.0,the remains of the day,james ivory,1993.0,134.0,romance,7.8,86.0,22.95,0
+1725,681.0,pride,matthew warchus,2014.0,119.0,biografia,7.8,79.0,0.0,0
+1726,681.0,pride,matthew warchus,2014.0,119.0,comedia,7.8,79.0,0.0,0
+1727,681.0,pride,matthew warchus,2014.0,119.0,drama,7.8,79.0,0.0,0
+1728,682.0,hunt for the wilderpeople,taika waititi,2016.0,101.0,aventura,7.8,81.0,5.2,0
+1729,682.0,hunt for the wilderpeople,taika waititi,2016.0,101.0,comedia,7.8,81.0,5.2,0
+1730,682.0,hunt for the wilderpeople,taika waititi,2016.0,101.0,drama,7.8,81.0,5.2,0
+1731,683.0,the insider,michael mann,1999.0,157.0,biografia,7.8,84.0,28.97,0
+1732,683.0,the insider,michael mann,1999.0,157.0,drama,7.8,84.0,28.97,0
+1733,683.0,the insider,michael mann,1999.0,157.0,thriller,7.8,84.0,28.97,0
+1734,684.0,changeling,clint eastwood,2008.0,141.0,biografia,7.8,63.0,35.74,0
+1735,684.0,changeling,clint eastwood,2008.0,141.0,crimen,7.8,63.0,35.74,0
+1736,684.0,changeling,clint eastwood,2008.0,141.0,drama,7.8,63.0,35.74,0
+1737,685.0,ed wood,tim burton,1994.0,127.0,biografia,7.8,70.0,5.89,0
+1738,685.0,ed wood,tim burton,1994.0,127.0,comedia,7.8,70.0,5.89,0
+1739,685.0,ed wood,tim burton,1994.0,127.0,drama,7.8,70.0,5.89,0
+1740,686.0,night of the living dead,george a. romero,1968.0,96.0,terror,7.8,89.0,0.09,0
+1741,686.0,night of the living dead,george a. romero,1968.0,96.0,thriller,7.8,89.0,0.09,0
+1742,687.0,the day the earth stood still,robert wise,1951.0,92.0,drama,7.8,83.0,0.0,0
+1743,687.0,the day the earth stood still,robert wise,1951.0,92.0,ciencia ficcion,7.8,83.0,0.0,0
+1744,688.0,the best offer,giuseppe tornatore,2013.0,131.0,crimen,7.8,49.0,0.09,0
+1745,688.0,the best offer,giuseppe tornatore,2013.0,131.0,drama,7.8,49.0,0.09,0
+1746,688.0,the best offer,giuseppe tornatore,2013.0,131.0,misterio,7.8,49.0,0.09,0
+1747,689.0,dawn of the dead,george a. romero,1978.0,127.0,terror,7.8,71.0,5.1,0
+1748,689.0,dawn of the dead,george a. romero,1978.0,127.0,thriller,7.8,71.0,5.1,0
+1749,690.0,my fair lady,george cukor,1964.0,170.0,drama,7.8,95.0,72.0,0
+1750,690.0,my fair lady,george cukor,1964.0,170.0,familiar,7.8,95.0,72.0,0
+1751,690.0,my fair lady,george cukor,1964.0,170.0,musical,7.8,95.0,72.0,0
+1752,691.0,kramer vs. kramer,robert benton,1979.0,105.0,drama,7.8,77.0,106.26,0
+1753,692.0,my left foot,jim sheridan,1989.0,103.0,biografia,7.8,97.0,14.74,0
+1754,692.0,my left foot,jim sheridan,1989.0,103.0,drama,7.8,97.0,14.74,0
+1755,693.0,the day of the jackal,fred zinnemann,1973.0,143.0,crimen,7.8,80.0,16.06,0
+1756,693.0,the day of the jackal,fred zinnemann,1973.0,143.0,drama,7.8,80.0,16.06,0
+1757,693.0,the day of the jackal,fred zinnemann,1973.0,143.0,thriller,7.8,80.0,16.06,0
+1758,694.0,bringing up baby,howard hawks,1938.0,102.0,comedia,7.8,91.0,0.0,0
+1759,695.0,cabaret,bob fosse,1972.0,124.0,drama,7.8,80.0,42.77,0
+1760,695.0,cabaret,bob fosse,1972.0,124.0,musica,7.8,80.0,42.77,0
+1761,695.0,cabaret,bob fosse,1972.0,124.0,musical,7.8,80.0,42.77,0
+1762,696.0,october sky,joe johnston,1999.0,108.0,biografia,7.8,71.0,32.48,0
+1763,696.0,october sky,joe johnston,1999.0,108.0,drama,7.8,71.0,32.48,0
+1764,696.0,october sky,joe johnston,1999.0,108.0,familiar,7.8,71.0,32.48,0
+1765,697.0,days of heaven,terrence malick,1978.0,94.0,drama,7.8,93.0,0.0,0
+1766,697.0,days of heaven,terrence malick,1978.0,94.0,romance,7.8,93.0,0.0,0
+1767,698.0,guess who's coming to dinner,stanley kramer,1967.0,108.0,comedia,7.8,63.0,56.7,0
+1768,698.0,guess who's coming to dinner,stanley kramer,1967.0,108.0,drama,7.8,63.0,56.7,0
+1769,699.0,once,john carney,2007.0,86.0,drama,7.8,90.0,9.44,0
+1770,699.0,once,john carney,2007.0,86.0,musica,7.8,90.0,9.44,0
+1771,699.0,once,john carney,2007.0,86.0,romance,7.8,90.0,9.44,0
+1775,701.0,freaks,tod browning,1932.0,64.0,drama,7.8,80.0,0.63,0
+1776,701.0,freaks,tod browning,1932.0,64.0,terror,7.8,80.0,0.63,0
+1777,702.0,all about my mother,pedro almoda3var,1999.0,101.0,comedia,7.8,87.0,8.26,0
+1778,702.0,all about my mother,pedro almoda3var,1999.0,101.0,drama,7.8,87.0,8.26,0
+1779,702.0,all about my mother,pedro almoda3var,1999.0,101.0,romance,7.8,87.0,8.26,0
+1780,703.0,all that jazz,bob fosse,1979.0,123.0,drama,7.8,72.0,37.82,0
+1781,703.0,all that jazz,bob fosse,1979.0,123.0,musica,7.8,72.0,37.82,0
+1782,703.0,all that jazz,bob fosse,1979.0,123.0,musical,7.8,72.0,37.82,0
+1783,704.0,letters from iwo jima,clint eastwood,2006.0,141.0,accion,7.8,89.0,13.76,0
+1784,704.0,letters from iwo jima,clint eastwood,2006.0,141.0,aventura,7.8,89.0,13.76,0
+1785,704.0,letters from iwo jima,clint eastwood,2006.0,141.0,drama,7.8,89.0,13.76,0
+1786,705.0,lilya 4-ever,lukas moodysson,2002.0,109.0,crimen,7.8,83.0,0.18,0
+1787,705.0,lilya 4-ever,lukas moodysson,2002.0,109.0,drama,7.8,83.0,0.18,0
+1788,706.0,whisper of the heart,yoshifumi konda ,1995.0,111.0,animacion,7.8,75.0,0.0,0
+1789,706.0,whisper of the heart,yoshifumi konda ,1995.0,111.0,drama,7.8,75.0,0.0,0
+1790,706.0,whisper of the heart,yoshifumi konda ,1995.0,111.0,familiar,7.8,75.0,0.0,0
+1791,707.0,gaslight,george cukor,1944.0,114.0,crimen,7.8,78.0,0.0,0
+1792,707.0,gaslight,george cukor,1944.0,114.0,drama,7.8,78.0,0.0,0
+1793,707.0,gaslight,george cukor,1944.0,114.0,misterio,7.8,78.0,0.0,0
+1794,708.0,the chaser,na hong-jin,2008.0,125.0,accion,7.8,64.0,0.0,0
+1795,708.0,the chaser,na hong-jin,2008.0,125.0,crimen,7.8,64.0,0.0,0
+1796,708.0,the chaser,na hong-jin,2008.0,125.0,drama,7.8,64.0,0.0,0
+1797,709.0,manhattan,woody allen,1979.0,96.0,comedia,7.8,83.0,45.7,0
+1798,709.0,manhattan,woody allen,1979.0,96.0,drama,7.8,83.0,45.7,0
+1799,709.0,manhattan,woody allen,1979.0,96.0,romance,7.8,83.0,45.7,0
+1800,710.0,breaking the waves,lars von trier,1996.0,159.0,drama,7.8,81.0,4.04,0
+1801,711.0,loving vincent,dk welchman,2017.0,94.0,animacion,7.8,62.0,6.74,0
+1802,711.0,loving vincent,dk welchman,2017.0,94.0,drama,7.8,62.0,6.74,0
+1803,711.0,loving vincent,dk welchman,2017.0,94.0,misterio,7.8,62.0,6.74,0
+1804,712.0,the world's fastest indian,roger donaldson,2005.0,127.0,biografia,7.8,68.0,5.13,0
+1805,712.0,the world's fastest indian,roger donaldson,2005.0,127.0,drama,7.8,68.0,5.13,0
+1806,712.0,the world's fastest indian,roger donaldson,2005.0,127.0,deportes,7.8,68.0,5.13,0
+1807,713.0,frankenstein,james whale,1931.0,70.0,drama,7.8,91.0,0.0,0
+1808,713.0,frankenstein,james whale,1931.0,70.0,terror,7.8,91.0,0.0,0
+1809,713.0,frankenstein,james whale,1931.0,70.0,ciencia ficcion,7.8,91.0,0.0,0
+1810,714.0,to have and have not,howard hawks,1944.0,100.0,aventura,7.8,90.0,0.0,0
+1811,714.0,to have and have not,howard hawks,1944.0,100.0,comedia,7.8,90.0,0.0,0
+1812,714.0,to have and have not,howard hawks,1944.0,100.0,film-noir,7.8,90.0,0.0,0
+1813,715.0,stagecoach,john ford,1939.0,96.0,aventura,7.8,93.0,0.0,0
+1814,715.0,stagecoach,john ford,1939.0,96.0,drama,7.8,93.0,0.0,0
+1815,715.0,stagecoach,john ford,1939.0,96.0,western,7.8,93.0,0.0,0
+1816,716.0,red river,howard hawks,1948.0,133.0,drama,7.8,96.0,0.0,0
+1817,716.0,red river,howard hawks,1948.0,133.0,western,7.8,96.0,0.0,0
+1818,717.0,the lunchbox,ritesh batra,2013.0,104.0,drama,7.8,76.0,4.23,0
+1819,717.0,the lunchbox,ritesh batra,2013.0,104.0,romance,7.8,76.0,4.23,0
+1820,718.0,land of mine,martin zandvliet,2015.0,100.0,drama,7.8,75.0,0.44,0
+1821,718.0,land of mine,martin zandvliet,2015.0,100.0,historia,7.8,75.0,0.44,0
+1822,718.0,land of mine,martin zandvliet,2015.0,100.0,guerra,7.8,75.0,0.44,0
+1823,719.0,his girl friday,howard hawks,1940.0,92.0,comedia,7.8,0.0,0.3,0
+1824,719.0,his girl friday,howard hawks,1940.0,92.0,drama,7.8,0.0,0.3,0
+1825,719.0,his girl friday,howard hawks,1940.0,92.0,romance,7.8,0.0,0.3,0
+1826,720.0,batman: mask of the phantasm,eric radomski,1993.0,76.0,animacion,7.8,65.0,5.62,0
+1827,720.0,batman: mask of the phantasm,eric radomski,1993.0,76.0,accion,7.8,65.0,5.62,0
+1828,720.0,batman: mask of the phantasm,eric radomski,1993.0,76.0,aventura,7.8,65.0,5.62,0
+1829,721.0,l'avventura,michelangelo antonioni,1960.0,144.0,drama,7.8,0.0,0.0,0
+1830,721.0,l'avventura,michelangelo antonioni,1960.0,144.0,misterio,7.8,0.0,0.0,0
+1831,721.0,l'avventura,michelangelo antonioni,1960.0,144.0,romance,7.8,0.0,0.0,0
+1832,722.0,hannah and her sisters,woody allen,1986.0,107.0,comedia,7.8,90.0,40.08,0
+1833,722.0,hannah and her sisters,woody allen,1986.0,107.0,drama,7.8,90.0,40.08,0
+1834,723.0,ninja scroll,yoshiaki kawajiri,1993.0,94.0,animacion,7.8,0.0,0.0,0
+1835,723.0,ninja scroll,yoshiaki kawajiri,1993.0,94.0,accion,7.8,0.0,0.0,0
+1836,723.0,ninja scroll,yoshiaki kawajiri,1993.0,94.0,aventura,7.8,0.0,0.0,0
+1837,724.0,the man who would be king,john huston,1975.0,129.0,aventura,7.8,91.0,0.0,0
+1838,724.0,the man who would be king,john huston,1975.0,129.0,guerra,7.8,91.0,0.0,0
+1839,725.0,the white ribbon,michael haneke,2009.0,144.0,drama,7.8,84.0,2.22,0
+1840,725.0,the white ribbon,michael haneke,2009.0,144.0,misterio,7.8,84.0,2.22,0
+1841,725.0,the white ribbon,michael haneke,2009.0,144.0,thriller,7.8,84.0,2.22,0
+1842,726.0,shadow of a doubt,alfred hitchcock,1943.0,108.0,film-noir,7.8,94.0,0.0,0
+1843,726.0,shadow of a doubt,alfred hitchcock,1943.0,108.0,thriller,7.8,94.0,0.0,0
+1844,727.0,a prophet,jacques audiard,2009.0,155.0,crimen,7.8,90.0,2.08,0
+1845,727.0,a prophet,jacques audiard,2009.0,155.0,drama,7.8,90.0,2.08,0
+1846,728.0,the bride of frankenstein,james whale,1935.0,75.0,drama,7.8,95.0,4.36,0
+1847,728.0,the bride of frankenstein,james whale,1935.0,75.0,terror,7.8,95.0,4.36,0
+1848,728.0,the bride of frankenstein,james whale,1935.0,75.0,ciencia ficcion,7.8,95.0,4.36,0
+1849,729.0,the umbrellas of cherbourg,jacques demy,1964.0,91.0,drama,7.8,86.0,0.03,0
+1850,729.0,the umbrellas of cherbourg,jacques demy,1964.0,91.0,musical,7.8,86.0,0.03,0
+1851,729.0,the umbrellas of cherbourg,jacques demy,1964.0,91.0,romance,7.8,86.0,0.03,0
+1853,731.0,the innocents,jack clayton,1961.0,100.0,terror,7.8,88.0,2.62,0
+1854,732.0,the killer,john woo,1989.0,111.0,accion,7.8,82.0,0.0,0
+1855,732.0,the killer,john woo,1989.0,111.0,crimen,7.8,82.0,0.0,0
+1856,732.0,the killer,john woo,1989.0,111.0,drama,7.8,82.0,0.0,0
+1857,733.0,the postman,michael radford,1994.0,108.0,biografia,7.8,81.0,21.85,0
+1858,733.0,the postman,michael radford,1994.0,108.0,comedia,7.8,81.0,21.85,0
+1859,733.0,the postman,michael radford,1994.0,108.0,drama,7.8,81.0,21.85,0
+1860,734.0,you can't take it with you,frank capra,1938.0,126.0,comedia,7.8,0.0,4.66,0
+1861,734.0,you can't take it with you,frank capra,1938.0,126.0,drama,7.8,0.0,4.66,0
+1862,734.0,you can't take it with you,frank capra,1938.0,126.0,romance,7.8,0.0,4.66,0
+1863,735.0,cowboy bebop: the movie,shin'ichira  watanabe,2001.0,115.0,animacion,7.8,61.0,1.0,0
+1864,735.0,cowboy bebop: the movie,shin'ichira  watanabe,2001.0,115.0,accion,7.8,61.0,1.0,0
+1865,735.0,cowboy bebop: the movie,shin'ichira  watanabe,2001.0,115.0,crimen,7.8,61.0,1.0,0
+1866,736.0,the chorus,christophe barratier,2004.0,97.0,comedia,7.8,56.0,3.64,0
+1867,736.0,the chorus,christophe barratier,2004.0,97.0,drama,7.8,56.0,3.64,0
+1868,736.0,the chorus,christophe barratier,2004.0,97.0,musica,7.8,56.0,3.64,0
+1869,737.0,tokyo godfathers,satoshi kon,2003.0,92.0,animacion,7.8,74.0,0.13,0
+1870,737.0,tokyo godfathers,satoshi kon,2003.0,92.0,aventura,7.8,74.0,0.13,0
+1871,737.0,tokyo godfathers,satoshi kon,2003.0,92.0,comedia,7.8,74.0,0.13,0
+1872,738.0,crimes and misdemeanors,woody allen,1989.0,104.0,comedia,7.8,77.0,18.25,0
+1873,738.0,crimes and misdemeanors,woody allen,1989.0,104.0,drama,7.8,77.0,18.25,0
+1874,739.0,once upon a time in anatolia,nuri bilge ceylan,2011.0,157.0,crimen,7.8,82.0,0.14,0
+1875,739.0,once upon a time in anatolia,nuri bilge ceylan,2011.0,157.0,drama,7.8,82.0,0.14,0
+1876,739.0,once upon a time in anatolia,nuri bilge ceylan,2011.0,157.0,thriller,7.8,82.0,0.14,0
+1877,740.0,the asphalt jungle,john huston,1950.0,112.0,crimen,7.8,85.0,0.0,0
+1878,740.0,the asphalt jungle,john huston,1950.0,112.0,drama,7.8,85.0,0.0,0
+1879,740.0,the asphalt jungle,john huston,1950.0,112.0,film-noir,7.8,85.0,0.0,0
+1880,741.0,veer zaara,yash chopra,2004.0,192.0,drama,7.8,67.0,2.92,0
+1881,741.0,veer zaara,yash chopra,2004.0,192.0,familiar,7.8,67.0,2.92,0
+1882,741.0,veer zaara,yash chopra,2004.0,192.0,musical,7.8,67.0,2.92,0
+1883,742.0,the discreet charm of the bourgeoisie,luis buauel,1972.0,102.0,comedia,7.8,93.0,0.2,0
+1885,744.0,english vinglish,gauri shinde,2012.0,134.0,comedia,7.8,0.0,1.67,0
+1886,744.0,english vinglish,gauri shinde,2012.0,134.0,drama,7.8,0.0,1.67,0
+1887,744.0,english vinglish,gauri shinde,2012.0,134.0,familiar,7.8,0.0,1.67,0
+1888,745.0,duck soup,leo mccarey,1933.0,69.0,comedia,7.8,93.0,0.0,0
+1889,745.0,duck soup,leo mccarey,1933.0,69.0,musical,7.8,93.0,0.0,0
+1890,746.0,vivre sa vie,jean-luc godard,1962.0,85.0,drama,7.8,0.0,0.0,0
+1891,747.0,millennium actress,satoshi kon,2001.0,87.0,animacion,7.8,70.0,0.19,0
+1892,747.0,millennium actress,satoshi kon,2001.0,87.0,drama,7.8,70.0,0.19,0
+1893,747.0,millennium actress,satoshi kon,2001.0,87.0,fantasia,7.8,70.0,0.19,0
+1894,748.0,knockin' on heaven's door,thomas jahn,1997.0,87.0,accion,7.8,0.0,0.0,0
+1895,748.0,knockin' on heaven's door,thomas jahn,1997.0,87.0,crimen,7.8,0.0,0.0,0
+1896,748.0,knockin' on heaven's door,thomas jahn,1997.0,87.0,comedia,7.8,0.0,0.0,0
+1897,749.0,my life as a zucchini,claude barras,2016.0,70.0,animacion,7.8,85.0,0.29,0
+1898,749.0,my life as a zucchini,claude barras,2016.0,70.0,comedia,7.8,85.0,0.29,0
+1899,749.0,my life as a zucchini,claude barras,2016.0,70.0,drama,7.8,85.0,0.29,0
+1900,750.0,a night at the opera,sam wood,1935.0,96.0,comedia,7.8,0.0,2.54,0
+1901,750.0,a night at the opera,sam wood,1935.0,96.0,musica,7.8,0.0,2.54,0
+1902,750.0,a night at the opera,sam wood,1935.0,96.0,musical,7.8,0.0,2.54,0
+1903,751.0,hindi medium,saket chaudhary,2017.0,132.0,comedia,7.8,0.0,0.0,0
+1904,751.0,hindi medium,saket chaudhary,2017.0,132.0,drama,7.8,0.0,0.0,0
+1905,752.0,vicky donor,shoojit sircar,2012.0,126.0,comedia,7.8,0.0,0.17,0
+1906,752.0,vicky donor,shoojit sircar,2012.0,126.0,romance,7.8,0.0,0.17,0
+1907,753.0,the whale,darren aronofsky,2022.0,117.0,drama,7.7,60.0,0.0,0
+1908,754.0,mission: impossible - fallout,christopher mcquarrie,2018.0,147.0,accion,7.7,86.0,220.16,0
+1909,754.0,mission: impossible - fallout,christopher mcquarrie,2018.0,147.0,aventura,7.7,86.0,220.16,0
+1910,754.0,mission: impossible - fallout,christopher mcquarrie,2018.0,147.0,thriller,7.7,86.0,220.16,0
+1911,755.0,the banshees of inisherin,martin mcdonagh,2022.0,114.0,comedia,7.7,87.0,0.0,0
+1912,755.0,the banshees of inisherin,martin mcdonagh,2022.0,114.0,drama,7.7,87.0,0.0,0
+1913,756.0,the goonies,richard donner,1985.0,114.0,aventura,7.7,62.0,61.5,0
+1914,756.0,the goonies,richard donner,1985.0,114.0,comedia,7.7,62.0,61.5,0
+1915,756.0,the goonies,richard donner,1985.0,114.0,familiar,7.7,62.0,61.5,0
+1916,757.0,aftersun,charlotte wells,2022.0,102.0,drama,7.7,95.0,0.0,0
+1917,758.0,kingsman: the secret service,matthew vaughn,2014.0,129.0,accion,7.7,60.0,128.26,0
+1918,758.0,kingsman: the secret service,matthew vaughn,2014.0,129.0,aventura,7.7,60.0,128.26,0
+1919,758.0,kingsman: the secret service,matthew vaughn,2014.0,129.0,comedia,7.7,60.0,128.26,0
+1920,759.0,harry potter and the goblet of fire,mike newell,2005.0,157.0,aventura,7.7,81.0,290.01,0
+1921,759.0,harry potter and the goblet of fire,mike newell,2005.0,157.0,familiar,7.7,81.0,290.01,0
+1922,759.0,harry potter and the goblet of fire,mike newell,2005.0,157.0,fantasia,7.7,81.0,290.01,0
+1923,760.0,the hangover,todd phillips,2009.0,100.0,comedia,7.7,73.0,277.32,0
+1924,761.0,ocean's eleven,steven soderbergh,2001.0,116.0,crimen,7.7,74.0,183.42,0
+1925,761.0,ocean's eleven,steven soderbergh,2001.0,116.0,thriller,7.7,74.0,183.42,0
+1926,762.0,silver linings playbook,david o. russell,2012.0,122.0,comedia,7.7,81.0,132.09,0
+1927,762.0,silver linings playbook,david o. russell,2012.0,122.0,drama,7.7,81.0,132.09,0
+1928,762.0,silver linings playbook,david o. russell,2012.0,122.0,romance,7.7,81.0,132.09,0
+1929,763.0,zodiac,david fincher,2007.0,157.0,crimen,7.7,79.0,33.08,0
+1930,763.0,zodiac,david fincher,2007.0,157.0,drama,7.7,79.0,33.08,0
+1931,763.0,zodiac,david fincher,2007.0,157.0,misterio,7.7,79.0,33.08,0
+1932,764.0,black hawk down,ridley scott,2001.0,144.0,accion,7.7,74.0,108.64,0
+1933,764.0,black hawk down,ridley scott,2001.0,144.0,drama,7.7,74.0,108.64,0
+1934,764.0,black hawk down,ridley scott,2001.0,144.0,historia,7.7,74.0,108.64,0
+1935,765.0,argo,ben affleck,2012.0,120.0,biografia,7.7,86.0,136.03,0
+1936,765.0,argo,ben affleck,2012.0,120.0,drama,7.7,86.0,136.03,0
+1937,765.0,argo,ben affleck,2012.0,120.0,thriller,7.7,86.0,136.03,0
+1938,766.0,a few good men,rob reiner,1992.0,138.0,drama,7.7,62.0,141.34,0
+1939,766.0,a few good men,rob reiner,1992.0,138.0,thriller,7.7,62.0,141.34,0
+1940,767.0,blue is the warmest colour,abdellatif kechiche,2013.0,180.0,drama,7.7,90.0,2.2,0
+1941,767.0,blue is the warmest colour,abdellatif kechiche,2013.0,180.0,romance,7.7,90.0,2.2,0
+1942,768.0,blazing saddles,mel brooks,1974.0,93.0,comedia,7.7,73.0,119.5,0
+1943,768.0,blazing saddles,mel brooks,1974.0,93.0,western,7.7,73.0,119.5,0
+1944,769.0,lost in translation,sofia coppola,2003.0,102.0,comedia,7.7,91.0,44.59,0
+1945,769.0,lost in translation,sofia coppola,2003.0,102.0,drama,7.7,91.0,44.59,0
+1946,770.0,evil dead ii,sam raimi,1987.0,84.0,comedia,7.7,72.0,5.92,0
+1947,770.0,evil dead ii,sam raimi,1987.0,84.0,terror,7.7,72.0,5.92,0
+1948,771.0,harry potter and the deathly hallows: part 1,david yates,2010.0,146.0,aventura,7.7,65.0,295.98,0
+1949,771.0,harry potter and the deathly hallows: part 1,david yates,2010.0,146.0,familiar,7.7,65.0,295.98,0
+1950,771.0,harry potter and the deathly hallows: part 1,david yates,2010.0,146.0,fantasia,7.7,65.0,295.98,0
+1951,772.0,brokeback mountain,ang lee,2005.0,134.0,drama,7.7,87.0,83.04,0
+1952,772.0,brokeback mountain,ang lee,2005.0,134.0,romance,7.7,87.0,83.04,0
+1953,773.0,the last of the mohicans,michael mann,1992.0,112.0,accion,7.7,76.0,75.51,0
+1954,773.0,the last of the mohicans,michael mann,1992.0,112.0,aventura,7.7,76.0,75.51,0
+1955,773.0,the last of the mohicans,michael mann,1992.0,112.0,drama,7.7,76.0,75.51,0
+1956,774.0,primal fear,gregory hoblit,1996.0,129.0,crimen,7.7,47.0,56.12,0
+1957,774.0,primal fear,gregory hoblit,1996.0,129.0,drama,7.7,47.0,56.12,0
+1958,774.0,primal fear,gregory hoblit,1996.0,129.0,misterio,7.7,47.0,56.12,0
+1959,775.0,wind river,taylor sheridan,2017.0,107.0,crimen,7.7,73.0,33.8,0
+1960,775.0,wind river,taylor sheridan,2017.0,107.0,drama,7.7,73.0,33.8,0
+1961,775.0,wind river,taylor sheridan,2017.0,107.0,misterio,7.7,73.0,33.8,0
+1962,776.0,x-men: first class,matthew vaughn,2011.0,131.0,accion,7.7,65.0,146.41,0
+1963,776.0,x-men: first class,matthew vaughn,2011.0,131.0,ciencia ficcion,7.7,65.0,146.41,0
+1964,777.0,ex machina,alex garland,2014.0,108.0,drama,7.7,78.0,25.44,0
+1965,777.0,ex machina,alex garland,2014.0,108.0,ciencia ficcion,7.7,78.0,25.44,0
+1966,777.0,ex machina,alex garland,2014.0,108.0,thriller,7.7,78.0,25.44,0
+1967,778.0,500 days of summer,marc webb,2009.0,95.0,comedia,7.7,76.0,32.39,0
+1968,778.0,500 days of summer,marc webb,2009.0,95.0,drama,7.7,76.0,32.39,0
+1969,778.0,500 days of summer,marc webb,2009.0,95.0,romance,7.7,76.0,32.39,0
+1970,779.0,3:10 to yuma,james mangold,2007.0,122.0,accion,7.7,76.0,53.61,0
+1971,779.0,3:10 to yuma,james mangold,2007.0,122.0,crimen,7.7,76.0,53.61,0
+1972,779.0,3:10 to yuma,james mangold,2007.0,122.0,drama,7.7,76.0,53.61,0
+1973,780.0,airplane!,jim abrahams,1980.0,88.0,comedia,7.7,78.0,83.4,0
+1974,781.0,and your mother too,alfonso cuara3n,2001.0,106.0,drama,7.7,89.0,13.62,0
+1975,782.0,home alone,chris columbus,1990.0,103.0,comedia,7.7,63.0,285.76,0
+1976,782.0,home alone,chris columbus,1990.0,103.0,familiar,7.7,63.0,285.76,0
+1977,783.0,training day,antoine fuqua,2001.0,122.0,accion,7.7,69.0,76.63,0
+1978,783.0,training day,antoine fuqua,2001.0,122.0,crimen,7.7,69.0,76.63,0
+1979,783.0,training day,antoine fuqua,2001.0,122.0,drama,7.7,69.0,76.63,0
+1980,784.0,blue velvet,david lynch,1986.0,120.0,crimen,7.7,76.0,8.55,0
+1981,784.0,blue velvet,david lynch,1986.0,120.0,drama,7.7,76.0,8.55,0
+1982,784.0,blue velvet,david lynch,1986.0,120.0,misterio,7.7,76.0,8.55,0
+1983,785.0,who framed roger rabbit,robert zemeckis,1988.0,104.0,animacion,7.7,83.0,156.45,0
+1984,785.0,who framed roger rabbit,robert zemeckis,1988.0,104.0,aventura,7.7,83.0,156.45,0
+1985,785.0,who framed roger rabbit,robert zemeckis,1988.0,104.0,comedia,7.7,83.0,156.45,0
+1986,786.0,coraline,henry selick,2009.0,100.0,animacion,7.7,80.0,75.29,0
+1987,786.0,coraline,henry selick,2009.0,100.0,drama,7.7,80.0,75.29,0
+1988,786.0,coraline,henry selick,2009.0,100.0,familiar,7.7,80.0,75.29,0
+1989,787.0,glengarry glen ross,james foley,1992.0,100.0,crimen,7.7,82.0,10.73,0
+1990,787.0,glengarry glen ross,james foley,1992.0,100.0,drama,7.7,82.0,10.73,0
+1991,787.0,glengarry glen ross,james foley,1992.0,100.0,misterio,7.7,82.0,10.73,0
+1992,788.0,wait until dark,terence young,1967.0,108.0,thriller,7.7,81.0,17.55,0
+1993,789.0,the game,david fincher,1997.0,129.0,drama,7.7,63.0,48.32,0
+1994,789.0,the game,david fincher,1997.0,129.0,misterio,7.7,63.0,48.32,0
+1995,789.0,the game,david fincher,1997.0,129.0,thriller,7.7,63.0,48.32,0
+1996,790.0,the count of monte cristo,kevin reynolds,2002.0,131.0,accion,7.7,61.0,54.23,0
+1997,790.0,the count of monte cristo,kevin reynolds,2002.0,131.0,aventura,7.7,61.0,54.23,0
+1998,790.0,the count of monte cristo,kevin reynolds,2002.0,131.0,drama,7.7,61.0,54.23,0
+1999,791.0,mr. nobody,jaco van dormael,2009.0,141.0,drama,7.7,63.0,0.0,0
+2000,791.0,mr. nobody,jaco van dormael,2009.0,141.0,fantasia,7.7,63.0,0.0,0
+2001,791.0,mr. nobody,jaco van dormael,2009.0,141.0,romance,7.7,63.0,0.0,0
+2002,792.0,the lego movie,phil lord,2014.0,100.0,animacion,7.7,83.0,257.76,0
+2003,792.0,the lego movie,phil lord,2014.0,100.0,accion,7.7,83.0,257.76,0
+2004,792.0,the lego movie,phil lord,2014.0,100.0,aventura,7.7,83.0,257.76,0
+2005,793.0,philadelphia,jonathan demme,1993.0,125.0,drama,7.7,66.0,77.32,0
+2006,794.0,tangled,nathan greno,2010.0,100.0,animacion,7.7,71.0,200.82,0
+2007,794.0,tangled,nathan greno,2010.0,100.0,aventura,7.7,71.0,200.82,0
+2008,794.0,tangled,nathan greno,2010.0,100.0,comedia,7.7,71.0,200.82,0
+2009,795.0,man on fire,tony scott,2004.0,146.0,accion,7.7,47.0,77.91,0
+2010,795.0,man on fire,tony scott,2004.0,146.0,crimen,7.7,47.0,77.91,0
+2011,795.0,man on fire,tony scott,2004.0,146.0,drama,7.7,47.0,77.91,0
+2012,796.0,birdman or (the unexpected virtue of ignorance),alejandro g. iaarritu,2014.0,119.0,comedia,7.7,87.0,42.34,0
+2013,796.0,birdman or (the unexpected virtue of ignorance),alejandro g. iaarritu,2014.0,119.0,drama,7.7,87.0,42.34,0
+2014,797.0,deliverance,john boorman,1972.0,109.0,aventura,7.7,80.0,7.06,0
+2015,797.0,deliverance,john boorman,1972.0,109.0,drama,7.7,80.0,7.06,0
+2016,797.0,deliverance,john boorman,1972.0,109.0,thriller,7.7,80.0,7.06,0
+2017,798.0,first blood,ted kotcheff,1982.0,93.0,accion,7.7,61.0,47.21,0
+2018,798.0,first blood,ted kotcheff,1982.0,93.0,aventura,7.7,61.0,47.21,0
+2019,798.0,first blood,ted kotcheff,1982.0,93.0,thriller,7.7,61.0,47.21,0
+2020,799.0,sense and sensibility,ang lee,1995.0,136.0,drama,7.7,84.0,43.18,0
+2021,799.0,sense and sensibility,ang lee,1995.0,136.0,romance,7.7,84.0,43.18,0
+2022,800.0,star trek ii: the wrath of khan,nicholas meyer,1982.0,113.0,accion,7.7,68.0,78.91,0
+2023,800.0,star trek ii: the wrath of khan,nicholas meyer,1982.0,113.0,aventura,7.7,68.0,78.91,0
+2024,800.0,star trek ii: the wrath of khan,nicholas meyer,1982.0,113.0,ciencia ficcion,7.7,68.0,78.91,0
+2025,801.0,the fault in our stars,josh boone,2014.0,126.0,drama,7.7,69.0,124.87,0
+2026,801.0,the fault in our stars,josh boone,2014.0,126.0,romance,7.7,69.0,124.87,0
+2027,802.0,the bourne supremacy,paul greengrass,2004.0,108.0,accion,7.7,73.0,176.24,0
+2028,802.0,the bourne supremacy,paul greengrass,2004.0,108.0,misterio,7.7,73.0,176.24,0
+2029,802.0,the bourne supremacy,paul greengrass,2004.0,108.0,thriller,7.7,73.0,176.24,0
+2030,803.0,wreck-it ralph,rich moore,2012.0,101.0,animacion,7.7,72.0,189.42,0
+2031,803.0,wreck-it ralph,rich moore,2012.0,101.0,aventura,7.7,72.0,189.42,0
+2032,803.0,wreck-it ralph,rich moore,2012.0,101.0,comedia,7.7,72.0,189.42,0
+2033,804.0,apollo 13,ron howard,1995.0,140.0,aventura,7.7,77.0,173.84,0
+2034,804.0,apollo 13,ron howard,1995.0,140.0,drama,7.7,77.0,173.84,0
+2035,804.0,apollo 13,ron howard,1995.0,140.0,historia,7.7,77.0,173.84,0
+2036,805.0,midnight in paris,woody allen,2011.0,94.0,comedia,7.7,81.0,56.82,0
+2037,805.0,midnight in paris,woody allen,2011.0,94.0,fantasia,7.7,81.0,56.82,0
+2038,805.0,midnight in paris,woody allen,2011.0,94.0,romance,7.7,81.0,56.82,0
+2039,806.0,toy story 4,josh cooley,2019.0,100.0,animacion,7.7,84.0,434.04,0
+2040,806.0,toy story 4,josh cooley,2019.0,100.0,aventura,7.7,84.0,434.04,0
+2041,806.0,toy story 4,josh cooley,2019.0,100.0,comedia,7.7,84.0,434.04,0
+2042,807.0,halloween,john carpenter,1978.0,91.0,terror,7.7,87.0,47.0,0
+2043,807.0,halloween,john carpenter,1978.0,91.0,thriller,7.7,87.0,47.0,0
+2044,808.0,another round,thomas vinterberg,2020.0,117.0,drama,7.7,79.0,0.0,0
+2045,809.0,the machinist,brad anderson,2004.0,101.0,drama,7.7,61.0,1.08,0
+2046,809.0,the machinist,brad anderson,2004.0,101.0,thriller,7.7,61.0,1.08,0
+2050,811.0,crash,paul haggis,2004.0,112.0,crimen,7.7,66.0,54.58,0
+2051,811.0,crash,paul haggis,2004.0,112.0,drama,7.7,66.0,54.58,0
+2052,811.0,crash,paul haggis,2004.0,112.0,thriller,7.7,66.0,54.58,0
+2053,812.0,what's eating gilbert grape,lasse hallstram,1993.0,118.0,drama,7.7,73.0,9.17,0
+2054,813.0,the magnificent seven,john sturges,1960.0,128.0,accion,7.7,74.0,4.91,0
+2055,813.0,the magnificent seven,john sturges,1960.0,128.0,aventura,7.7,74.0,4.91,0
+2056,813.0,the magnificent seven,john sturges,1960.0,128.0,drama,7.7,74.0,4.91,0
+2057,814.0,the french connection,william friedkin,1971.0,104.0,accion,7.7,94.0,15.63,0
+2058,814.0,the french connection,william friedkin,1971.0,104.0,crimen,7.7,94.0,15.63,0
+2059,814.0,the french connection,william friedkin,1971.0,104.0,drama,7.7,94.0,15.63,0
+2060,815.0,gravity,alfonso cuara3n,2013.0,91.0,drama,7.7,96.0,274.09,0
+2061,815.0,gravity,alfonso cuara3n,2013.0,91.0,ciencia ficcion,7.7,96.0,274.09,0
+2062,815.0,gravity,alfonso cuara3n,2013.0,91.0,thriller,7.7,96.0,274.09,0
+2063,816.0,donnie brasco,mike newell,1997.0,127.0,biografia,7.7,76.0,41.91,0
+2064,816.0,donnie brasco,mike newell,1997.0,127.0,crimen,7.7,76.0,41.91,0
+2065,816.0,donnie brasco,mike newell,1997.0,127.0,drama,7.7,76.0,41.91,0
+2066,817.0,the trial of the chicago 7,aaron sorkin,2020.0,129.0,drama,7.7,76.0,0.0,0
+2067,817.0,the trial of the chicago 7,aaron sorkin,2020.0,129.0,historia,7.7,76.0,0.0,0
+2068,817.0,the trial of the chicago 7,aaron sorkin,2020.0,129.0,thriller,7.7,76.0,0.0,0
+2069,818.0,as good as it gets,james l. brooks,1997.0,139.0,comedia,7.7,67.0,148.48,0
+2070,818.0,as good as it gets,james l. brooks,1997.0,139.0,drama,7.7,67.0,148.48,0
+2071,818.0,as good as it gets,james l. brooks,1997.0,139.0,romance,7.7,67.0,148.48,0
+2072,819.0,road to perdition,sam mendes,2002.0,117.0,crimen,7.7,72.0,104.45,0
+2073,819.0,road to perdition,sam mendes,2002.0,117.0,drama,7.7,72.0,104.45,0
+2074,819.0,road to perdition,sam mendes,2002.0,117.0,thriller,7.7,72.0,104.45,0
+2075,820.0,the boondock saints,troy duffy,1999.0,108.0,accion,7.7,44.0,0.03,0
+2076,820.0,the boondock saints,troy duffy,1999.0,108.0,thriller,7.7,44.0,0.03,0
+2077,821.0,naked,mike leigh,1993.0,131.0,comedia,7.7,85.0,1.77,0
+2078,821.0,naked,mike leigh,1993.0,131.0,drama,7.7,85.0,1.77,0
+2079,822.0,empire of the sun,steven spielberg,1987.0,153.0,drama,7.7,62.0,22.24,0
+2080,822.0,empire of the sun,steven spielberg,1987.0,153.0,guerra,7.7,62.0,22.24,0
+2081,823.0,the color purple,steven spielberg,1985.0,154.0,drama,7.7,78.0,98.47,0
+2082,824.0,sound of metal,darius marder,2019.0,120.0,drama,7.7,82.0,0.0,0
+2083,824.0,sound of metal,darius marder,2019.0,120.0,musica,7.7,82.0,0.0,0
+2084,825.0,when harry met sally...,rob reiner,1989.0,95.0,comedia,7.7,76.0,92.82,0
+2085,825.0,when harry met sally...,rob reiner,1989.0,95.0,drama,7.7,76.0,92.82,0
+2086,825.0,when harry met sally...,rob reiner,1989.0,95.0,romance,7.7,76.0,92.82,0
+2087,826.0,the boy in the striped pajamas,mark herman,2008.0,94.0,drama,7.7,55.0,9.03,0
+2088,826.0,the boy in the striped pajamas,mark herman,2008.0,94.0,guerra,7.7,55.0,9.03,0
+2089,827.0,a man called ove,hannes holm,2015.0,116.0,comedia,7.7,70.0,3.48,0
+2090,827.0,a man called ove,hannes holm,2015.0,116.0,drama,7.7,70.0,3.48,0
+2091,827.0,a man called ove,hannes holm,2015.0,116.0,romance,7.7,70.0,3.48,0
+2092,828.0,star trek into darkness,j.j. abrams,2013.0,132.0,accion,7.7,72.0,228.78,0
+2093,828.0,star trek into darkness,j.j. abrams,2013.0,132.0,aventura,7.7,72.0,228.78,0
+2094,828.0,star trek into darkness,j.j. abrams,2013.0,132.0,ciencia ficcion,7.7,72.0,228.78,0
+2095,829.0,fried green tomatoes,jon avnet,1991.0,130.0,drama,7.7,64.0,82.42,0
+2096,830.0,kung fu hustle,stephen chow,2004.0,99.0,accion,7.7,78.0,17.11,0
+2097,830.0,kung fu hustle,stephen chow,2004.0,99.0,comedia,7.7,78.0,17.11,0
+2098,830.0,kung fu hustle,stephen chow,2004.0,99.0,fantasia,7.7,78.0,17.11,0
+2099,831.0,dirty harry,don siegel,1971.0,102.0,accion,7.7,87.0,35.9,0
+2100,831.0,dirty harry,don siegel,1971.0,102.0,crimen,7.7,87.0,35.9,0
+2101,831.0,dirty harry,don siegel,1971.0,102.0,thriller,7.7,87.0,35.9,0
+2102,832.0,serpico,sidney lumet,1973.0,130.0,biografia,7.7,81.0,29.8,0
+2103,832.0,serpico,sidney lumet,1973.0,130.0,crimen,7.7,81.0,29.8,0
+2104,832.0,serpico,sidney lumet,1973.0,130.0,drama,7.7,81.0,29.8,0
+2105,833.0,detachment,tony kaye,2011.0,98.0,drama,7.7,52.0,0.07,0
+2106,834.0,happiness,todd solondz,1998.0,134.0,comedia,7.7,81.0,2.81,0
+2107,834.0,happiness,todd solondz,1998.0,134.0,drama,7.7,81.0,2.81,0
+2108,835.0,being john malkovich,spike jonze,1999.0,113.0,comedia,7.7,90.0,22.86,0
+2109,835.0,being john malkovich,spike jonze,1999.0,113.0,drama,7.7,90.0,22.86,0
+2110,835.0,being john malkovich,spike jonze,1999.0,113.0,fantasia,7.7,90.0,22.86,0
+2111,836.0,the theory of everything,james marsh,2014.0,123.0,biografia,7.7,71.0,35.89,0
+2112,836.0,the theory of everything,james marsh,2014.0,123.0,drama,7.7,71.0,35.89,0
+2113,836.0,the theory of everything,james marsh,2014.0,123.0,romance,7.7,71.0,35.89,0
+2114,837.0,the dirty dozen,robert aldrich,1967.0,150.0,accion,7.7,73.0,45.3,0
+2115,837.0,the dirty dozen,robert aldrich,1967.0,150.0,aventura,7.7,73.0,45.3,0
+2116,837.0,the dirty dozen,robert aldrich,1967.0,150.0,guerra,7.7,73.0,45.3,0
+2117,838.0,lucky number slevin,paul mcguigan,2006.0,110.0,crimen,7.7,53.0,22.49,0
+2118,838.0,lucky number slevin,paul mcguigan,2006.0,110.0,drama,7.7,53.0,22.49,0
+2119,838.0,lucky number slevin,paul mcguigan,2006.0,110.0,thriller,7.7,53.0,22.49,0
+2120,839.0,adaptation.,spike jonze,2002.0,115.0,comedia,7.7,83.0,22.25,0
+2121,839.0,adaptation.,spike jonze,2002.0,115.0,drama,7.7,83.0,22.25,0
+2122,840.0,clerks,kevin smith,1994.0,92.0,comedia,7.7,70.0,3.15,0
+2123,841.0,the longest day,ken annakin,1962.0,178.0,accion,7.7,75.0,39.1,0
+2124,841.0,the longest day,ken annakin,1962.0,178.0,drama,7.7,75.0,39.1,0
+2125,841.0,the longest day,ken annakin,1962.0,178.0,historia,7.7,75.0,39.1,0
+2126,842.0,this is england,shane meadows,2006.0,101.0,crimen,7.7,86.0,0.33,0
+2127,842.0,this is england,shane meadows,2006.0,101.0,drama,7.7,86.0,0.33,0
+2128,843.0,flipped,rob reiner,2010.0,90.0,comedia,7.7,45.0,1.75,0
+2129,843.0,flipped,rob reiner,2010.0,90.0,drama,7.7,45.0,1.75,0
+2130,843.0,flipped,rob reiner,2010.0,90.0,romance,7.7,45.0,1.75,0
+2131,844.0,the name of the rose,jean-jacques annaud,1986.0,130.0,drama,7.7,54.0,7.15,0
+2132,844.0,the name of the rose,jean-jacques annaud,1986.0,130.0,misterio,7.7,54.0,7.15,0
+2133,844.0,the name of the rose,jean-jacques annaud,1986.0,130.0,thriller,7.7,54.0,7.15,0
+2134,845.0,goldfinger,guy hamilton,1964.0,110.0,accion,7.7,87.0,51.08,0
+2135,845.0,goldfinger,guy hamilton,1964.0,110.0,aventura,7.7,87.0,51.08,0
+2136,845.0,goldfinger,guy hamilton,1964.0,110.0,thriller,7.7,87.0,51.08,0
+2137,846.0,ordinary people,robert redford,1980.0,124.0,drama,7.7,86.0,54.8,0
+2141,848.0,bonnie and clyde,arthur penn,1967.0,111.0,accion,7.7,86.0,0.0,0
+2142,848.0,bonnie and clyde,arthur penn,1967.0,111.0,biografia,7.7,86.0,0.0,0
+2143,848.0,bonnie and clyde,arthur penn,1967.0,111.0,crimen,7.7,86.0,0.0,0
+2144,849.0,the verdict,sidney lumet,1982.0,129.0,drama,7.7,77.0,54.0,0
+2145,850.0,the great beauty,paolo sorrentino,2013.0,141.0,drama,7.7,86.0,2.85,0
+2146,851.0,malcolm x,spike lee,1992.0,202.0,biografia,7.7,73.0,48.17,0
+2147,851.0,malcolm x,spike lee,1992.0,202.0,drama,7.7,73.0,48.17,0
+2148,851.0,malcolm x,spike lee,1992.0,202.0,historia,7.7,73.0,48.17,0
+2149,852.0,billy elliot,stephen daldry,2000.0,110.0,drama,7.7,74.0,22.0,0
+2150,852.0,billy elliot,stephen daldry,2000.0,110.0,musica,7.7,74.0,22.0,0
+2151,853.0,miller's crossing,joel coen,1990.0,115.0,crimen,7.7,66.0,5.08,0
+2152,853.0,miller's crossing,joel coen,1990.0,115.0,drama,7.7,66.0,5.08,0
+2153,853.0,miller's crossing,joel coen,1990.0,115.0,thriller,7.7,66.0,5.08,0
+2154,854.0,paprika,satoshi kon,2006.0,90.0,animacion,7.7,81.0,0.88,0
+2155,854.0,paprika,satoshi kon,2006.0,90.0,drama,7.7,81.0,0.88,0
+2156,854.0,paprika,satoshi kon,2006.0,90.0,fantasia,7.7,81.0,0.88,0
+2157,855.0,the wind rises,hayao miyazaki,2013.0,126.0,animacion,7.7,83.0,5.21,0
+2158,855.0,the wind rises,hayao miyazaki,2013.0,126.0,biografia,7.7,83.0,5.21,0
+2159,855.0,the wind rises,hayao miyazaki,2013.0,126.0,drama,7.7,83.0,5.21,0
+2160,856.0,ray,taylor hackford,2004.0,152.0,biografia,7.7,73.0,75.33,0
+2161,856.0,ray,taylor hackford,2004.0,152.0,drama,7.7,73.0,75.33,0
+2162,856.0,ray,taylor hackford,2004.0,152.0,musica,7.7,73.0,75.33,0
+2163,857.0,roma,alfonso cuara3n,2018.0,135.0,drama,7.7,96.0,0.0,0
+2164,858.0,joint security area,park chan-wook,2000.0,110.0,accion,7.7,58.0,0.0,0
+2165,858.0,joint security area,park chan-wook,2000.0,110.0,drama,7.7,58.0,0.0,0
+2166,858.0,joint security area,park chan-wook,2000.0,110.0,thriller,7.7,58.0,0.0,0
+2167,859.0,run lola run,tom tykwer,1998.0,80.0,accion,7.7,77.0,7.27,0
+2168,859.0,run lola run,tom tykwer,1998.0,80.0,crimen,7.7,77.0,7.27,0
+2169,859.0,run lola run,tom tykwer,1998.0,80.0,thriller,7.7,77.0,7.27,0
+2170,860.0,belle de jour,luis buauel,1967.0,100.0,drama,7.7,0.0,0.03,0
+2171,860.0,belle de jour,luis buauel,1967.0,100.0,romance,7.7,0.0,0.03,0
+2172,861.0,the last emperor,bernardo bertolucci,1987.0,163.0,biografia,7.7,76.0,43.98,0
+2173,861.0,the last emperor,bernardo bertolucci,1987.0,163.0,drama,7.7,76.0,43.98,0
+2174,861.0,the last emperor,bernardo bertolucci,1987.0,163.0,historia,7.7,76.0,43.98,0
+2175,862.0,hard boiled,john woo,1992.0,128.0,accion,7.7,0.0,0.0,0
+2176,862.0,hard boiled,john woo,1992.0,128.0,crimen,7.7,0.0,0.0,0
+2177,862.0,hard boiled,john woo,1992.0,128.0,thriller,7.7,0.0,0.0,0
+2178,863.0,kubo and the two strings,travis knight,2016.0,101.0,animacion,7.7,84.0,48.02,0
+2179,863.0,kubo and the two strings,travis knight,2016.0,101.0,accion,7.7,84.0,48.02,0
+2180,863.0,kubo and the two strings,travis knight,2016.0,101.0,aventura,7.7,84.0,48.02,0
+2181,864.0,fantastic planet,rena laloux,1973.0,72.0,animacion,7.7,73.0,0.19,0
+2182,864.0,fantastic planet,rena laloux,1973.0,72.0,ciencia ficcion,7.7,73.0,0.19,0
+2183,865.0,the man from nowhere,jeong-beom lee,2010.0,119.0,accion,7.7,0.0,0.01,0
+2184,865.0,the man from nowhere,jeong-beom lee,2010.0,119.0,crimen,7.7,0.0,0.01,0
+2185,865.0,the man from nowhere,jeong-beom lee,2010.0,119.0,drama,7.7,0.0,0.01,0
+2186,866.0,mother,bong joon ho,2009.0,129.0,crimen,7.7,79.0,0.55,0
+2187,866.0,mother,bong joon ho,2009.0,129.0,drama,7.7,79.0,0.55,0
+2188,866.0,mother,bong joon ho,2009.0,129.0,misterio,7.7,79.0,0.55,0
+2189,867.0,badlands,terrence malick,1973.0,94.0,accion,7.7,93.0,0.0,0
+2190,867.0,badlands,terrence malick,1973.0,94.0,crimen,7.7,93.0,0.0,0
+2191,867.0,badlands,terrence malick,1973.0,94.0,drama,7.7,93.0,0.0,0
+2192,868.0,the african queen,john huston,1951.0,105.0,aventura,7.7,91.0,0.54,0
+2193,868.0,the african queen,john huston,1951.0,105.0,drama,7.7,91.0,0.54,0
+2194,868.0,the african queen,john huston,1951.0,105.0,romance,7.7,91.0,0.54,0
+2195,869.0,open your eyes,alejandro amenabar,1997.0,119.0,drama,7.7,0.0,0.37,0
+2196,869.0,open your eyes,alejandro amenabar,1997.0,119.0,misterio,7.7,0.0,0.37,0
+2197,869.0,open your eyes,alejandro amenabar,1997.0,119.0,ciencia ficcion,7.7,0.0,0.37,0
+2198,870.0,beasts of no nation,cary joji fukunaga,2015.0,137.0,drama,7.7,79.0,0.08,0
+2199,870.0,beasts of no nation,cary joji fukunaga,2015.0,137.0,guerra,7.7,79.0,0.08,0
+2200,871.0,finding neverland,marc forster,2004.0,106.0,biografia,7.7,67.0,51.68,0
+2201,871.0,finding neverland,marc forster,2004.0,106.0,drama,7.7,67.0,51.68,0
+2202,871.0,finding neverland,marc forster,2004.0,106.0,familiar,7.7,67.0,51.68,0
+2203,872.0,me and earl and the dying girl,alfonso gomez-rejon,2015.0,105.0,comedia,7.7,74.0,6.74,0
+2204,872.0,me and earl and the dying girl,alfonso gomez-rejon,2015.0,105.0,drama,7.7,74.0,6.74,0
+2205,872.0,me and earl and the dying girl,alfonso gomez-rejon,2015.0,105.0,romance,7.7,74.0,6.74,0
+2206,873.0,the quiet man,john ford,1952.0,129.0,comedia,7.7,85.0,10.55,0
+2207,873.0,the quiet man,john ford,1952.0,129.0,drama,7.7,85.0,10.55,0
+2208,873.0,the quiet man,john ford,1952.0,129.0,romance,7.7,85.0,10.55,0
+2209,874.0,happy together,kar-wai wong,1997.0,96.0,drama,7.7,70.0,0.19,0
+2210,874.0,happy together,kar-wai wong,1997.0,96.0,romance,7.7,70.0,0.19,0
+2211,875.0,breathless,jean-luc godard,1960.0,90.0,crimen,7.7,0.0,0.34,0
+2212,875.0,breathless,jean-luc godard,1960.0,90.0,drama,7.7,0.0,0.34,0
+2213,876.0,black book,paul verhoeven,2006.0,145.0,drama,7.7,71.0,4.4,0
+2214,876.0,black book,paul verhoeven,2006.0,145.0,thriller,7.7,71.0,4.4,0
+2215,876.0,black book,paul verhoeven,2006.0,145.0,guerra,7.7,71.0,4.4,0
+2216,877.0,short cuts,robert altman,1993.0,188.0,comedia,7.7,81.0,6.11,0
+2217,877.0,short cuts,robert altman,1993.0,188.0,drama,7.7,81.0,6.11,0
+2218,878.0,hamlet,kenneth branagh,1996.0,242.0,drama,7.7,0.0,4.41,0
+2219,879.0,fantasia,james algar,1940.0,124.0,animacion,7.7,96.0,76.41,0
+2220,879.0,fantasia,james algar,1940.0,124.0,familiar,7.7,96.0,76.41,0
+2221,879.0,fantasia,james algar,1940.0,124.0,fantasia,7.7,96.0,76.41,0
+2222,880.0,nebraska,alexander payne,2013.0,115.0,drama,7.7,86.0,17.65,0
+2223,881.0,the double life of varonique,krzysztof kieslowski,1991.0,98.0,drama,7.7,86.0,2.0,0
+2224,881.0,the double life of varonique,krzysztof kieslowski,1991.0,98.0,fantasia,7.7,86.0,2.0,0
+2225,881.0,the double life of varonique,krzysztof kieslowski,1991.0,98.0,musica,7.7,86.0,2.0,0
+2226,882.0,zulu,cy endfield,1964.0,138.0,drama,7.7,77.0,0.0,0
+2227,882.0,zulu,cy endfield,1964.0,138.0,historia,7.7,77.0,0.0,0
+2228,882.0,zulu,cy endfield,1964.0,138.0,guerra,7.7,77.0,0.0,0
+2229,883.0,waking life,richard linklater,2001.0,99.0,animacion,7.7,84.0,2.89,0
+2230,883.0,waking life,richard linklater,2001.0,99.0,drama,7.7,84.0,2.89,0
+2231,883.0,waking life,richard linklater,2001.0,99.0,fantasia,7.7,84.0,2.89,0
+2232,884.0,porco rosso,hayao miyazaki,1992.0,94.0,animacion,7.7,83.0,0.0,0
+2233,884.0,porco rosso,hayao miyazaki,1992.0,94.0,aventura,7.7,83.0,0.0,0
+2234,884.0,porco rosso,hayao miyazaki,1992.0,94.0,comedia,7.7,83.0,0.0,0
+2235,885.0,the vanishing,george sluizer,1988.0,107.0,misterio,7.7,0.0,0.0,0
+2236,885.0,the vanishing,george sluizer,1988.0,107.0,thriller,7.7,0.0,0.0,0
+2237,886.0,invasion of the body snatchers,don siegel,1956.0,80.0,drama,7.7,92.0,0.0,0
+2238,886.0,invasion of the body snatchers,don siegel,1956.0,80.0,terror,7.7,92.0,0.0,0
+2239,886.0,invasion of the body snatchers,don siegel,1956.0,80.0,ciencia ficcion,7.7,92.0,0.0,0
+2240,887.0,when marnie was there,hiromasa yonebayashi,2014.0,103.0,animacion,7.7,72.0,0.77,0
+2241,887.0,when marnie was there,hiromasa yonebayashi,2014.0,103.0,drama,7.7,72.0,0.77,0
+2242,887.0,when marnie was there,hiromasa yonebayashi,2014.0,103.0,familiar,7.7,72.0,0.77,0
+2243,888.0,hedwig and the angry inch,john cameron mitchell,2001.0,95.0,comedia,7.7,85.0,3.03,0
+2244,888.0,hedwig and the angry inch,john cameron mitchell,2001.0,95.0,drama,7.7,85.0,3.03,0
+2245,888.0,hedwig and the angry inch,john cameron mitchell,2001.0,95.0,musica,7.7,85.0,3.03,0
+2246,889.0,perfect strangers,paolo genovese,2016.0,96.0,comedia,7.7,0.0,0.0,0
+2247,889.0,perfect strangers,paolo genovese,2016.0,96.0,drama,7.7,0.0,0.0,0
+2248,890.0,a man for all seasons,fred zinnemann,1966.0,120.0,biografia,7.7,72.0,28.35,0
+2249,890.0,a man for all seasons,fred zinnemann,1966.0,120.0,drama,7.7,72.0,28.35,0
+2250,890.0,a man for all seasons,fred zinnemann,1966.0,120.0,historia,7.7,72.0,28.35,0
+2251,891.0,night on earth,jim jarmusch,1991.0,129.0,comedia,7.7,68.0,2.02,0
+2252,891.0,night on earth,jim jarmusch,1991.0,129.0,drama,7.7,68.0,2.02,0
+2253,892.0,black narcissus,michael powell,1947.0,101.0,drama,7.7,86.0,0.0,0
+2254,893.0,the broken circle breakdown,felix van groeningen,2012.0,111.0,drama,7.7,70.0,0.18,0
+2255,893.0,the broken circle breakdown,felix van groeningen,2012.0,111.0,musica,7.7,70.0,0.18,0
+2256,893.0,the broken circle breakdown,felix van groeningen,2012.0,111.0,romance,7.7,70.0,0.18,0
+2257,894.0,the triplets of belleville,sylvain chomet,2003.0,80.0,animacion,7.7,91.0,7.0,0
+2258,894.0,the triplets of belleville,sylvain chomet,2003.0,80.0,aventura,7.7,91.0,7.0,0
+2259,894.0,the triplets of belleville,sylvain chomet,2003.0,80.0,comedia,7.7,91.0,7.0,0
+2260,895.0,good bye lenin!,wolfgang becker,2003.0,121.0,comedia,7.7,68.0,4.06,0
+2261,895.0,good bye lenin!,wolfgang becker,2003.0,121.0,drama,7.7,68.0,4.06,0
+2262,895.0,good bye lenin!,wolfgang becker,2003.0,121.0,romance,7.7,68.0,4.06,0
+2263,896.0,the little prince,mark osborne,2015.0,108.0,animacion,7.7,70.0,1.34,0
+2264,896.0,the little prince,mark osborne,2015.0,108.0,aventura,7.7,70.0,1.34,0
+2265,896.0,the little prince,mark osborne,2015.0,108.0,drama,7.7,70.0,1.34,0
+2266,897.0,cape fear,j. lee thompson,1962.0,106.0,drama,7.7,76.0,0.0,0
+2267,897.0,cape fear,j. lee thompson,1962.0,106.0,thriller,7.7,76.0,0.0,0
+2268,898.0,scarface,howard hawks,1932.0,93.0,accion,7.7,90.0,0.0,0
+2269,898.0,scarface,howard hawks,1932.0,93.0,crimen,7.7,90.0,0.0,0
+2270,898.0,scarface,howard hawks,1932.0,93.0,drama,7.7,90.0,0.0,0
+2271,899.0,marty,delbert mann,1955.0,90.0,drama,7.7,0.0,0.0,0
+2272,899.0,marty,delbert mann,1955.0,90.0,romance,7.7,0.0,0.0,0
+2273,900.0,the motorcycle diaries,walter salles,2004.0,126.0,aventura,7.7,75.0,16.78,0
+2274,900.0,the motorcycle diaries,walter salles,2004.0,126.0,biografia,7.7,75.0,16.78,0
+2275,900.0,the motorcycle diaries,walter salles,2004.0,126.0,drama,7.7,75.0,16.78,0
+2276,901.0,the lady vanishes,alfred hitchcock,1938.0,96.0,misterio,7.7,98.0,0.0,0
+2277,901.0,the lady vanishes,alfred hitchcock,1938.0,96.0,thriller,7.7,98.0,0.0,0
+2278,902.0,down by law,jim jarmusch,1986.0,107.0,comedia,7.7,75.0,1.44,0
+2279,902.0,down by law,jim jarmusch,1986.0,107.0,crimen,7.7,75.0,1.44,0
+2280,902.0,down by law,jim jarmusch,1986.0,107.0,drama,7.7,75.0,1.44,0
+2281,903.0,the caine mutiny,edward dmytryk,1954.0,124.0,drama,7.7,63.0,21.75,0
+2282,903.0,the caine mutiny,edward dmytryk,1954.0,124.0,guerra,7.7,63.0,21.75,0
+2283,904.0,frost/nixon,ron howard,2008.0,122.0,biografia,7.7,80.0,18.59,0
+2284,904.0,frost/nixon,ron howard,2008.0,122.0,drama,7.7,80.0,18.59,0
+2285,904.0,frost/nixon,ron howard,2008.0,122.0,historia,7.7,80.0,18.59,0
+2286,905.0,taste of cherry,abbas kiarostami,1997.0,95.0,drama,7.7,80.0,0.31,0
+2287,906.0,key largo,john huston,1948.0,100.0,accion,7.7,0.0,0.0,0
+2288,906.0,key largo,john huston,1948.0,100.0,crimen,7.7,0.0,0.0,0
+2289,906.0,key largo,john huston,1948.0,100.0,drama,7.7,0.0,0.0,0
+2290,907.0,the salesman,asghar farhadi,2016.0,124.0,drama,7.7,85.0,2.4,0
+2291,907.0,the salesman,asghar farhadi,2016.0,124.0,thriller,7.7,85.0,2.4,0
+2292,908.0,confessions,tetsuya nakashima,2010.0,106.0,drama,7.7,0.0,0.0,0
+2293,908.0,confessions,tetsuya nakashima,2010.0,106.0,thriller,7.7,0.0,0.0,0
+2294,909.0,dreams,akira kurosawa,1990.0,119.0,drama,7.7,0.0,1.96,0
+2295,909.0,dreams,akira kurosawa,1990.0,119.0,fantasia,7.7,0.0,1.96,0
+2296,910.0,the experiment,oliver hirschbiegel,2001.0,120.0,drama,7.7,60.0,0.14,0
+2297,910.0,the experiment,oliver hirschbiegel,2001.0,120.0,thriller,7.7,60.0,0.14,0
+2298,911.0,evil,mikael hafstram,2003.0,113.0,drama,7.7,61.0,0.02,0
+2299,912.0,adam's apples,anders thomas jensen,2005.0,94.0,comedia,7.7,51.0,0.0,0
+2300,912.0,adam's apples,anders thomas jensen,2005.0,94.0,crimen,7.7,51.0,0.0,0
+2301,912.0,adam's apples,anders thomas jensen,2005.0,94.0,drama,7.7,51.0,0.0,0
+2302,913.0,the girl who leapt through time,mamoru hosoda,2006.0,98.0,animacion,7.7,66.0,0.0,0
+2303,913.0,the girl who leapt through time,mamoru hosoda,2006.0,98.0,aventura,7.7,66.0,0.0,0
+2304,913.0,the girl who leapt through time,mamoru hosoda,2006.0,98.0,comedia,7.7,66.0,0.0,0
+2305,914.0,the magdalene sisters,peter mullan,2002.0,114.0,drama,7.7,83.0,4.89,0
+2306,915.0,after the wedding,susanne bier,2006.0,120.0,drama,7.7,78.0,0.41,0
+2307,916.0,in america,jim sheridan,2002.0,105.0,drama,7.7,76.0,15.54,0
+2308,917.0,the breadwinner,nora twomey,2017.0,94.0,animacion,7.7,78.0,0.31,0
+2309,917.0,the breadwinner,nora twomey,2017.0,94.0,drama,7.7,78.0,0.31,0
+2310,917.0,the breadwinner,nora twomey,2017.0,94.0,familiar,7.7,78.0,0.31,0
+2311,918.0,jules and jim,franaois truffaut,1962.0,105.0,drama,7.7,97.0,0.0,0
+2312,918.0,jules and jim,franaois truffaut,1962.0,105.0,romance,7.7,97.0,0.0,0
+2313,919.0,love and death,woody allen,1975.0,85.0,comedia,7.7,89.0,0.0,0
+2314,919.0,love and death,woody allen,1975.0,85.0,guerra,7.7,89.0,0.0,0
+2315,920.0,fireworks,takeshi kitano,1997.0,103.0,crimen,7.7,83.0,0.23,0
+2316,920.0,fireworks,takeshi kitano,1997.0,103.0,drama,7.7,83.0,0.23,0
+2317,920.0,fireworks,takeshi kitano,1997.0,103.0,romance,7.7,83.0,0.23,0
+2318,921.0,the purple rose of cairo,woody allen,1985.0,82.0,comedia,7.7,75.0,10.63,0
+2319,921.0,the purple rose of cairo,woody allen,1985.0,82.0,fantasia,7.7,75.0,10.63,0
+2320,921.0,the purple rose of cairo,woody allen,1985.0,82.0,romance,7.7,75.0,10.63,0
+2321,922.0,the muppet christmas carol,brian henson,1992.0,85.0,comedia,7.7,64.0,27.28,0
+2322,922.0,the muppet christmas carol,brian henson,1992.0,85.0,drama,7.7,64.0,27.28,0
+2323,922.0,the muppet christmas carol,brian henson,1992.0,85.0,familiar,7.7,64.0,27.28,0
+2324,923.0,the past,asghar farhadi,2013.0,130.0,drama,7.7,85.0,1.33,0
+2325,923.0,the past,asghar farhadi,2013.0,130.0,misterio,7.7,85.0,1.33,0
+2326,924.0,zelig,woody allen,1983.0,79.0,comedia,7.7,0.0,11.8,0
+2327,925.0,the edge of heaven,fatih akin,2007.0,122.0,drama,7.7,85.0,0.74,0
+2328,926.0,avatar: the way of water,james cameron,2022.0,192.0,accion,7.6,67.0,659.68,0
+2329,926.0,avatar: the way of water,james cameron,2022.0,192.0,aventura,7.6,67.0,659.68,0
+2330,926.0,avatar: the way of water,james cameron,2022.0,192.0,fantasia,7.6,67.0,659.68,0
+2331,927.0,harry potter and the sorcerer's stone,chris columbus,2001.0,152.0,aventura,7.6,65.0,317.58,0
+2332,927.0,harry potter and the sorcerer's stone,chris columbus,2001.0,152.0,familiar,7.6,65.0,317.58,0
+2333,927.0,harry potter and the sorcerer's stone,chris columbus,2001.0,152.0,fantasia,7.6,65.0,317.58,0
+2334,928.0,once upon a time in hollywood,quentin tarantino,2019.0,161.0,comedia,7.6,83.0,142.5,0
+2335,928.0,once upon a time in hollywood,quentin tarantino,2019.0,161.0,drama,7.6,83.0,142.5,0
+2336,929.0,american psycho,mary harron,2000.0,102.0,crimen,7.6,64.0,15.07,0
+2337,929.0,american psycho,mary harron,2000.0,102.0,drama,7.6,64.0,15.07,0
+2338,929.0,american psycho,mary harron,2000.0,102.0,terror,7.6,64.0,15.07,0
+2339,930.0,the fifth element,luc besson,1997.0,126.0,accion,7.6,52.0,63.54,0
+2340,930.0,the fifth element,luc besson,1997.0,126.0,aventura,7.6,52.0,63.54,0
+2341,930.0,the fifth element,luc besson,1997.0,126.0,ciencia ficcion,7.6,52.0,63.54,0
+2342,931.0,superbad,greg mottola,2007.0,113.0,comedia,7.6,76.0,121.46,0
+2343,932.0,the royal tenenbaums,wes anderson,2001.0,110.0,comedia,7.6,76.0,52.36,0
+2344,932.0,the royal tenenbaums,wes anderson,2001.0,110.0,drama,7.6,76.0,52.36,0
+2345,933.0,300,zack snyder,2006.0,117.0,accion,7.6,52.0,210.61,0
+2346,933.0,300,zack snyder,2006.0,117.0,drama,7.6,52.0,210.61,0
+2347,934.0,watchmen,zack snyder,2009.0,162.0,accion,7.6,56.0,107.51,0
+2348,934.0,watchmen,zack snyder,2009.0,162.0,drama,7.6,56.0,107.51,0
+2349,934.0,watchmen,zack snyder,2009.0,162.0,misterio,7.6,56.0,107.51,0
+2350,935.0,deadpool 2,david leitch,2018.0,119.0,accion,7.6,66.0,324.59,0
+2351,935.0,deadpool 2,david leitch,2018.0,119.0,aventura,7.6,66.0,324.59,0
+2352,935.0,deadpool 2,david leitch,2018.0,119.0,comedia,7.6,66.0,324.59,0
+2353,936.0,guardians of the galaxy vol. 2,james gunn,2017.0,136.0,accion,7.6,67.0,389.81,0
+2354,936.0,guardians of the galaxy vol. 2,james gunn,2017.0,136.0,aventura,7.6,67.0,389.81,0
+2355,936.0,guardians of the galaxy vol. 2,james gunn,2017.0,136.0,comedia,7.6,67.0,389.81,0
+2356,937.0,moana,ron clements,2016.0,107.0,animacion,7.6,81.0,248.76,0
+2357,937.0,moana,ron clements,2016.0,107.0,aventura,7.6,81.0,248.76,0
+2358,937.0,moana,ron clements,2016.0,107.0,comedia,7.6,81.0,248.76,0
+2359,938.0,robocop,paul verhoeven,1987.0,102.0,accion,7.6,70.0,53.42,0
+2360,938.0,robocop,paul verhoeven,1987.0,102.0,crimen,7.6,70.0,53.42,0
+2361,938.0,robocop,paul verhoeven,1987.0,102.0,ciencia ficcion,7.6,70.0,53.42,0
+2362,939.0,kick-ass,matthew vaughn,2010.0,117.0,accion,7.6,66.0,48.07,0
+2363,939.0,kick-ass,matthew vaughn,2010.0,117.0,comedia,7.6,66.0,48.07,0
+2364,939.0,kick-ass,matthew vaughn,2010.0,117.0,crimen,7.6,66.0,48.07,0
+2365,940.0,sicario,denis villeneuve,2015.0,121.0,accion,7.6,82.0,46.89,0
+2366,940.0,sicario,denis villeneuve,2015.0,121.0,crimen,7.6,82.0,46.89,0
+2367,940.0,sicario,denis villeneuve,2015.0,121.0,drama,7.6,82.0,46.89,0
+2368,941.0,my cousin vinny,jonathan lynn,1992.0,120.0,comedia,7.6,68.0,52.93,0
+2369,941.0,my cousin vinny,jonathan lynn,1992.0,120.0,crimen,7.6,68.0,52.93,0
+2370,942.0,rushmore,wes anderson,1998.0,93.0,comedia,7.6,86.0,17.11,0
+2371,942.0,rushmore,wes anderson,1998.0,93.0,drama,7.6,86.0,17.11,0
+2372,942.0,rushmore,wes anderson,1998.0,93.0,romance,7.6,86.0,17.11,0
+2373,943.0,saw,james wan,2004.0,103.0,terror,7.6,46.0,56.0,0
+2374,943.0,saw,james wan,2004.0,103.0,misterio,7.6,46.0,56.0,0
+2375,943.0,saw,james wan,2004.0,103.0,thriller,7.6,46.0,56.0,0
+2376,944.0,office space,mike judge,1999.0,89.0,comedia,7.6,68.0,10.82,0
+2377,945.0,moneyball,bennett miller,2011.0,133.0,biografia,7.6,87.0,75.61,0
+2378,945.0,moneyball,bennett miller,2011.0,133.0,drama,7.6,87.0,75.61,0
+2379,945.0,moneyball,bennett miller,2011.0,133.0,deportes,7.6,87.0,75.61,0
+2380,946.0,a star is born,bradley cooper,2018.0,136.0,drama,7.6,88.0,215.29,0
+2381,946.0,a star is born,bradley cooper,2018.0,136.0,musica,7.6,88.0,215.29,0
+2382,946.0,a star is born,bradley cooper,2018.0,136.0,romance,7.6,88.0,215.29,0
+2383,947.0,the butterfly effect,eric bress,2004.0,113.0,drama,7.6,30.0,57.94,0
+2384,947.0,the butterfly effect,eric bress,2004.0,113.0,ciencia ficcion,7.6,30.0,57.94,0
+2385,947.0,the butterfly effect,eric bress,2004.0,113.0,thriller,7.6,30.0,57.94,0
+2386,948.0,inside man,spike lee,2006.0,129.0,crimen,7.6,76.0,88.51,0
+2387,948.0,inside man,spike lee,2006.0,129.0,drama,7.6,76.0,88.51,0
+2388,948.0,inside man,spike lee,2006.0,129.0,misterio,7.6,76.0,88.51,0
+2389,949.0,star wars: episode iii - revenge of the sith,george lucas,2005.0,140.0,accion,7.6,68.0,380.26,0
+2390,949.0,star wars: episode iii - revenge of the sith,george lucas,2005.0,140.0,aventura,7.6,68.0,380.26,0
+2391,949.0,star wars: episode iii - revenge of the sith,george lucas,2005.0,140.0,fantasia,7.6,68.0,380.26,0
+2392,950.0,stardust,matthew vaughn,2007.0,127.0,aventura,7.6,66.0,38.63,0
+2393,950.0,stardust,matthew vaughn,2007.0,127.0,familiar,7.6,66.0,38.63,0
+2394,950.0,stardust,matthew vaughn,2007.0,127.0,fantasia,7.6,66.0,38.63,0
+2395,951.0,true grit,ethan coen,2010.0,110.0,drama,7.6,80.0,171.24,0
+2396,951.0,true grit,ethan coen,2010.0,110.0,western,7.6,80.0,171.24,0
+2397,952.0,kung fu panda,mark osborne,2008.0,92.0,animacion,7.6,74.0,215.43,0
+2398,952.0,kung fu panda,mark osborne,2008.0,92.0,accion,7.6,74.0,215.43,0
+2399,952.0,kung fu panda,mark osborne,2008.0,92.0,aventura,7.6,74.0,215.43,0
+2400,953.0,minority report,steven spielberg,2002.0,145.0,accion,7.6,80.0,132.07,0
+2401,953.0,minority report,steven spielberg,2002.0,145.0,crimen,7.6,80.0,132.07,0
+2402,953.0,minority report,steven spielberg,2002.0,145.0,misterio,7.6,80.0,132.07,0
+2403,954.0,hell or high water,david mackenzie,2016.0,102.0,crimen,7.6,88.0,26.86,0
+2404,954.0,hell or high water,david mackenzie,2016.0,102.0,drama,7.6,88.0,26.86,0
+2405,954.0,hell or high water,david mackenzie,2016.0,102.0,thriller,7.6,88.0,26.86,0
+2406,955.0,the blind side,john lee hancock,2009.0,129.0,biografia,7.6,53.0,255.96,0
+2407,955.0,the blind side,john lee hancock,2009.0,129.0,drama,7.6,53.0,255.96,0
+2408,955.0,the blind side,john lee hancock,2009.0,129.0,deportes,7.6,53.0,255.96,0
+2409,956.0,eastern promises,david cronenberg,2007.0,100.0,crimen,7.6,83.0,17.11,0
+2410,956.0,eastern promises,david cronenberg,2007.0,100.0,drama,7.6,83.0,17.11,0
+2411,956.0,eastern promises,david cronenberg,2007.0,100.0,thriller,7.6,83.0,17.11,0
+2412,957.0,the others,alejandro amenabar,2001.0,104.0,terror,7.6,74.0,96.52,0
+2413,957.0,the others,alejandro amenabar,2001.0,104.0,misterio,7.6,74.0,96.52,0
+2414,957.0,the others,alejandro amenabar,2001.0,104.0,thriller,7.6,74.0,96.52,0
+2415,958.0,the birds,alfred hitchcock,1963.0,119.0,drama,7.6,90.0,11.4,0
+2416,958.0,the birds,alfred hitchcock,1963.0,119.0,terror,7.6,90.0,11.4,0
+2417,958.0,the birds,alfred hitchcock,1963.0,119.0,misterio,7.6,90.0,11.4,0
+2418,959.0,mulan,tony bancroft,1998.0,87.0,animacion,7.6,71.0,120.62,0
+2419,959.0,mulan,tony bancroft,1998.0,87.0,aventura,7.6,71.0,120.62,0
+2420,959.0,mulan,tony bancroft,1998.0,87.0,comedia,7.6,71.0,120.62,0
+2421,960.0,the fly,david cronenberg,1986.0,96.0,drama,7.6,79.0,40.46,0
+2422,960.0,the fly,david cronenberg,1986.0,96.0,terror,7.6,79.0,40.46,0
+2423,960.0,the fly,david cronenberg,1986.0,96.0,ciencia ficcion,7.6,79.0,40.46,0
+2424,961.0,lethal weapon,richard donner,1987.0,109.0,accion,7.6,68.0,65.21,0
+2425,961.0,lethal weapon,richard donner,1987.0,109.0,crimen,7.6,68.0,65.21,0
+2426,961.0,lethal weapon,richard donner,1987.0,109.0,thriller,7.6,68.0,65.21,0
+2427,962.0,what we do in the shadows,jemaine clement,2014.0,86.0,comedia,7.6,76.0,3.33,0
+2428,962.0,what we do in the shadows,jemaine clement,2014.0,86.0,terror,7.6,76.0,3.33,0
+2429,963.0,the mitchells vs the machines,michael rianda,2021.0,114.0,animacion,7.6,81.0,0.0,0
+2430,963.0,the mitchells vs the machines,michael rianda,2021.0,114.0,aventura,7.6,81.0,0.0,0
+2431,963.0,the mitchells vs the machines,michael rianda,2021.0,114.0,comedia,7.6,81.0,0.0,0
+2432,964.0,the thin red line,terrence malick,1998.0,170.0,drama,7.6,78.0,36.4,0
+2433,964.0,the thin red line,terrence malick,1998.0,170.0,historia,7.6,78.0,36.4,0
+2434,964.0,the thin red line,terrence malick,1998.0,170.0,guerra,7.6,78.0,36.4,0
+2435,965.0,despicable me,pierre coffin,2010.0,95.0,animacion,7.6,72.0,251.51,0
+2436,965.0,despicable me,pierre coffin,2010.0,95.0,aventura,7.6,72.0,251.51,0
+2437,965.0,despicable me,pierre coffin,2010.0,95.0,comedia,7.6,72.0,251.51,0
+2438,966.0,searching,aneesh chaganty,2018.0,102.0,drama,7.6,71.0,26.02,0
+2439,966.0,searching,aneesh chaganty,2018.0,102.0,misterio,7.6,71.0,26.02,0
+2440,966.0,searching,aneesh chaganty,2018.0,102.0,thriller,7.6,71.0,26.02,0
+2441,967.0,the raid: redemption,gareth evans,2011.0,101.0,accion,7.6,73.0,4.11,0
+2442,967.0,the raid: redemption,gareth evans,2011.0,101.0,crimen,7.6,73.0,4.11,0
+2443,967.0,the raid: redemption,gareth evans,2011.0,101.0,thriller,7.6,73.0,4.11,0
+2444,968.0,the road warrior,george miller,1981.0,96.0,accion,7.6,77.0,12.47,0
+2445,968.0,the road warrior,george miller,1981.0,96.0,aventura,7.6,77.0,12.47,0
+2446,968.0,the road warrior,george miller,1981.0,96.0,ciencia ficcion,7.6,77.0,12.47,0
+2447,969.0,dark city,alex proyas,1998.0,100.0,fantasia,7.6,66.0,14.38,0
+2448,969.0,dark city,alex proyas,1998.0,100.0,misterio,7.6,66.0,14.38,0
+2449,969.0,dark city,alex proyas,1998.0,100.0,ciencia ficcion,7.6,66.0,14.38,0
+2450,970.0,gone baby gone,ben affleck,2007.0,114.0,crimen,7.6,72.0,20.3,0
+2451,970.0,gone baby gone,ben affleck,2007.0,114.0,drama,7.6,72.0,20.3,0
+2452,970.0,gone baby gone,ben affleck,2007.0,114.0,misterio,7.6,72.0,20.3,0
+2453,971.0,the skin i live in,pedro almoda3var,2011.0,120.0,drama,7.6,70.0,3.19,0
+2454,971.0,the skin i live in,pedro almoda3var,2011.0,120.0,terror,7.6,70.0,3.19,0
+2455,971.0,the skin i live in,pedro almoda3var,2011.0,120.0,misterio,7.6,70.0,3.19,0
+2456,972.0,ponyo,hayao miyazaki,2008.0,101.0,animacion,7.6,86.0,15.09,0
+2457,972.0,ponyo,hayao miyazaki,2008.0,101.0,aventura,7.6,86.0,15.09,0
+2458,972.0,ponyo,hayao miyazaki,2008.0,101.0,comedia,7.6,86.0,15.09,0
+2459,973.0,the jungle book,wolfgang reitherman,1967.0,78.0,animacion,7.6,65.0,141.84,0
+2460,973.0,the jungle book,wolfgang reitherman,1967.0,78.0,aventura,7.6,65.0,141.84,0
+2461,973.0,the jungle book,wolfgang reitherman,1967.0,78.0,comedia,7.6,65.0,141.84,0
+2462,974.0,enter the dragon,robert clouse,1973.0,102.0,accion,7.6,83.0,25.0,0
+2463,974.0,enter the dragon,robert clouse,1973.0,102.0,crimen,7.6,83.0,25.0,0
+2464,974.0,enter the dragon,robert clouse,1973.0,102.0,thriller,7.6,83.0,25.0,0
+2465,975.0,end of watch,david ayer,2012.0,109.0,accion,7.6,68.0,41.0,0
+2466,975.0,end of watch,david ayer,2012.0,109.0,aventura,7.6,68.0,41.0,0
+2467,975.0,end of watch,david ayer,2012.0,109.0,crimen,7.6,68.0,41.0,0
+2468,976.0,dark waters,todd haynes,2019.0,126.0,biografia,7.6,73.0,0.0,0
+2469,976.0,dark waters,todd haynes,2019.0,126.0,drama,7.6,73.0,0.0,0
+2470,976.0,dark waters,todd haynes,2019.0,126.0,historia,7.6,73.0,0.0,0
+2471,977.0,dawn of the planet of the apes,matt reeves,2014.0,130.0,accion,7.6,79.0,208.55,0
+2472,977.0,dawn of the planet of the apes,matt reeves,2014.0,130.0,aventura,7.6,79.0,208.55,0
+2473,977.0,dawn of the planet of the apes,matt reeves,2014.0,130.0,drama,7.6,79.0,208.55,0
+2474,978.0,i am sam,jessie nelson,2001.0,132.0,drama,7.6,28.0,40.31,0
+2475,979.0,match point,woody allen,2005.0,124.0,drama,7.6,72.0,23.09,0
+2476,979.0,match point,woody allen,2005.0,124.0,romance,7.6,72.0,23.09,0
+2477,979.0,match point,woody allen,2005.0,124.0,thriller,7.6,72.0,23.09,0
+2478,980.0,the bridges of madison county,clint eastwood,1995.0,135.0,drama,7.6,69.0,71.52,0
+2479,980.0,the bridges of madison county,clint eastwood,1995.0,135.0,romance,7.6,69.0,71.52,0
+2480,981.0,after hours,martin scorsese,1985.0,97.0,comedia,7.6,90.0,10.6,0
+2481,981.0,after hours,martin scorsese,1985.0,97.0,crimen,7.6,90.0,10.6,0
+2482,981.0,after hours,martin scorsese,1985.0,97.0,drama,7.6,90.0,10.6,0
+2483,982.0,sabrina,billy wilder,1954.0,113.0,comedia,7.6,72.0,0.0,0
+2484,982.0,sabrina,billy wilder,1954.0,113.0,drama,7.6,72.0,0.0,0
+2485,982.0,sabrina,billy wilder,1954.0,113.0,romance,7.6,72.0,0.0,0
+2486,983.0,die hard with a vengeance,john mctiernan,1995.0,128.0,accion,7.6,58.0,100.01,0
+2487,983.0,die hard with a vengeance,john mctiernan,1995.0,128.0,aventura,7.6,58.0,100.01,0
+2488,983.0,die hard with a vengeance,john mctiernan,1995.0,128.0,thriller,7.6,58.0,100.01,0
+2489,984.0,rebel without a cause,nicholas ray,1955.0,111.0,drama,7.6,89.0,0.0,0
+2490,985.0,snow white and the seven dwarfs,william cottrell,1937.0,83.0,animacion,7.6,96.0,184.93,0
+2491,985.0,snow white and the seven dwarfs,william cottrell,1937.0,83.0,aventura,7.6,96.0,184.93,0
+2492,985.0,snow white and the seven dwarfs,william cottrell,1937.0,83.0,familiar,7.6,96.0,184.93,0
+2493,986.0,from here to eternity,fred zinnemann,1953.0,118.0,drama,7.6,85.0,30.5,0
+2494,986.0,from here to eternity,fred zinnemann,1953.0,118.0,romance,7.6,85.0,30.5,0
+2495,986.0,from here to eternity,fred zinnemann,1953.0,118.0,guerra,7.6,85.0,30.5,0
+2496,987.0,50/50,jonathan levine,2011.0,100.0,comedia,7.6,72.0,35.01,0
+2497,987.0,50/50,jonathan levine,2011.0,100.0,drama,7.6,72.0,35.01,0
+2498,987.0,50/50,jonathan levine,2011.0,100.0,romance,7.6,72.0,35.01,0
+2499,988.0,barton fink,joel coen,1991.0,116.0,comedia,7.6,69.0,6.15,0
+2500,988.0,barton fink,joel coen,1991.0,116.0,drama,7.6,69.0,6.15,0
+2501,988.0,barton fink,joel coen,1991.0,116.0,thriller,7.6,69.0,6.15,0
+2502,989.0,21 grams,alejandro g. iaarritu,2003.0,124.0,crimen,7.6,70.0,16.29,0
+2503,989.0,21 grams,alejandro g. iaarritu,2003.0,124.0,drama,7.6,70.0,16.29,0
+2504,989.0,21 grams,alejandro g. iaarritu,2003.0,124.0,thriller,7.6,70.0,16.29,0
+2505,990.0,united 93,paul greengrass,2006.0,111.0,accion,7.6,90.0,31.57,0
+2506,990.0,united 93,paul greengrass,2006.0,111.0,drama,7.6,90.0,31.57,0
+2507,990.0,united 93,paul greengrass,2006.0,111.0,historia,7.6,90.0,31.57,0
+2508,991.0,the last king of scotland,kevin macdonald,2006.0,123.0,biografia,7.6,74.0,17.61,0
+2509,991.0,the last king of scotland,kevin macdonald,2006.0,123.0,drama,7.6,74.0,17.61,0
+2510,991.0,the last king of scotland,kevin macdonald,2006.0,123.0,historia,7.6,74.0,17.61,0
+2511,992.0,25th hour,spike lee,2002.0,135.0,drama,7.6,69.0,13.06,0
+2512,993.0,the taking of pelham one two three,joseph sargent,1974.0,104.0,accion,7.6,68.0,2.49,0
+2513,993.0,the taking of pelham one two three,joseph sargent,1974.0,104.0,crimen,7.6,68.0,2.49,0
+2514,993.0,the taking of pelham one two three,joseph sargent,1974.0,104.0,thriller,7.6,68.0,2.49,0
+2515,994.0,control,anton corbijn,2007.0,122.0,biografia,7.6,78.0,0.87,0
+2516,994.0,control,anton corbijn,2007.0,122.0,drama,7.6,78.0,0.87,0
+2517,994.0,control,anton corbijn,2007.0,122.0,musica,7.6,78.0,0.87,0
+2518,995.0,a very long engagement,jean-pierre jeunet,2004.0,133.0,drama,7.6,76.0,6.17,0
+2519,995.0,a very long engagement,jean-pierre jeunet,2004.0,133.0,misterio,7.6,76.0,6.17,0
+2520,995.0,a very long engagement,jean-pierre jeunet,2004.0,133.0,romance,7.6,76.0,6.17,0
+2521,996.0,shine,scott hicks,1996.0,105.0,biografia,7.6,87.0,35.81,0
+2522,996.0,shine,scott hicks,1996.0,105.0,drama,7.6,87.0,35.81,0
+2523,996.0,shine,scott hicks,1996.0,105.0,musica,7.6,87.0,35.81,0
+2524,997.0,philomena,stephen frears,2013.0,98.0,biografia,7.6,77.0,37.71,0
+2525,997.0,philomena,stephen frears,2013.0,98.0,comedia,7.6,77.0,37.71,0
+2526,997.0,philomena,stephen frears,2013.0,98.0,drama,7.6,77.0,37.71,0
+2527,998.0,the invisible man,james whale,1933.0,71.0,terror,7.6,87.0,0.0,0
+2528,998.0,the invisible man,james whale,1933.0,71.0,ciencia ficcion,7.6,87.0,0.0,0
+2529,999.0,cell 211,daniel monza3n,2009.0,113.0,accion,7.6,0.0,0.0,0
+2530,999.0,cell 211,daniel monza3n,2009.0,113.0,crimen,7.6,0.0,0.0,0
+2531,999.0,cell 211,daniel monza3n,2009.0,113.0,drama,7.6,0.0,0.0,0
